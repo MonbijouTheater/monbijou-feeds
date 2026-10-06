@@ -1,1 +1,42 @@
+name: Spielplan aktualisieren
 
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feeds
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Spielplan auslesen
+        run: python scrape.py "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
+
+      - name: Aenderungen speichern
+        run: |
+          git config user.name  "spielplan-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "Keine Aenderungen."
+          else
+            git commit -m "Spielplan aktualisiert $(TZ=Europe/Berlin date '+%d.%m.%Y %H:%M')"
+            git push
+          fi
