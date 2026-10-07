@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07T14:44:37.262784+02:00",
+  "generated": "2026-10-07T20:41:08.343619+02:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -1996,9 +1996,9 @@
       "title": "Hänsel und Gretel & Der Froschkönig",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1463232734",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -4965,7 +4965,7 @@
         },
         {
           "start": "2026-12-11T16:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Hänsel und Gretel & Der Froschkönig",
           "subtitle": "Nur für Erwachsene"
         },
