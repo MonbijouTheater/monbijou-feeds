@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T11:45:53.345948+02:00",
+  "generated": "2026-10-07T14:44:37.262784+02:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -2587,6 +2587,20 @@
       "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
       "sold_out": true,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
+      "description": ""
+    },
+    {
+      "uid": "3809c0ed56a19cfc@monbijou-feeds",
+      "start": "2026-12-17T11:00:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1221199413",
+      "info_url": "",
+      "sold_out": false,
       "english": false,
       "audience": "schule",
       "series": "Märchen für Kitas & Schulen",
@@ -6148,6 +6162,12 @@
           "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-17T11:00:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
         {
           "start": "2026-12-18T09:30:00+01:00",
