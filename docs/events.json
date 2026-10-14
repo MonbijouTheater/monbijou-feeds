@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13T20:47:25.007538+02:00",
+  "generated": "2026-10-14T15:02:14.477097+02:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -1226,9 +1226,9 @@
       "title": "Schneewittchen für Erwachsene & Frau Holle",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1624282551",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -2346,9 +2346,9 @@
       "title": "Märchen für Kinder",
       "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
       "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1340610356",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "schule",
       "series": "Märchen für Kitas & Schulen",
@@ -4725,7 +4725,7 @@
         },
         {
           "start": "2026-12-03T17:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Schneewittchen für Erwachsene & Frau Holle",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6135,7 +6135,7 @@
         },
         {
           "start": "2026-12-15T09:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
