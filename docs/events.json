@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T15:02:14.477097+02:00",
+  "generated": "2026-10-15T15:06:13.979112+02:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -790,13 +790,13 @@
       "uid": "3e342b18eb0567bb@monbijou-feeds",
       "start": "2026-11-26T17:30:00+01:00",
       "title": "Christmas Carol - Gastspiel",
-      "subtitle": "Sprache - Englisch",
+      "subtitle": "Sprache - Englisch Für Kinder und familien",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/1462863908",
       "info_url": "",
       "sold_out": false,
       "english": true,
-      "audience": "sonstige",
+      "audience": "familie",
       "series": "Christmas Carol - Gastspiel",
       "description": ""
     },
@@ -1070,13 +1070,13 @@
       "uid": "91aed836347d8d17@monbijou-feeds",
       "start": "2026-11-29T16:00:00+01:00",
       "title": "Christmas Carol - Gastspiel",
-      "subtitle": "Sprache - Englisch",
+      "subtitle": "Sprache - Englisch Für Kinder und familien",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/1332148483",
       "info_url": "",
       "sold_out": false,
       "english": true,
-      "audience": "sonstige",
+      "audience": "familie",
       "series": "Christmas Carol - Gastspiel",
       "description": ""
     },
@@ -1386,20 +1386,6 @@
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
-      "description": ""
-    },
-    {
-      "uid": "d71766af4e885a7c@monbijou-feeds",
-      "start": "2026-12-04T21:15:00+01:00",
-      "title": "Christmas Carol - Gastspiel",
-      "subtitle": "Nur für Erwachsene - Sprache Englisch",
-      "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-183845925",
-      "info_url": "",
-      "sold_out": false,
-      "english": true,
-      "audience": "erwachsene",
-      "series": "Christmas Carol - Gastspiel",
       "description": ""
     },
     {
@@ -6270,7 +6256,6 @@
       "subtitles": [
         "Für Kinder und Familien - Sprache Englisch",
         "Nur für Erwachsene - Sprache Englisch",
-        "Sprache - Englisch",
         "Sprache - Englisch Für Kinder und familien",
         "Sprache - Englisch Nur für Erwachsene"
       ],
@@ -6286,19 +6271,13 @@
           "start": "2026-11-26T17:30:00+01:00",
           "sold_out": false,
           "title": "Christmas Carol - Gastspiel",
-          "subtitle": "Sprache - Englisch"
+          "subtitle": "Sprache - Englisch Für Kinder und familien"
         },
         {
           "start": "2026-11-29T16:00:00+01:00",
           "sold_out": false,
           "title": "Christmas Carol - Gastspiel",
-          "subtitle": "Sprache - Englisch"
-        },
-        {
-          "start": "2026-12-04T21:15:00+01:00",
-          "sold_out": false,
-          "title": "Christmas Carol - Gastspiel",
-          "subtitle": "Nur für Erwachsene - Sprache Englisch"
+          "subtitle": "Sprache - Englisch Für Kinder und familien"
         },
         {
           "start": "2026-12-06T16:00:00+01:00",
