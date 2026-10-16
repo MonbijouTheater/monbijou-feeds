@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T15:06:13.979112+02:00",
+  "generated": "2026-10-16T15:04:57.161540+02:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -218,9 +218,9 @@
       "title": "Die Schneekönigin & Hase und Igel",
       "subtitle": "Märchen für Schulen & Kitas - ab 4 Jahre",
       "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1058287500",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "schule",
       "series": "Märchen für Kitas & Schulen",
@@ -694,9 +694,9 @@
       "title": "Fischer un sin Fru & Kaiser Trojan hat Ziegenohren",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1311601153",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -4561,7 +4561,7 @@
         },
         {
           "start": "2026-11-25T17:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Fischer un sin Fru & Kaiser Trojan hat Ziegenohren",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6009,11 +6009,11 @@
         "Rotkäppchen & Hase und Igel",
         "Schneewittchen für Kinder & Hase und Igel"
       ],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1058287500",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/2058353427",
       "dates": [
         {
           "start": "2026-11-17T09:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Die Schneekönigin & Hase und Igel",
           "subtitle": "Märchen für Schulen & Kitas - ab 4 Jahre"
         },
