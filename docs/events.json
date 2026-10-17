@@ -1,21 +1,7 @@
 {
-  "generated": "2026-10-17T03:01:34.051972+02:00",
+  "generated": "2026-10-17T20:48:48.925400+02:00",
   "source": "https://monbijou.billeto.net",
   "events": [
-    {
-      "uid": "3df039d1f9c90931@monbijou-feeds",
-      "start": "2026-10-17T20:30:00+02:00",
-      "title": "Darkest Thoughts",
-      "subtitle": "",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=Monbijou&utm_source=monbijou&utm_medium=referral&utm_campaign=partners&utm_content=darkest-thoughts",
-      "info_url": "https://monbijou.billeto.net/eventinfo/31443",
-      "sold_out": false,
-      "english": true,
-      "audience": "sonstige",
-      "series": "Darkest Thoughts",
-      "description": "„Darkest Thoughts“, Berlins improvisierte Comedy-Gameshow, zieht ins Monbijou! Und das ist der Clou: Nach einer ersten Runde Stand-up von Berlins besten englischsprachigen Comedians gehört die Show dir. Schreib anonym auf einen Zettel, was dir gerade im Kopf herumgeht – Die Comedians machen daraus Stand-up, live und ungeprobt, direkt auf der Bühne. Sprache: Englisch"
-    },
     {
       "uid": "f08b8b73c6e36b29@monbijou-feeds",
       "start": "2026-10-24T20:30:00+02:00",
@@ -4291,7 +4277,7 @@
     {
       "title": "Darkest Thoughts",
       "guid": "75687a79a39e4217",
-      "first": "2026-10-17T20:30:00+02:00",
+      "first": "2026-10-24T20:30:00+02:00",
       "subtitles": [],
       "venues": [
         "Märchenhütten"
@@ -4301,12 +4287,6 @@
       "titles": [],
       "ticket_url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=Monbijou&utm_source=monbijou&utm_medium=referral&utm_campaign=partners&utm_content=darkest-thoughts",
       "dates": [
-        {
-          "start": "2026-10-17T20:30:00+02:00",
-          "sold_out": false,
-          "title": "Darkest Thoughts",
-          "subtitle": ""
-        },
         {
           "start": "2026-10-24T20:30:00+02:00",
           "sold_out": false,
