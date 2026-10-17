@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T15:04:57.161540+02:00",
+  "generated": "2026-10-17T03:01:34.051972+02:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -694,9 +694,9 @@
       "title": "Fischer un sin Fru & Kaiser Trojan hat Ziegenohren",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1311601153",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1151,6 +1151,20 @@
       "description": ""
     },
     {
+      "uid": "841001e097479399@monbijou-feeds",
+      "start": "2026-12-01T19:30:00+01:00",
+      "title": "Hänsel und Gretel & Fischer un sin Fru",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Jacobhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-857237370",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
       "uid": "9ff44745989e7450@monbijou-feeds",
       "start": "2026-12-02T17:30:00+01:00",
       "title": "Frau Holle und König Drosselbart",
@@ -1389,6 +1403,20 @@
       "description": ""
     },
     {
+      "uid": "d71766af4e885a7c@monbijou-feeds",
+      "start": "2026-12-04T21:15:00+01:00",
+      "title": "Christmas Carol - Gastspiel",
+      "subtitle": "Nur für Erwachsene - Sprache Englisch",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-183845925",
+      "info_url": "",
+      "sold_out": false,
+      "english": true,
+      "audience": "erwachsene",
+      "series": "Christmas Carol - Gastspiel",
+      "description": ""
+    },
+    {
       "uid": "eec6f069c447a2f4@monbijou-feeds",
       "start": "2026-12-05T14:00:00+01:00",
       "title": "Fischer un sin Frau & Schneewittchen für Kinder",
@@ -1521,6 +1549,20 @@
       "subtitle": "Für Kinder und Familien",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1135249597",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "familie",
+      "series": "Märchen für Kinder & Familien",
+      "description": ""
+    },
+    {
+      "uid": "174d64e7337b57f3@monbijou-feeds",
+      "start": "2026-12-06T15:30:00+01:00",
+      "title": "Frau Holle für Kinder & Hase und Igel",
+      "subtitle": "Für Kinder und Familien",
+      "venue": "Jacobhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-129167544",
       "info_url": "",
       "sold_out": false,
       "english": false,
@@ -4561,7 +4603,7 @@
         },
         {
           "start": "2026-11-25T17:30:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Fischer un sin Fru & Kaiser Trojan hat Ziegenohren",
           "subtitle": "Nur für Erwachsene"
         },
@@ -4689,6 +4731,12 @@
           "start": "2026-12-01T19:00:00+01:00",
           "sold_out": true,
           "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2026-12-01T19:30:00+01:00",
+          "sold_out": false,
+          "title": "Hänsel und Gretel & Fischer un sin Fru",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -5590,6 +5638,7 @@
         "Fischer un sin Fru & Hänsel und Gretel",
         "Frau Holle für Kinder & Der Schneekönigen",
         "Frau Holle für Kinder & Fischer un sin Fru",
+        "Frau Holle für Kinder & Hase und Igel",
         "Hase und Igel & Der Wolf und die 7 Geißlein",
         "Hase und Igel & Der gestiefelte Kater",
         "Hase und Igel & Rotkäppchen",
@@ -5723,6 +5772,12 @@
           "start": "2026-12-06T14:00:00+01:00",
           "sold_out": false,
           "title": "Die Schneekönigin & Frau Holle für Kinder",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-06T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Frau Holle für Kinder & Hase und Igel",
           "subtitle": "Für Kinder und Familien"
         },
         {
@@ -6278,6 +6333,12 @@
           "sold_out": false,
           "title": "Christmas Carol - Gastspiel",
           "subtitle": "Sprache - Englisch Für Kinder und familien"
+        },
+        {
+          "start": "2026-12-04T21:15:00+01:00",
+          "sold_out": false,
+          "title": "Christmas Carol - Gastspiel",
+          "subtitle": "Nur für Erwachsene - Sprache Englisch"
         },
         {
           "start": "2026-12-06T16:00:00+01:00",
