@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T15:05:29.817763+02:00",
+  "generated": "2026-10-20T21:00:24.910817+02:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -904,9 +904,9 @@
       "title": "Rotkäppchen & Rumpelstilzchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/2126970551",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -4803,6 +4803,90 @@
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
       "description": ""
+    },
+    {
+      "uid": "854469cc25316b41@monbijou-feeds",
+      "start": "2027-01-09T19:30:00+01:00",
+      "title": "Von dem Machandelboom & König Drosselbart",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/2088112669",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "4bb42d68a4b64752@monbijou-feeds",
+      "start": "2027-01-10T14:00:00+01:00",
+      "title": "Hase und Igel & Der gestiefelte Kater",
+      "subtitle": "Für Kinder und Familien",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/782358953",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "familie",
+      "series": "Märchen für Kinder & Familien",
+      "description": ""
+    },
+    {
+      "uid": "9c964217a7ee6424@monbijou-feeds",
+      "start": "2027-01-10T16:00:00+01:00",
+      "title": "Fischer un sin Fru & Hänsel und Gretel",
+      "subtitle": "Für Kinder und Familien",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-649322088",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "familie",
+      "series": "Märchen für Kinder & Familien",
+      "description": ""
+    },
+    {
+      "uid": "1ddc891418a9f1ec@monbijou-feeds",
+      "start": "2027-01-10T17:00:00+01:00",
+      "title": "Der Wolf und die 7 Geißlein & Tapfere Schneiderlein",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Jacobhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1003308178",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "dc0b08bab063bfe2@monbijou-feeds",
+      "start": "2027-01-10T17:30:00+01:00",
+      "title": "Hänsel und Gretel & Der Froschkönig",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1002306284",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "5afb322f6fb0fba4@monbijou-feeds",
+      "start": "2027-01-10T19:30:00+01:00",
+      "title": "Der Froschkönig & Hänsel und Gretel",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-54701330",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
     }
   ],
   "productions": [
@@ -4930,6 +5014,7 @@
         "Der Froschkönig & Von dem Machandelboom",
         "Der Wolf und der 7 Geißlein & Rotkäppchen",
         "Der Wolf und die 7 Geißlein & Der Froschkönig",
+        "Der Wolf und die 7 Geißlein & Tapfere Schneiderlein",
         "Die Bremer Stadtmusikanten & Blaubart",
         "Die Bremer Stadtmusikanten & Frau Holle",
         "Die Bremer Stadtmusikanten & Hänsel und Gretel",
@@ -4997,7 +5082,8 @@
         "Von dem Machandelboom & Der Froschkönig",
         "Von dem Machandelboom & Die Bremer Stadtmusikanten",
         "Von dem Machandelboom & Hänsel und Gretel",
-        "Von dem Machandelboom & Kaiser Trojan hat Ziegenohren"
+        "Von dem Machandelboom & Kaiser Trojan hat Ziegenohren",
+        "Von dem Machandelboom & König Drosselbart"
       ],
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1724113450",
       "dates": [
@@ -5189,7 +5275,7 @@
         },
         {
           "start": "2026-11-27T19:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Rotkäppchen & Rumpelstilzchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6326,6 +6412,30 @@
           "sold_out": false,
           "title": "Tapfere Schneiderlein & Rumpelstilzchen",
           "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-09T19:30:00+01:00",
+          "sold_out": false,
+          "title": "Von dem Machandelboom & König Drosselbart",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-10T17:00:00+01:00",
+          "sold_out": false,
+          "title": "Der Wolf und die 7 Geißlein & Tapfere Schneiderlein",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-10T17:30:00+01:00",
+          "sold_out": false,
+          "title": "Hänsel und Gretel & Der Froschkönig",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-10T19:30:00+01:00",
+          "sold_out": false,
+          "title": "Der Froschkönig & Hänsel und Gretel",
+          "subtitle": "Nur für Erwachsene"
         }
       ]
     },
@@ -6784,6 +6894,18 @@
           "start": "2027-01-09T15:30:00+01:00",
           "sold_out": false,
           "title": "Schneewittchen für Kinder & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2027-01-10T14:00:00+01:00",
+          "sold_out": false,
+          "title": "Hase und Igel & Der gestiefelte Kater",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2027-01-10T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Fischer un sin Fru & Hänsel und Gretel",
           "subtitle": "Für Kinder und Familien"
         }
       ]
