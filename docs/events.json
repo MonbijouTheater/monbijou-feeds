@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T21:00:24.910817+02:00",
+  "generated": "2026-10-21T09:08:22.073656+02:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -1576,9 +1576,9 @@
       "title": "Die Schneekönigin & Frau Holle für Kinder",
       "subtitle": "Für Kinder und Familien",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1135249597",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -6598,7 +6598,7 @@
         },
         {
           "start": "2026-12-06T14:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Die Schneekönigin & Frau Holle für Kinder",
           "subtitle": "Für Kinder und Familien"
         },
