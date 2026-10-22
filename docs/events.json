@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T09:08:22.073656+02:00",
+  "generated": "2026-10-22T15:07:08.713240+02:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -2794,9 +2794,9 @@
       "title": "Frau Holle & Brüderchen und Schwesterchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1808841045",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -5827,7 +5827,7 @@
         },
         {
           "start": "2026-12-18T17:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Frau Holle & Brüderchen und Schwesterchen",
           "subtitle": "Nur für Erwachsene"
         },
