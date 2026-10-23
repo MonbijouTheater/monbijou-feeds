@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:07:08.713240+02:00",
+  "generated": "2026-10-23T15:03:07.433865+02:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -171,9 +171,9 @@
       "description": ""
     },
     {
-      "uid": "370b93d65821d63a@monbijou-feeds",
+      "uid": "7ceb538622f2f4df@monbijou-feeds",
       "start": "2026-11-15T15:30:00+01:00",
-      "title": "Schneewittchen für Kinder & Die Schneekönigen",
+      "title": "Frau Holle für Kinder & Die Schneekönigen",
       "subtitle": "Familienvorstellung",
       "venue": "Jacobhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-88900234",
@@ -6465,6 +6465,7 @@
         "Fischer un sin Fru & Der gestiefelte Kater",
         "Fischer un sin Fru & Hänsel und Gretel",
         "Frau Holle für Kinder & Der Schneekönigen",
+        "Frau Holle für Kinder & Die Schneekönigen",
         "Frau Holle für Kinder & Fischer un sin Fru",
         "Frau Holle für Kinder & Hase und Igel",
         "Hase und Igel & Der Wolf und die 7 Geißlein",
@@ -6478,7 +6479,6 @@
         "Rotkäppchen & Schneewittchen für Kinder",
         "Rotkäppchen & Tapfere Schneiderlein",
         "Schneewittchen & Rotkäppchen",
-        "Schneewittchen für Kinder & Die Schneekönigen",
         "Schneewittchen für Kinder & Hase und Igel",
         "Schneewittchen für Kinder & Tapfere Schneiderlein",
         "Tapfere Schneiderlein & Der Wolf und die 7 Geißlein",
@@ -6491,7 +6491,7 @@
         {
           "start": "2026-11-15T15:30:00+01:00",
           "sold_out": false,
-          "title": "Schneewittchen für Kinder & Die Schneekönigen",
+          "title": "Frau Holle für Kinder & Die Schneekönigen",
           "subtitle": "Familienvorstellung"
         },
         {
