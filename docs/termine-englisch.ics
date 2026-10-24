@@ -8,30 +8,8 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:f08b8b73c6e36b29@monbijou-feeds
-DTSTAMP:20261024T125926Z
-DTSTART:20261024T183000Z
-DTEND:20261024T200000Z
-SUMMARY:Darkest Thoughts
-LOCATION:Märchenhütten\, Monbijou Theater\, Monbijoustraße 3B\, 10117 Be
- rlin
-DESCRIPTION:„Darkest Thoughts“\, Berlins improvisierte Comedy-Gameshow\
- , zieht ins Monbijou! Und das ist der Clou: Nach einer ersten Runde Stand-
- up von Berlins besten englischsprachigen Comedians gehört die Show dir. S
- chreib anonym auf einen Zettel\, was dir gerade im Kopf herumgeht – Die 
- Comedians machen daraus Stand-up\, live und ungeprobt\, direkt auf der Bü
- hne. Sprache: Englisch\nTickets: https://www.universe.com/events/darkest-t
- houghts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3Y
- W86?ref=Monbijou&utm_source=monbijou&utm_medium=referral&utm_campaign=part
- ners&utm_content=darkest-thoughts
-URL:https://www.universe.com/events/darkest-thoughts-improvised-english-sta
- nd-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=Monbijou&utm_source=mo
- nbijou&utm_medium=referral&utm_campaign=partners&utm_content=darkest-thoug
- hts
-END:VEVENT
-BEGIN:VEVENT
 UID:126f2cae8814b1d2@monbijou-feeds
-DTSTAMP:20261024T125926Z
+DTSTAMP:20261024T185237Z
 DTSTART:20261031T193000Z
 DTEND:20261031T210000Z
 SUMMARY:Darkest Thoughts
@@ -53,7 +31,7 @@ URL:https://www.universe.com/events/darkest-thoughts-improvised-english-sta
 END:VEVENT
 BEGIN:VEVENT
 UID:d6d26ff1afd3f990@monbijou-feeds
-DTSTAMP:20261024T125926Z
+DTSTAMP:20261024T185237Z
 DTSTART:20261107T193000Z
 DTEND:20261107T210000Z
 SUMMARY:Darkest Thoughts
@@ -71,8 +49,27 @@ URL:https://www.eventim.de/en/artist/epic-comedy-berlin/darkest-thoughts-co
  medy-epic-comedy-berlin-4052381/?affiliate=BLN#calendar-start=2026-09
 END:VEVENT
 BEGIN:VEVENT
+UID:d5a8506caca2fedc@monbijou-feeds
+DTSTAMP:20261024T185237Z
+DTSTART:20261123T183000Z
+DTEND:20261123T200000Z
+SUMMARY:Shakespeariment - Romeo and Juliet
+LOCATION:Jacobhütte\, Monbijou Theater\, Monbijoustraße 3B\, 10117 Berlin
+DESCRIPTION:Shakespeare. The Real Deal. An ensemble of English speaking act
+ ors. One rehearsal\, one show.\nShakespeare. The Real Deal. One Night Only
+ . New Venue! Even More Seats! A bunch of classical English-speaking actors
+  stranded in Berlin in search of an audience for this beautiful\, oft-misu
+ nderstood language. They prepare their parts\, have one rehearsal and then
+  bring Shakespeare to life in the stunning Monbijou Theater. Best of all\,
+  it's free! (obviously we will still pass the hat\, cultural funding has b
+ een cut and rents are still going up! so bring cash\, we're happy to make 
+ change for 50s and 100s)\nTickets: https://monbijou.billeto.net/basket/eve
+ nt/43/1236681798
+URL:https://monbijou.billeto.net/basket/event/43/1236681798
+END:VEVENT
+BEGIN:VEVENT
 UID:3e342b18eb0567bb@monbijou-feeds
-DTSTAMP:20261024T125926Z
+DTSTAMP:20261024T185237Z
 DTSTART:20261126T163000Z
 DTEND:20261126T180000Z
 SUMMARY:Christmas Carol - Gastspiel
@@ -84,7 +81,7 @@ URL:https://monbijou.billeto.net/basket/event/43/1462863908
 END:VEVENT
 BEGIN:VEVENT
 UID:91aed836347d8d17@monbijou-feeds
-DTSTAMP:20261024T125926Z
+DTSTAMP:20261024T185237Z
 DTSTART:20261129T150000Z
 DTEND:20261129T163000Z
 SUMMARY:Christmas Carol - Gastspiel
@@ -96,7 +93,7 @@ URL:https://monbijou.billeto.net/basket/event/43/1332148483
 END:VEVENT
 BEGIN:VEVENT
 UID:d71766af4e885a7c@monbijou-feeds
-DTSTAMP:20261024T125926Z
+DTSTAMP:20261024T185237Z
 DTSTART:20261204T201500Z
 DTEND:20261204T214500Z
 SUMMARY:Christmas Carol - Gastspiel
@@ -108,7 +105,7 @@ URL:https://monbijou.billeto.net/basket/event/43/-183845925
 END:VEVENT
 BEGIN:VEVENT
 UID:b4c591dc222ef41e@monbijou-feeds
-DTSTAMP:20261024T125926Z
+DTSTAMP:20261024T185237Z
 DTSTART:20261206T150000Z
 DTEND:20261206T163000Z
 SUMMARY:Christmas Carol - Gastspiel
@@ -120,7 +117,7 @@ URL:https://monbijou.billeto.net/basket/event/43/888725228
 END:VEVENT
 BEGIN:VEVENT
 UID:8820b3821677232c@monbijou-feeds
-DTSTAMP:20261024T125926Z
+DTSTAMP:20261024T185237Z
 DTSTART:20261213T130000Z
 DTEND:20261213T143000Z
 SUMMARY:Christmas Carol
@@ -132,7 +129,7 @@ URL:https://monbijou.billeto.net/basket/event/43/2052065809
 END:VEVENT
 BEGIN:VEVENT
 UID:c424568dcedb293f@monbijou-feeds
-DTSTAMP:20261024T125926Z
+DTSTAMP:20261024T185237Z
 DTSTART:20261218T213000Z
 DTEND:20261218T230000Z
 SUMMARY:Christmas Carol - Gastspiel
@@ -144,7 +141,7 @@ URL:https://monbijou.billeto.net/basket/event/43/-790195531
 END:VEVENT
 BEGIN:VEVENT
 UID:5db0ce4c394d83d3@monbijou-feeds
-DTSTAMP:20261024T125926Z
+DTSTAMP:20261024T185237Z
 DTSTART:20261223T100000Z
 DTEND:20261223T113000Z
 SUMMARY:Christmas Carol - Gastspiel
@@ -156,7 +153,7 @@ URL:https://monbijou.billeto.net/basket/event/43/-1618939323
 END:VEVENT
 BEGIN:VEVENT
 UID:591b780bd491ebd5@monbijou-feeds
-DTSTAMP:20261024T125926Z
+DTSTAMP:20261024T185237Z
 DTSTART:20261226T201500Z
 DTEND:20261226T214500Z
 SUMMARY:Christmas Carol - Gastspiel
@@ -168,7 +165,7 @@ URL:https://monbijou.billeto.net/basket/event/43/369377007
 END:VEVENT
 BEGIN:VEVENT
 UID:6ea672bc85fd10fb@monbijou-feeds
-DTSTAMP:20261024T125926Z
+DTSTAMP:20261024T185237Z
 DTSTART:20261227T163000Z
 DTEND:20261227T180000Z
 SUMMARY:Christmas Carol - Gastspiel
@@ -180,7 +177,7 @@ URL:https://monbijou.billeto.net/basket/event/43/-1078033392
 END:VEVENT
 BEGIN:VEVENT
 UID:55bec16df003ff15@monbijou-feeds
-DTSTAMP:20261024T125926Z
+DTSTAMP:20261024T185237Z
 DTSTART:20261227T183000Z
 DTEND:20261227T200000Z
 SUMMARY:Christmas Carol - Gastspiel
