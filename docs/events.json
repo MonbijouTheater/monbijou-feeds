@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T20:52:37.617268+02:00",
+  "generated": "2026-10-25T19:53:58.703873+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -36,9 +36,9 @@
       "title": "Knack den Fall !",
       "subtitle": "Zu Gast in den Märchenhütten",
       "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/965749087",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "https://monbijou.billeto.net/eventinfo/31247",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "sonstige",
       "series": "Knack den Fall !",
@@ -5267,7 +5267,7 @@
       "english": false,
       "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!",
       "titles": [],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/965749087",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1601979785",
       "dates": [
         {
           "start": "2026-11-06T19:00:00+01:00",
@@ -5277,7 +5277,7 @@
         },
         {
           "start": "2026-11-07T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Knack den Fall !",
           "subtitle": "Zu Gast in den Märchenhütten"
         },
