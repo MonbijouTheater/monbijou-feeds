@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T02:20:27.363580+01:00",
+  "generated": "2026-10-29T14:21:02.997503+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -722,9 +722,9 @@
       "title": "Rotkäppchen & Ayşenbrödel",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-726149977",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -5560,7 +5560,7 @@
         },
         {
           "start": "2026-11-25T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Rotkäppchen & Ayşenbrödel",
           "subtitle": "Nur für Erwachsene"
         },
