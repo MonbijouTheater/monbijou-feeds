@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T20:10:37.695793+01:00",
+  "generated": "2026-10-29T02:20:27.363580+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -932,9 +932,9 @@
       "title": "Rumpelstilzchen & Ayşenbrödel",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1206244673",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -5620,7 +5620,7 @@
         },
         {
           "start": "2026-11-27T21:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Rumpelstilzchen & Ayşenbrödel",
           "subtitle": "Nur für Erwachsene"
         },
