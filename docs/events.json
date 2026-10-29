@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T14:21:02.997503+01:00",
+  "generated": "2026-10-29T20:12:51.898850+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -163,6 +163,20 @@
       "subtitle": "Familienvorstellung",
       "venue": "Jacobhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-88900234",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "familie",
+      "series": "Märchen für Kinder & Familien",
+      "description": ""
+    },
+    {
+      "uid": "786c5539afbf1200@monbijou-feeds",
+      "start": "2026-11-15T17:30:00+01:00",
+      "title": "Die Schneekönigin & Frau Holle für Kinder",
+      "subtitle": "Familienvorstellung",
+      "venue": "Jacobhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-2121181064",
       "info_url": "",
       "sold_out": false,
       "english": false,
@@ -381,9 +395,9 @@
       "description": ""
     },
     {
-      "uid": "59e917a12a3c7278@monbijou-feeds",
+      "uid": "2cc0a93db63ded6e@monbijou-feeds",
       "start": "2026-11-20T17:30:00+01:00",
-      "title": "Kaiser Trojan hat Ziegenohren / Fischer un sin Fru",
+      "title": "Kaiser Trojan hat Ziegenohren & Fischer un sin Fru",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-260833818",
@@ -820,9 +834,9 @@
       "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-431165179",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -3349,20 +3363,6 @@
       "description": ""
     },
     {
-      "uid": "f0c18bf7f31976a0@monbijou-feeds",
-      "start": "2026-12-22T09:30:00+01:00",
-      "title": "Märchen für Kinder",
-      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-679104154",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "schule",
-      "series": "Märchen für Kitas & Schulen",
-      "description": ""
-    },
-    {
       "uid": "a0e9bc2126fc04b7@monbijou-feeds",
       "start": "2026-12-22T11:00:00+01:00",
       "title": "Märchen für Kinder",
@@ -5223,6 +5223,230 @@
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
       "description": ""
+    },
+    {
+      "uid": "cf4ca28e328ed6d2@monbijou-feeds",
+      "start": "2027-01-20T17:30:00+01:00",
+      "title": "Fischer un sin Fru & Kaiser Trojan hat Ziegenohren",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1577860334",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "ab712bb78ded509e@monbijou-feeds",
+      "start": "2027-01-20T19:00:00+01:00",
+      "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Jacobhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-403427281",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "ed645da88996634c@monbijou-feeds",
+      "start": "2027-01-20T19:30:00+01:00",
+      "title": "Kaiser Trojan hat Ziegenohren / Fischer un sin Fru",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/967690358",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "814a6f26214e9d18@monbijou-feeds",
+      "start": "2027-01-21T17:30:00+01:00",
+      "title": "König Drosselbart & Kaiser Trojan hat Ziegenohren",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-167272301",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "feb4dc63d42337e4@monbijou-feeds",
+      "start": "2027-01-21T19:00:00+01:00",
+      "title": "Ayşenbrödel & Rumpelstilzchen",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Jacobhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1663662563",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "2b8fe9e1f1777527@monbijou-feeds",
+      "start": "2027-01-22T16:00:00+01:00",
+      "title": "Frau Holle & Der Froschkönig",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1212508875",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "87626dc23eb91bdb@monbijou-feeds",
+      "start": "2027-01-22T17:30:00+01:00",
+      "title": "Der Froschkönig & Hänsel und Gretel",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/348635846",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "a1e5dd48916992c7@monbijou-feeds",
+      "start": "2027-01-22T19:00:00+01:00",
+      "title": "Tapfere Schneiderlein & Der Wolf und die 7 Geißlein",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Jacobhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1444467255",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "7d21faa18483a5c3@monbijou-feeds",
+      "start": "2027-01-22T19:30:00+01:00",
+      "title": "Frau Holle & Der Froschkönig",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/450760192",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "62e5cace003412cf@monbijou-feeds",
+      "start": "2027-01-23T16:00:00+01:00",
+      "title": "Der FroschKönig & Fischer un sin Fru",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/988278876",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "a9436ee687b3fd07@monbijou-feeds",
+      "start": "2027-01-23T17:00:00+01:00",
+      "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Jacobhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1513145014",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "ee35f5d606bdc2dd@monbijou-feeds",
+      "start": "2027-01-23T17:30:00+01:00",
+      "title": "Fischer un sin Fru & Hänsel und Gretel",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1930429780",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "0ee386a7bf2cdc34@monbijou-feeds",
+      "start": "2027-01-23T19:00:00+01:00",
+      "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Jacobhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1996011743",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "501d08072507fb77@monbijou-feeds",
+      "start": "2027-01-23T19:30:00+01:00",
+      "title": "Hänsel und Gretel & Fischer un sin Fru",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/809435235",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "513cce1ff039ec45@monbijou-feeds",
+      "start": "2027-01-24T16:00:00+01:00",
+      "title": "Fischer un sin Fru & Hänsel und Gretel",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1350070024",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "2ea457a3bf23183d@monbijou-feeds",
+      "start": "2027-01-25T19:30:00+01:00",
+      "title": "Shakespeariment",
+      "subtitle": "Shakespeare. The Real Deal. An ensemble of English speaking actors. One rehearsal, one show. \"The Tempest\"",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1238565205",
+      "info_url": "https://monbijou.billeto.net/eventinfo/32287",
+      "sold_out": false,
+      "english": true,
+      "audience": "sonstige",
+      "series": "Shakespeariment",
+      "description": "Shakespeare. The Real Deal. One Night Only. New Venue! Even More Seats! A bunch of classical English-speaking actors stranded in Berlin in search of an audience for this beautiful, oft-misunderstood language. They prepare their parts, have one rehearsal and then bring Shakespeare to life in the stunning Monbijou Theater. Best of all, it's free! (obviously we will still pass the hat, cultural funding has been cut and rents are still going up! so bring cash, we're happy to make change for 50s and 100s)"
     }
   ],
   "productions": [
@@ -5359,6 +5583,7 @@
         "Fischer un sin Fru & Kaiser Trojan hat Ziegenohren",
         "Fischer un sin Fru & Von dem Machandelboom",
         "Frau Holle & Brüderchen und Schwesterchen",
+        "Frau Holle & Der Froschkönig",
         "Frau Holle & Die Bremer Stadtmusikanten",
         "Frau Holle & Hänsel und Gretel",
         "Frau Holle & Rumpelstilzchen",
@@ -5501,7 +5726,7 @@
         {
           "start": "2026-11-20T17:30:00+01:00",
           "sold_out": false,
-          "title": "Kaiser Trojan hat Ziegenohren / Fischer un sin Fru",
+          "title": "Kaiser Trojan hat Ziegenohren & Fischer un sin Fru",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -5578,7 +5803,7 @@
         },
         {
           "start": "2026-11-26T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6895,6 +7120,96 @@
           "sold_out": false,
           "title": "Die Bremer Stadtmusikanten & Blaubart",
           "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-20T17:30:00+01:00",
+          "sold_out": false,
+          "title": "Fischer un sin Fru & Kaiser Trojan hat Ziegenohren",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-20T19:00:00+01:00",
+          "sold_out": false,
+          "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-20T19:30:00+01:00",
+          "sold_out": false,
+          "title": "Kaiser Trojan hat Ziegenohren / Fischer un sin Fru",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-21T17:30:00+01:00",
+          "sold_out": false,
+          "title": "König Drosselbart & Kaiser Trojan hat Ziegenohren",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-21T19:00:00+01:00",
+          "sold_out": false,
+          "title": "Ayşenbrödel & Rumpelstilzchen",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-22T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Frau Holle & Der Froschkönig",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-22T17:30:00+01:00",
+          "sold_out": false,
+          "title": "Der Froschkönig & Hänsel und Gretel",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-22T19:00:00+01:00",
+          "sold_out": false,
+          "title": "Tapfere Schneiderlein & Der Wolf und die 7 Geißlein",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-22T19:30:00+01:00",
+          "sold_out": false,
+          "title": "Frau Holle & Der Froschkönig",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-23T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Der FroschKönig & Fischer un sin Fru",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-23T17:00:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-23T17:30:00+01:00",
+          "sold_out": false,
+          "title": "Fischer un sin Fru & Hänsel und Gretel",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-23T19:00:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-23T19:30:00+01:00",
+          "sold_out": false,
+          "title": "Hänsel und Gretel & Fischer un sin Fru",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2027-01-24T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Fischer un sin Fru & Hänsel und Gretel",
+          "subtitle": "Nur für Erwachsene"
         }
       ]
     },
@@ -6952,6 +7267,12 @@
           "start": "2026-11-15T15:30:00+01:00",
           "sold_out": false,
           "title": "Frau Holle für Kinder & Die Schneekönigen",
+          "subtitle": "Familienvorstellung"
+        },
+        {
+          "start": "2026-11-15T17:30:00+01:00",
+          "sold_out": false,
+          "title": "Die Schneekönigin & Frau Holle für Kinder",
           "subtitle": "Familienvorstellung"
         },
         {
@@ -7583,12 +7904,6 @@
           "subtitle": "Vorstellungen für Kindergärten und Schulen"
         },
         {
-          "start": "2026-12-22T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
           "start": "2026-12-22T11:00:00+01:00",
           "sold_out": false,
           "title": "Märchen für Kinder",
@@ -7805,6 +8120,29 @@
           "sold_out": false,
           "title": "Die Bremer Stadtmusikanten & Frau Holle",
           "subtitle": ""
+        }
+      ]
+    },
+    {
+      "title": "Shakespeariment",
+      "guid": "aedced9f86f38b3a",
+      "first": "2027-01-25T19:30:00+01:00",
+      "subtitles": [
+        "Shakespeare. The Real Deal. An ensemble of English speaking actors. One rehearsal, one show. \"The Tempest\""
+      ],
+      "venues": [
+        "Märchenhütten"
+      ],
+      "english": true,
+      "description": "Shakespeare. The Real Deal. One Night Only. New Venue! Even More Seats! A bunch of classical English-speaking actors stranded in Berlin in search of an audience for this beautiful, oft-misunderstood language. They prepare their parts, have one rehearsal and then bring Shakespeare to life in the stunning Monbijou Theater. Best of all, it's free! (obviously we will still pass the hat, cultural funding has been cut and rents are still going up! so bring cash, we're happy to make change for 50s and 100s)",
+      "titles": [],
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1238565205",
+      "dates": [
+        {
+          "start": "2027-01-25T19:30:00+01:00",
+          "sold_out": false,
+          "title": "Shakespeariment",
+          "subtitle": "Shakespeare. The Real Deal. An ensemble of English speaking actors. One rehearsal, one show. \"The Tempest\""
         }
       ]
     }
