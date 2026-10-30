@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T20:12:51.898850+01:00",
+  "generated": "2026-10-30T02:23:27.844862+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -2220,9 +2220,9 @@
       "title": "Schneewittchen für Erwachsene & Tapfere Schneiderlein",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-283128775",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -6229,7 +6229,7 @@
         },
         {
           "start": "2026-12-12T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Schneewittchen für Erwachsene & Tapfere Schneiderlein",
           "subtitle": "Nur für Erwachsene"
         },
