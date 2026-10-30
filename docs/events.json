@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T02:23:27.844862+01:00",
+  "generated": "2026-10-30T08:21:40.436111+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -3391,9 +3391,9 @@
       "description": ""
     },
     {
-      "uid": "2a87affb71ca3657@monbijou-feeds",
+      "uid": "25164be05e6cb5eb@monbijou-feeds",
       "start": "2026-12-22T14:00:00+01:00",
-      "title": "Frau Holle für Kinder & Der Schneekönigen",
+      "title": "Frau Holle für Kinder & Die Schneekönigen",
       "subtitle": "Für Kinder und Familien",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-86125959",
@@ -3531,9 +3531,9 @@
       "description": ""
     },
     {
-      "uid": "c8ca7d753d2b7094@monbijou-feeds",
+      "uid": "b56366c86d68c09a@monbijou-feeds",
       "start": "2026-12-23T14:00:00+01:00",
-      "title": "Frau Holle für Kinder & Der Schneekönigen",
+      "title": "Frau Holle für Kinder & Die Schneekönigen",
       "subtitle": "Für Kinder und Familien",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/234705347",
@@ -7530,7 +7530,7 @@
         {
           "start": "2026-12-22T14:00:00+01:00",
           "sold_out": false,
-          "title": "Frau Holle für Kinder & Der Schneekönigen",
+          "title": "Frau Holle für Kinder & Die Schneekönigen",
           "subtitle": "Für Kinder und Familien"
         },
         {
@@ -7548,7 +7548,7 @@
         {
           "start": "2026-12-23T14:00:00+01:00",
           "sold_out": false,
-          "title": "Frau Holle für Kinder & Der Schneekönigen",
+          "title": "Frau Holle für Kinder & Die Schneekönigen",
           "subtitle": "Für Kinder und Familien"
         },
         {
