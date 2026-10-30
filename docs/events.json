@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T14:17:45.156665+01:00",
+  "generated": "2026-10-30T20:06:24.866161+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -36,9 +36,9 @@
       "title": "Knack den Fall !",
       "subtitle": "Zu Gast in den Märchenhütten",
       "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/965749087",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "https://monbijou.billeto.net/eventinfo/31247",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "sonstige",
       "series": "Knack den Fall !",
@@ -73,9 +73,9 @@
       "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!"
     },
     {
-      "uid": "92152848b23aef60@monbijou-feeds",
+      "uid": "a1b996e773ec0453@monbijou-feeds",
       "start": "2026-11-13T19:00:00+01:00",
-      "title": "Kaiser Trojan hat Ziegenohren / Fischer un sin Fru",
+      "title": "Kaiser Trojan hat Ziegenohren & Fischer un sin Fru",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1724113450",
@@ -129,9 +129,9 @@
       "description": ""
     },
     {
-      "uid": "58949a9c0d94825b@monbijou-feeds",
+      "uid": "1f8e52a2d15989ec@monbijou-feeds",
       "start": "2026-11-14T19:00:00+01:00",
-      "title": "Kaiser Trojan hat Ziegenohren / Fischer un sin Fru",
+      "title": "Kaiser Trojan hat Ziegenohren & Fischer un sin Fru",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/1249143042",
@@ -759,9 +759,9 @@
       "description": ""
     },
     {
-      "uid": "ed034cca3df5b879@monbijou-feeds",
+      "uid": "769e95a0245bf152@monbijou-feeds",
       "start": "2026-11-25T19:30:00+01:00",
-      "title": "Kaiser Trojan hat Ziegenohren / Fischer un sin Fru",
+      "title": "Kaiser Trojan hat Ziegenohren & Fischer un sin Fru",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-844607635",
@@ -779,20 +779,6 @@
       "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre",
       "venue": "Märchenhütten",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1586782307",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "schule",
-      "series": "Märchen für Kitas & Schulen",
-      "description": ""
-    },
-    {
-      "uid": "73bb108af2384fce@monbijou-feeds",
-      "start": "2026-11-26T11:00:00+01:00",
-      "title": "Märchen für Kinder",
-      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/2007617011",
       "info_url": "",
       "sold_out": false,
       "english": false,
@@ -2122,9 +2108,9 @@
       "title": "Hänsel und Gretel & Der Froschkönig",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1463232734",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -5599,7 +5585,7 @@
         },
         {
           "start": "2026-11-07T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Knack den Fall !",
           "subtitle": "Zu Gast in den Märchenhütten"
         },
@@ -5746,7 +5732,7 @@
         {
           "start": "2026-11-13T19:00:00+01:00",
           "sold_out": false,
-          "title": "Kaiser Trojan hat Ziegenohren / Fischer un sin Fru",
+          "title": "Kaiser Trojan hat Ziegenohren & Fischer un sin Fru",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -5764,7 +5750,7 @@
         {
           "start": "2026-11-14T19:00:00+01:00",
           "sold_out": false,
-          "title": "Kaiser Trojan hat Ziegenohren / Fischer un sin Fru",
+          "title": "Kaiser Trojan hat Ziegenohren & Fischer un sin Fru",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -5890,7 +5876,7 @@
         {
           "start": "2026-11-25T19:30:00+01:00",
           "sold_out": false,
-          "title": "Kaiser Trojan hat Ziegenohren / Fischer un sin Fru",
+          "title": "Kaiser Trojan hat Ziegenohren & Fischer un sin Fru",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6291,7 +6277,7 @@
         },
         {
           "start": "2026-12-11T16:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Hänsel und Gretel & Der Froschkönig",
           "subtitle": "Nur für Erwachsene"
         },
@@ -7934,12 +7920,6 @@
           "sold_out": false,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
-        },
-        {
-          "start": "2026-11-26T11:00:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
         {
           "start": "2026-12-01T09:30:00+01:00",
