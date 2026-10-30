@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T08:21:40.436111+01:00",
+  "generated": "2026-10-30T14:17:45.156665+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -112,6 +112,20 @@
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "3b570cdbc321151c@monbijou-feeds",
+      "start": "2026-11-14T17:00:00+01:00",
+      "title": "Schneewittchen für Kinder & Hase und Igel",
+      "subtitle": "Für Kinder und Familien",
+      "venue": "Jacobhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/274878138",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "familie",
+      "series": "Märchen für Kinder & Familien",
       "description": ""
     },
     {
@@ -1067,9 +1081,9 @@
       "description": ""
     },
     {
-      "uid": "f8cba02118c41315@monbijou-feeds",
+      "uid": "9c9bef6b90c31458@monbijou-feeds",
       "start": "2026-11-28T21:15:00+01:00",
-      "title": "Von dem Machandelboom & Die Bremer Stadtmusikanten",
+      "title": "Von dem Machandelboom & Hänsel und Gretel",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/709920529",
@@ -1179,6 +1193,20 @@
       "description": ""
     },
     {
+      "uid": "4434d2b3c5131f82@monbijou-feeds",
+      "start": "2026-12-01T17:00:00+01:00",
+      "title": "Ayşenbrödel & Brüderchen und Schwesterchen",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Jacobhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/546788844",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
       "uid": "1f15c35253916113@monbijou-feeds",
       "start": "2026-12-01T19:00:00+01:00",
       "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
@@ -1204,6 +1232,20 @@
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "3acd5e40f750f6ec@monbijou-feeds",
+      "start": "2026-12-02T16:00:00+01:00",
+      "title": "Die Schneekönigin & Frau Holle für Kinder",
+      "subtitle": "Für Kinder und Familien",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1139641605",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "familie",
+      "series": "Märchen für Kinder & Familien",
       "description": ""
     },
     {
@@ -1739,6 +1781,20 @@
       "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!"
     },
     {
+      "uid": "aed3965a4723be4d@monbijou-feeds",
+      "start": "2026-12-08T16:00:00+01:00",
+      "title": "Die Schneekönigin & Frau Holle für Kinder",
+      "subtitle": "Für Kinder und Familien",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-684121415",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "familie",
+      "series": "Märchen für Kinder & Familien",
+      "description": ""
+    },
+    {
       "uid": "859b3b398b98ff5c@monbijou-feeds",
       "start": "2026-12-08T17:00:00+01:00",
       "title": "Schneewittchen für Erwachsene & Brüderchen und Schwesterchen",
@@ -1779,6 +1835,20 @@
       "audience": "sonstige",
       "series": "Knack den Fall !",
       "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!"
+    },
+    {
+      "uid": "a6d57b96f4219660@monbijou-feeds",
+      "start": "2026-12-08T19:30:00+01:00",
+      "title": "Der Froschkönig & Kaiser Trojan hat Ziegenohren",
+      "subtitle": "Nur für Erwachsene",
+      "venue": "Jacobhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-523288631",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "erwachsene",
+      "series": "Märchen für Erwachsene",
+      "description": ""
     },
     {
       "uid": "ff238836cc310c91@monbijou-feeds",
@@ -2066,9 +2136,9 @@
       "title": "Tapfere Schneiderlein & Ayşenbrödel",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1063982917",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -2142,6 +2212,20 @@
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "93de4e269863ba86@monbijou-feeds",
+      "start": "2026-12-12T11:00:00+01:00",
+      "title": "Frau Holle für Kinder & Die Schneekönigen",
+      "subtitle": "Für Kinder und Familien",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1974393176",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "familie",
+      "series": "Märchen für Kinder & Familien",
       "description": ""
     },
     {
@@ -3355,6 +3439,20 @@
       "subtitle": "Vorstellungen für Kindergärten und Schulen",
       "venue": "Märchenhütten",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1271316018",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
+      "description": ""
+    },
+    {
+      "uid": "f0c18bf7f31976a0@monbijou-feeds",
+      "start": "2026-12-22T09:30:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-679104154",
       "info_url": "",
       "sold_out": false,
       "english": false,
@@ -5546,6 +5644,7 @@
       "english": false,
       "description": "",
       "titles": [
+        "Ayşenbrödel & Brüderchen und Schwesterchen",
         "Ayşenbrödel & Rotkäppchen",
         "Ayşenbrödel & Rumpelstilzchen",
         "Ayşenbrödel & Tapfere Schneiderlein",
@@ -5638,7 +5737,6 @@
         "Von dem Machandelbaum & Der Froschkönig",
         "Von dem Machandelboom & Blaubart",
         "Von dem Machandelboom & Der Froschkönig",
-        "Von dem Machandelboom & Die Bremer Stadtmusikanten",
         "Von dem Machandelboom & Hänsel und Gretel",
         "Von dem Machandelboom & Kaiser Trojan hat Ziegenohren",
         "Von dem Machandelboom & König Drosselbart"
@@ -5888,7 +5986,7 @@
         {
           "start": "2026-11-28T21:15:00+01:00",
           "sold_out": false,
-          "title": "Von dem Machandelboom & Die Bremer Stadtmusikanten",
+          "title": "Von dem Machandelboom & Hänsel und Gretel",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -5907,6 +6005,12 @@
           "start": "2026-11-29T19:30:00+01:00",
           "sold_out": false,
           "title": "König Drosselbart & Frau Holle",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
+          "start": "2026-12-01T17:00:00+01:00",
+          "sold_out": false,
+          "title": "Ayşenbrödel & Brüderchen und Schwesterchen",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6102,6 +6206,12 @@
           "subtitle": "Nur für Erwachsene"
         },
         {
+          "start": "2026-12-08T19:30:00+01:00",
+          "sold_out": false,
+          "title": "Der Froschkönig & Kaiser Trojan hat Ziegenohren",
+          "subtitle": "Nur für Erwachsene"
+        },
+        {
           "start": "2026-12-09T16:00:00+01:00",
           "sold_out": false,
           "title": "König Drosselbart & Kaiser Trojan hat Ziegenohren",
@@ -6187,7 +6297,7 @@
         },
         {
           "start": "2026-12-11T17:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Tapfere Schneiderlein & Ayşenbrödel",
           "subtitle": "Nur für Erwachsene"
         },
@@ -7216,7 +7326,7 @@
     {
       "title": "Märchen für Kinder & Familien",
       "guid": "3121280d99efaf0a",
-      "first": "2026-11-15T15:30:00+01:00",
+      "first": "2026-11-14T17:00:00+01:00",
       "subtitles": [
         "Familienvorstellung",
         "Für Kinder und Familien"
@@ -7261,8 +7371,14 @@
         "Tapfere Schneiderlein & Rotkäppchen",
         "Tapfere Schneiderlein & Schneewittchen für Kinder"
       ],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-88900234",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/274878138",
       "dates": [
+        {
+          "start": "2026-11-14T17:00:00+01:00",
+          "sold_out": false,
+          "title": "Schneewittchen für Kinder & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
         {
           "start": "2026-11-15T15:30:00+01:00",
           "sold_out": false,
@@ -7354,6 +7470,12 @@
           "subtitle": "Für Kinder und Familien"
         },
         {
+          "start": "2026-12-02T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Die Schneekönigin & Frau Holle für Kinder",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
           "start": "2026-12-03T14:00:00+01:00",
           "sold_out": false,
           "title": "Rotkäppchen & Der Gestiefelte Kater",
@@ -7390,6 +7512,12 @@
           "subtitle": "Für Kinder und Familien"
         },
         {
+          "start": "2026-12-08T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Die Schneekönigin & Frau Holle für Kinder",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
           "start": "2026-12-09T15:30:00+01:00",
           "sold_out": false,
           "title": "Der gestiefelte Kater & Hase und Igel",
@@ -7405,6 +7533,12 @@
           "start": "2026-12-11T15:30:00+01:00",
           "sold_out": false,
           "title": "Hase und Igel & Tapfere Schneiderlein",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-12T11:00:00+01:00",
+          "sold_out": false,
+          "title": "Frau Holle für Kinder & Die Schneekönigen",
           "subtitle": "Für Kinder und Familien"
         },
         {
@@ -7902,6 +8036,12 @@
           "sold_out": false,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen"
+        },
+        {
+          "start": "2026-12-22T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
         {
           "start": "2026-12-22T11:00:00+01:00",
