@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T20:06:24.866161+01:00",
+  "generated": "2026-10-31T20:04:02.842714+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -974,9 +974,9 @@
       "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
       "subtitle": "Familienvorstellung",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/221067949",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -7433,7 +7433,7 @@
         },
         {
           "start": "2026-11-28T15:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
           "subtitle": "Familienvorstellung"
         },
