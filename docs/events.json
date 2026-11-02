@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T20:04:08.632610+01:00",
+  "generated": "2026-11-02T14:30:40.391137+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -736,9 +736,9 @@
       "title": "Rotkäppchen & Ayşenbrödel",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-726149977",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -960,9 +960,9 @@
       "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
       "subtitle": "Familienvorstellung",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/221067949",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -1814,9 +1814,9 @@
       "title": "Schneewittchen für Erwachsene & Brüderchen und Schwesterchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-483078551",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1876,20 +1876,6 @@
       "english": false,
       "audience": "schule",
       "series": "Märchen für Kitas & Schulen",
-      "description": ""
-    },
-    {
-      "uid": "ff238836cc310c91@monbijou-feeds",
-      "start": "2026-12-09T15:30:00+01:00",
-      "title": "Der gestiefelte Kater & Hase und Igel",
-      "subtitle": "Für Kinder und Familien",
-      "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1936607860",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "familie",
-      "series": "Märchen für Kinder & Familien",
       "description": ""
     },
     {
@@ -2016,20 +2002,6 @@
       "english": false,
       "audience": "schule",
       "series": "Märchen für Kitas & Schulen",
-      "description": ""
-    },
-    {
-      "uid": "4d6445c733541dfd@monbijou-feeds",
-      "start": "2026-12-10T16:00:00+01:00",
-      "title": "Schneewittchen für Kinder & Hase und Igel",
-      "subtitle": "Für Kinder und Familien",
-      "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1611873575",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "familie",
-      "series": "Märchen für Kinder & Familien",
       "description": ""
     },
     {
@@ -5919,7 +5891,7 @@
         },
         {
           "start": "2026-11-25T19:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Rotkäppchen & Ayşenbrödel",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6231,7 +6203,7 @@
         },
         {
           "start": "2026-12-08T17:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Schneewittchen für Erwachsene & Brüderchen und Schwesterchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -7483,7 +7455,7 @@
         },
         {
           "start": "2026-11-28T15:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
           "subtitle": "Familienvorstellung"
         },
@@ -7551,18 +7523,6 @@
           "start": "2026-12-08T16:00:00+01:00",
           "sold_out": false,
           "title": "Die Schneekönigin & Frau Holle für Kinder",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-09T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Der gestiefelte Kater & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-10T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Schneewittchen für Kinder & Hase und Igel",
           "subtitle": "Für Kinder und Familien"
         },
         {
