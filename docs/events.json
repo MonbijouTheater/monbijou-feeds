@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T14:27:45.179597+01:00",
+  "generated": "2026-11-03T20:14:49.093464+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -1120,6 +1120,20 @@
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "354d993eba9f7372@monbijou-feeds",
+      "start": "2026-11-30T11:00:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/526936690",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
       "description": ""
     },
     {
@@ -2276,9 +2290,9 @@
       "title": "Schneewittchen für Erwachsene & Tapfere Schneiderlein",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-283128775",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -6299,7 +6313,7 @@
         },
         {
           "start": "2026-12-12T19:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Schneewittchen für Erwachsene & Tapfere Schneiderlein",
           "subtitle": "Nur für Erwachsene"
         },
@@ -7882,6 +7896,12 @@
           "sold_out": false,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
+        },
+        {
+          "start": "2026-11-30T11:00:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
         {
           "start": "2026-12-01T09:30:00+01:00",
