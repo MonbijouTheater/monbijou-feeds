@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T08:34:08.369976+01:00",
+  "generated": "2026-11-03T14:27:45.179597+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -29,20 +29,6 @@
       "audience": "sonstige",
       "series": "Knack den Fall !",
       "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!"
-    },
-    {
-      "uid": "d6d26ff1afd3f990@monbijou-feeds",
-      "start": "2026-11-07T20:30:00+01:00",
-      "title": "Darkest Thoughts",
-      "subtitle": "",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://www.eventim.de/en/artist/epic-comedy-berlin/darkest-thoughts-comedy-epic-comedy-berlin-4052381/?affiliate=BLN#calendar-start=2026-09",
-      "info_url": "https://monbijou.billeto.net/eventinfo/31448",
-      "sold_out": false,
-      "english": true,
-      "audience": "sonstige",
-      "series": "Darkest Thoughts",
-      "description": "„Darkest Thoughts“, Berlins improvisierte Comedy-Gameshow, zieht ins Monbijou! Und das ist der Clou: Nach einer ersten Runde Stand-up von Berlins besten englischsprachigen Comedians gehört die Show dir. Schreib anonym auf einen Zettel, was dir gerade im Kopf herumgeht – Die Comedians machen daraus Stand-up, live und ungeprobt, direkt auf der Bühne. Sprache: Englisch"
     },
     {
       "uid": "60f612f2b20b88ff@monbijou-feeds",
@@ -560,20 +546,6 @@
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
-      "description": ""
-    },
-    {
-      "uid": "4c33e4938ec30e57@monbijou-feeds",
-      "start": "2026-11-22T16:00:00+01:00",
-      "title": "Hase und Igel & Der gestiefelte Kater",
-      "subtitle": "",
-      "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-657099084",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "sonstige",
-      "series": "Hase und Igel & Der gestiefelte Kater",
       "description": ""
     },
     {
@@ -1814,9 +1786,9 @@
       "title": "Schneewittchen für Erwachsene & Brüderchen und Schwesterchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-483078551",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1996,9 +1968,9 @@
       "title": "Märchen für Kinder",
       "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre",
       "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/126806525",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "schule",
       "series": "Märchen für Kitas & Schulen",
@@ -2024,9 +1996,9 @@
       "title": "Der Froschkönig & Frau Holle",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1253129525",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -5617,27 +5589,6 @@
       ]
     },
     {
-      "title": "Darkest Thoughts",
-      "guid": "75687a79a39e4217",
-      "first": "2026-11-07T20:30:00+01:00",
-      "subtitles": [],
-      "venues": [
-        "Märchenhütten"
-      ],
-      "english": true,
-      "description": "„Darkest Thoughts“, Berlins improvisierte Comedy-Gameshow, zieht ins Monbijou! Und das ist der Clou: Nach einer ersten Runde Stand-up von Berlins besten englischsprachigen Comedians gehört die Show dir. Schreib anonym auf einen Zettel, was dir gerade im Kopf herumgeht – Die Comedians machen daraus Stand-up, live und ungeprobt, direkt auf der Bühne. Sprache: Englisch",
-      "titles": [],
-      "ticket_url": "https://www.eventim.de/en/artist/epic-comedy-berlin/darkest-thoughts-comedy-epic-comedy-berlin-4052381/?affiliate=BLN#calendar-start=2026-09",
-      "dates": [
-        {
-          "start": "2026-11-07T20:30:00+01:00",
-          "sold_out": false,
-          "title": "Darkest Thoughts",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
       "title": "Märchen für Erwachsene",
       "guid": "c0db31bfd1fa43b9",
       "first": "2026-11-13T19:00:00+01:00",
@@ -6204,7 +6155,7 @@
         },
         {
           "start": "2026-12-08T17:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Schneewittchen für Erwachsene & Brüderchen und Schwesterchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6264,7 +6215,7 @@
         },
         {
           "start": "2026-12-10T17:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Der Froschkönig & Frau Holle",
           "subtitle": "Nur für Erwachsene"
         },
@@ -7982,7 +7933,7 @@
         },
         {
           "start": "2026-12-10T11:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
         },
@@ -8098,27 +8049,6 @@
           "sold_out": false,
           "title": "Lange Nacht des Märchenerzählens 2026",
           "subtitle": "Premiere in die Märchenhütten - Zauberflöte & Sternenharfe - ab 8 Jahren"
-        }
-      ]
-    },
-    {
-      "title": "Hase und Igel & Der gestiefelte Kater",
-      "guid": "c78894107603ef20",
-      "first": "2026-11-22T16:00:00+01:00",
-      "subtitles": [],
-      "venues": [
-        "Wilhelmhütte"
-      ],
-      "english": false,
-      "description": "",
-      "titles": [],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-657099084",
-      "dates": [
-        {
-          "start": "2026-11-22T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Hase und Igel & Der gestiefelte Kater",
-          "subtitle": ""
         }
       ]
     },
