@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T14:30:40.391137+01:00",
+  "generated": "2026-11-03T08:34:08.369976+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -146,7 +146,7 @@
       "uid": "76bc54af00bdb537@monbijou-feeds",
       "start": "2026-11-14T21:00:00+01:00",
       "title": "Fischer un sin Fru & Kaiser Trojan hat Ziegenohren",
-      "subtitle": "Nur für Erwachsene",
+      "subtitle": "Nur für Erwachsene - Mit einem Glühwein aufs Haus.",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/1594786215",
       "info_url": "",
@@ -1042,7 +1042,7 @@
       "uid": "54f08b28a8dec2c5@monbijou-feeds",
       "start": "2026-11-28T21:00:00+01:00",
       "title": "Schneewittchen für Erwachsene & Frau Holle",
-      "subtitle": "Nur für Erwachsene",
+      "subtitle": "Nur für Erwachsene - Mit einem Glühwein aufs Haus.",
       "venue": "Jacobhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/431151986",
       "info_url": "",
@@ -5642,7 +5642,8 @@
       "guid": "c0db31bfd1fa43b9",
       "first": "2026-11-13T19:00:00+01:00",
       "subtitles": [
-        "Nur für Erwachsene"
+        "Nur für Erwachsene",
+        "Nur für Erwachsene - Mit einem Glühwein aufs Haus."
       ],
       "venues": [
         "Jacobhütte",
@@ -5785,7 +5786,7 @@
           "start": "2026-11-14T21:00:00+01:00",
           "sold_out": false,
           "title": "Fischer un sin Fru & Kaiser Trojan hat Ziegenohren",
-          "subtitle": "Nur für Erwachsene"
+          "subtitle": "Nur für Erwachsene - Mit einem Glühwein aufs Haus."
         },
         {
           "start": "2026-11-15T19:30:00+01:00",
@@ -5989,7 +5990,7 @@
           "start": "2026-11-28T21:00:00+01:00",
           "sold_out": false,
           "title": "Schneewittchen für Erwachsene & Frau Holle",
-          "subtitle": "Nur für Erwachsene"
+          "subtitle": "Nur für Erwachsene - Mit einem Glühwein aufs Haus."
         },
         {
           "start": "2026-11-28T21:15:00+01:00",
