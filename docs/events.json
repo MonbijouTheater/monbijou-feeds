@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T20:14:49.093464+01:00",
+  "generated": "2026-11-04T14:29:04.180119+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -1226,9 +1226,9 @@
       "title": "Frau Holle und König Drosselbart",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/2137177399",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1857,6 +1857,20 @@
       "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
       "venue": "Märchenhütten",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/671784594",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
+      "description": ""
+    },
+    {
+      "uid": "1fd0d1b2048ce3b5@monbijou-feeds",
+      "start": "2026-12-09T11:00:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-728609010",
       "info_url": "",
       "sold_out": false,
       "english": false,
@@ -6001,7 +6015,7 @@
         },
         {
           "start": "2026-12-02T17:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Frau Holle und König Drosselbart",
           "subtitle": "Nur für Erwachsene"
         },
@@ -7935,6 +7949,12 @@
         },
         {
           "start": "2026-12-09T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-09T11:00:00+01:00",
           "sold_out": false,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
