@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T00:41:50.952089+01:00",
+  "generated": "2026-11-06T07:58:18.470823+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -2534,6 +2534,20 @@
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "e6170d745c93fc5a@monbijou-feeds",
+      "start": "2026-12-14T09:30:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/",
+      "info_url": "",
+      "sold_out": true,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
       "description": ""
     },
     {
@@ -8033,6 +8047,12 @@
         },
         {
           "start": "2026-12-11T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-14T09:30:00+01:00",
           "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
