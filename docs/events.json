@@ -1,21 +1,7 @@
 {
-  "generated": "2026-11-06T07:58:18.470823+01:00",
+  "generated": "2026-11-06T20:30:33.514339+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
-    {
-      "uid": "65b2dc815e984dd1@monbijou-feeds",
-      "start": "2026-11-06T19:00:00+01:00",
-      "title": "Knack den Fall !",
-      "subtitle": "Zu Gast in den Märchenhütten",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/",
-      "info_url": "https://monbijou.billeto.net/eventinfo/31246",
-      "sold_out": true,
-      "english": false,
-      "audience": "sonstige",
-      "series": "Knack den Fall !",
-      "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!"
-    },
     {
       "uid": "1f912468e931e0ff@monbijou-feeds",
       "start": "2026-11-07T19:00:00+01:00",
@@ -2111,20 +2097,6 @@
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/1563311588",
       "info_url": "",
       "sold_out": false,
-      "english": false,
-      "audience": "schule",
-      "series": "Märchen für Kitas & Schulen",
-      "description": ""
-    },
-    {
-      "uid": "e056cfb71de7ccd9@monbijou-feeds",
-      "start": "2026-12-11T09:30:00+01:00",
-      "title": "Märchen für Kinder",
-      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/",
-      "info_url": "",
-      "sold_out": true,
       "english": false,
       "audience": "schule",
       "series": "Märchen für Kitas & Schulen",
@@ -5621,7 +5593,7 @@
     {
       "title": "Knack den Fall !",
       "guid": "22e79777b3712124",
-      "first": "2026-11-06T19:00:00+01:00",
+      "first": "2026-11-07T19:00:00+01:00",
       "subtitles": [
         "Zu Gast in den Märchenhütten",
         "Zu Gast in den Märchenhütten um 19:30"
@@ -5634,12 +5606,6 @@
       "titles": [],
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/1601979785",
       "dates": [
-        {
-          "start": "2026-11-06T19:00:00+01:00",
-          "sold_out": true,
-          "title": "Knack den Fall !",
-          "subtitle": "Zu Gast in den Märchenhütten"
-        },
         {
           "start": "2026-11-07T19:00:00+01:00",
           "sold_out": true,
@@ -8042,12 +8008,6 @@
         {
           "start": "2026-12-11T09:30:00+01:00",
           "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-11T09:30:00+01:00",
-          "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
