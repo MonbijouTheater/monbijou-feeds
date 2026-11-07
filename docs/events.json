@@ -1,21 +1,7 @@
 {
-  "generated": "2026-11-07T14:15:36.336429+01:00",
+  "generated": "2026-11-07T22:58:27.767872+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
-    {
-      "uid": "1f912468e931e0ff@monbijou-feeds",
-      "start": "2026-11-07T19:00:00+01:00",
-      "title": "Knack den Fall !",
-      "subtitle": "Zu Gast in den Märchenhütten",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/",
-      "info_url": "https://monbijou.billeto.net/eventinfo/31247",
-      "sold_out": true,
-      "english": false,
-      "audience": "sonstige",
-      "series": "Knack den Fall !",
-      "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!"
-    },
     {
       "uid": "60f612f2b20b88ff@monbijou-feeds",
       "start": "2026-11-08T19:00:00+01:00",
@@ -2103,6 +2089,20 @@
       "description": ""
     },
     {
+      "uid": "e056cfb71de7ccd9@monbijou-feeds",
+      "start": "2026-12-11T09:30:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/",
+      "info_url": "",
+      "sold_out": true,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
+      "description": ""
+    },
+    {
       "uid": "f58bfe7b301dc6b5@monbijou-feeds",
       "start": "2026-12-11T14:00:00+01:00",
       "title": "Fischer un sin Fru & Der Froschkönig",
@@ -2276,9 +2276,9 @@
       "title": "Frau Holle für Kinder & Der Schneekönigen",
       "subtitle": "Für Kinder und Familien",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1165196052",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -5593,7 +5593,7 @@
     {
       "title": "Knack den Fall !",
       "guid": "22e79777b3712124",
-      "first": "2026-11-07T19:00:00+01:00",
+      "first": "2026-11-08T19:00:00+01:00",
       "subtitles": [
         "Zu Gast in den Märchenhütten",
         "Zu Gast in den Märchenhütten um 19:30"
@@ -5606,12 +5606,6 @@
       "titles": [],
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/1601979785",
       "dates": [
-        {
-          "start": "2026-11-07T19:00:00+01:00",
-          "sold_out": true,
-          "title": "Knack den Fall !",
-          "subtitle": "Zu Gast in den Märchenhütten"
-        },
         {
           "start": "2026-11-08T19:00:00+01:00",
           "sold_out": false,
@@ -7553,7 +7547,7 @@
         },
         {
           "start": "2026-12-12T16:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Frau Holle für Kinder & Der Schneekönigen",
           "subtitle": "Für Kinder und Familien"
         },
@@ -8008,6 +8002,12 @@
         {
           "start": "2026-12-11T09:30:00+01:00",
           "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-11T09:30:00+01:00",
+          "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
