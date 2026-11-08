@@ -1,21 +1,7 @@
 {
-  "generated": "2026-11-07T22:58:27.767872+01:00",
+  "generated": "2026-11-08T23:14:55.723418+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
-    {
-      "uid": "60f612f2b20b88ff@monbijou-feeds",
-      "start": "2026-11-08T19:00:00+01:00",
-      "title": "Knack den Fall !",
-      "subtitle": "Zu Gast in den Märchenhütten",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1601979785",
-      "info_url": "https://monbijou.billeto.net/eventinfo/31473",
-      "sold_out": false,
-      "english": false,
-      "audience": "sonstige",
-      "series": "Knack den Fall !",
-      "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!"
-    },
     {
       "uid": "a1b996e773ec0453@monbijou-feeds",
       "start": "2026-11-13T19:00:00+01:00",
@@ -428,9 +414,9 @@
       "title": "Der gestiefelte Kater & Schneewittchen für Kinder",
       "subtitle": "Familienvorstellung",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1989593771",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -479,9 +465,9 @@
       "description": "Ein Ton, der durch die Winternacht zieht. Eine Melodie, die den richtigen Weg weist. Eine Harfe, deren Saiten von den Sternen berührt werden. Seit jeher erzählen Märchen auch von der Kraft der Musik. Sie tröstet, verführt, schützt und öffnet Türen zu Welten, die nur der Fantasie zugänglich sind. Unter dem Motto „Zauberflöte & Sternenharfe“ lädt die Lange Nacht des Märchenerzählens in diesem Jahr erstmals in die Märchenhütten ein. Zwischen den kleinen Holzhäusern, knisternden Feuerstellen und den alten Bäumen des Monbijouparks entsteht eine Welt, in der Theater, Märchen und Musik miteinander in einen Dialog treten. In den Hütten begegnen Sie den Märchen der Brüder Grimm. Am Feuer erklingt Musik, die Ihnen den Weg durch die Märchennacht weist. Seit mehr als zwanzig Jahren laden die Märchenhütten dazu ein, den Winter mit Theater zu verbringen. Aus alten Märchen werden lebendige Begegnungen, aus Zuschauern Mitreisende und aus einem Abend Erinnerungen, die noch lange nachklingen. Vielleicht beginnt das schönste Märchen dieses Winters bereits in dem Augenblick, in dem Sie durch das Tor der Märchenhütten treten und bereit sind, dem Klang der Märchen zu folgen. Künstlerische Leitung: Marlies Ludwig und André Lewski."
     },
     {
-      "uid": "d7763d526eba2b61@monbijou-feeds",
+      "uid": "3a085384167611be@monbijou-feeds",
       "start": "2026-11-21T19:30:00+01:00",
-      "title": "Kaiser Trojan hat Ziegenohren & König Drosselbart",
+      "title": "Kaiser Trojan hat Ziegenohren & Hans im Glück",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1574790222",
@@ -563,9 +549,9 @@
       "description": ""
     },
     {
-      "uid": "319db145e11934d2@monbijou-feeds",
+      "uid": "08677ecb333d6caf@monbijou-feeds",
       "start": "2026-11-22T19:30:00+01:00",
-      "title": "König Drosselbart & Von dem Machandelbaum",
+      "title": "Hans im Glück & Von dem Machandelboom",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/794902601",
@@ -857,9 +843,9 @@
       "description": ""
     },
     {
-      "uid": "05a73109f5bb1e12@monbijou-feeds",
+      "uid": "df9b2a1041c45097@monbijou-feeds",
       "start": "2026-11-27T19:30:00+01:00",
-      "title": "König Drosselbart & Die Bremer Stadtmusikanten",
+      "title": "Hans im Glück & Die Bremer Stadtmusikanten",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/667922722",
@@ -1053,9 +1039,9 @@
       "description": ""
     },
     {
-      "uid": "703fac92f5092f25@monbijou-feeds",
+      "uid": "c527da8f19e75fb1@monbijou-feeds",
       "start": "2026-11-29T17:30:00+01:00",
-      "title": "Hänsel und Gretel & König Drosselbart",
+      "title": "Hänsel und Gretel & Hans im Glück",
       "subtitle": "Nur für Erwachsene",
       "venue": "Märchenhütten",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1304813479",
@@ -1081,9 +1067,9 @@
       "description": ""
     },
     {
-      "uid": "7925859f07783310@monbijou-feeds",
+      "uid": "a6d864ec8238ffcc@monbijou-feeds",
       "start": "2026-11-29T19:30:00+01:00",
-      "title": "König Drosselbart & Frau Holle",
+      "title": "Hans im Glück & Frau Holle",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/543205100",
@@ -1235,9 +1221,9 @@
       "description": ""
     },
     {
-      "uid": "d7e0d0355e24bbe2@monbijou-feeds",
+      "uid": "c58f309fe4aa33d0@monbijou-feeds",
       "start": "2026-12-02T19:30:00+01:00",
-      "title": "König Drosselbart & Frau Holle",
+      "title": "Hans im Glück & Frau Holle",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-991366293",
@@ -1305,9 +1291,9 @@
       "description": ""
     },
     {
-      "uid": "e940e66be1756c9e@monbijou-feeds",
+      "uid": "b2666da39c21c8c8@monbijou-feeds",
       "start": "2026-12-03T17:30:00+01:00",
-      "title": "Hänsel und Gretel & König Drosselbart",
+      "title": "Hänsel und Gretel & Hans im Glück",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/698815694",
@@ -1333,9 +1319,9 @@
       "description": ""
     },
     {
-      "uid": "d3ec2725f1fe6668@monbijou-feeds",
+      "uid": "b65e8ebced1895d0@monbijou-feeds",
       "start": "2026-12-03T19:30:00+01:00",
-      "title": "König Drosselbart & Frau Holle",
+      "title": "Hans im Glück & Frau Holle",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/590552818",
@@ -1389,9 +1375,9 @@
       "description": ""
     },
     {
-      "uid": "9af2f9506a7e1c00@monbijou-feeds",
+      "uid": "f8ebfb4e8820aec1@monbijou-feeds",
       "start": "2026-12-04T16:00:00+01:00",
-      "title": "Hänsel und Gretel & König Drosselbart",
+      "title": "Hänsel und Gretel & Hans im Glück",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-207140735",
@@ -1865,9 +1851,9 @@
       "description": ""
     },
     {
-      "uid": "204beb4983f6564e@monbijou-feeds",
+      "uid": "64000aecbc182278@monbijou-feeds",
       "start": "2026-12-09T16:00:00+01:00",
-      "title": "König Drosselbart & Kaiser Trojan hat Ziegenohren",
+      "title": "Hans im Glück & Kaiser Trojan hat Ziegenohren",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-144722876",
@@ -2859,9 +2845,9 @@
       "description": ""
     },
     {
-      "uid": "209d743160364256@monbijou-feeds",
+      "uid": "edae3bae1bdab019@monbijou-feeds",
       "start": "2026-12-17T19:30:00+01:00",
-      "title": "König Drosselbart & Kaiser Trojan hat Ziegenohren",
+      "title": "Hans im Glück & Kaiser Trojan hat Ziegenohren",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-191375970",
@@ -3097,9 +3083,9 @@
       "description": ""
     },
     {
-      "uid": "226c531cf1a1a4b3@monbijou-feeds",
+      "uid": "c2d9a2c9322b8dc4@monbijou-feeds",
       "start": "2026-12-19T19:30:00+01:00",
-      "title": "Kaiser Trojan hat Ziegenohren & König Drosselbart",
+      "title": "Kaiser Trojan hat Ziegenohren & Hans im Glück",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/445633443",
@@ -3125,9 +3111,9 @@
       "description": ""
     },
     {
-      "uid": "fb90fa29bf59978d@monbijou-feeds",
+      "uid": "b63e92baad52e941@monbijou-feeds",
       "start": "2026-12-19T21:15:00+01:00",
-      "title": "König Drosselbart & Kaiser Trojan hat Ziegenohren",
+      "title": "Hans im Glück & Kaiser Trojan hat Ziegenohren",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1683151480",
@@ -3223,9 +3209,9 @@
       "description": ""
     },
     {
-      "uid": "7cbc0049ce0a1447@monbijou-feeds",
+      "uid": "ec0cb57cb39bea68@monbijou-feeds",
       "start": "2026-12-20T17:30:00+01:00",
-      "title": "Kaiser Trojan hat Ziegenohren & König Drosselbart",
+      "title": "Kaiser Trojan hat Ziegenohren & Hans im Glück",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/1224918203",
@@ -3433,9 +3419,9 @@
       "description": ""
     },
     {
-      "uid": "ff7c65636aeb36b8@monbijou-feeds",
+      "uid": "d3c8a25e0dfd5051@monbijou-feeds",
       "start": "2026-12-21T19:30:00+01:00",
-      "title": "König Drosselbart & Die Bremer Stadtmusikanten",
+      "title": "Hans im Glück & Die Bremer Stadtmusikanten",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/1830762633",
@@ -4357,9 +4343,9 @@
       "description": ""
     },
     {
-      "uid": "1aca622771b695da@monbijou-feeds",
+      "uid": "e657bf20a18e705e@monbijou-feeds",
       "start": "2026-12-30T17:30:00+01:00",
-      "title": "König Drosselbart & Der Froschkönig",
+      "title": "Hans im Glück & Der Froschkönig",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/1564637267",
@@ -4483,9 +4469,9 @@
       "description": ""
     },
     {
-      "uid": "895af75aa12c8974@monbijou-feeds",
+      "uid": "37f6e52e9f0e6a82@monbijou-feeds",
       "start": "2027-01-02T16:00:00+01:00",
-      "title": "Kaiser Trojan hat Ziegenohren & König Drosselbart",
+      "title": "Kaiser Trojan hat Ziegenohren & Hans im Glück",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1313268085",
@@ -4511,9 +4497,9 @@
       "description": ""
     },
     {
-      "uid": "bc16b7ae87fed880@monbijou-feeds",
+      "uid": "2333c1e6e0a206d5@monbijou-feeds",
       "start": "2027-01-02T17:30:00+01:00",
-      "title": "König Drosselbart & Kaiser Trojan hat Ziegenohren",
+      "title": "Hans im Glück & Kaiser Trojan hat Ziegenohren",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/99922630",
@@ -4833,9 +4819,9 @@
       "description": ""
     },
     {
-      "uid": "5e3ba8d747739592@monbijou-feeds",
+      "uid": "d59f44c5d26f03c8@monbijou-feeds",
       "start": "2027-01-08T17:30:00+01:00",
-      "title": "König Drosselbart & Kaiser Trojan hat Ziegenohren",
+      "title": "Hans im Glück & Kaiser Trojan hat Ziegenohren",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/284084358",
@@ -4959,9 +4945,9 @@
       "description": ""
     },
     {
-      "uid": "854469cc25316b41@monbijou-feeds",
+      "uid": "d251ba5b1515e6b7@monbijou-feeds",
       "start": "2027-01-09T19:30:00+01:00",
-      "title": "Von dem Machandelboom & König Drosselbart",
+      "title": "Von dem Machandelboom & Hans im Glück",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/2088112669",
@@ -5043,9 +5029,9 @@
       "description": ""
     },
     {
-      "uid": "e2f9117b171d3b00@monbijou-feeds",
+      "uid": "2ecb8c52f04f65f7@monbijou-feeds",
       "start": "2027-01-12T17:30:00+01:00",
-      "title": "Fischer un Sin Fru & König Drosselbart",
+      "title": "Fischer un sin Fru & Hans im Glück",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/1143083973",
@@ -5071,9 +5057,9 @@
       "description": ""
     },
     {
-      "uid": "02227ffc30f9da70@monbijou-feeds",
+      "uid": "575b9597d0019640@monbijou-feeds",
       "start": "2027-01-12T19:30:00+01:00",
-      "title": "König Drosselbart & Fischer un sin Fru",
+      "title": "Hans im Glück & Fischer un sin Fru",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-187585588",
@@ -5239,9 +5225,9 @@
       "description": ""
     },
     {
-      "uid": "70bde9db2fad0422@monbijou-feeds",
+      "uid": "f30c4358e8f79f62@monbijou-feeds",
       "start": "2027-01-16T16:00:00+01:00",
-      "title": "Der Froschkönig & König Drosselbart",
+      "title": "Der Froschkönig & Hans im Glück",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/2118718219",
@@ -5295,9 +5281,9 @@
       "description": ""
     },
     {
-      "uid": "47904c44468a81e1@monbijou-feeds",
+      "uid": "210b0f667e88fd59@monbijou-feeds",
       "start": "2027-01-16T19:30:00+01:00",
-      "title": "König Drosselbart & Von dem Machandelboom",
+      "title": "Hans im Glück & Von dem Machandelboom",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/1547266676",
@@ -5591,48 +5577,6 @@
   ],
   "productions": [
     {
-      "title": "Knack den Fall !",
-      "guid": "22e79777b3712124",
-      "first": "2026-11-08T19:00:00+01:00",
-      "subtitles": [
-        "Zu Gast in den Märchenhütten",
-        "Zu Gast in den Märchenhütten um 19:30"
-      ],
-      "venues": [
-        "Märchenhütten"
-      ],
-      "english": false,
-      "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!",
-      "titles": [],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1601979785",
-      "dates": [
-        {
-          "start": "2026-11-08T19:00:00+01:00",
-          "sold_out": false,
-          "title": "Knack den Fall !",
-          "subtitle": "Zu Gast in den Märchenhütten"
-        },
-        {
-          "start": "2026-12-07T19:00:00+01:00",
-          "sold_out": false,
-          "title": "Knack den Fall !",
-          "subtitle": "Zu Gast in den Märchenhütten"
-        },
-        {
-          "start": "2026-12-08T19:30:00+01:00",
-          "sold_out": true,
-          "title": "Knack den Fall !",
-          "subtitle": "Zu Gast in den Märchenhütten um 19:30"
-        },
-        {
-          "start": "2026-12-14T19:00:00+01:00",
-          "sold_out": true,
-          "title": "Knack den Fall !",
-          "subtitle": "Zu Gast in den Märchenhütten"
-        }
-      ]
-    },
-    {
       "title": "Märchen für Erwachsene",
       "guid": "c0db31bfd1fa43b9",
       "first": "2026-11-13T19:00:00+01:00",
@@ -5663,6 +5607,7 @@
         "Der Froschkönig & Der wolf und die 7 Geißlein",
         "Der Froschkönig & Die Bremer Stadtmusikanten",
         "Der Froschkönig & Frau Holle",
+        "Der Froschkönig & Hans im Glück",
         "Der Froschkönig & Hänsel und Gretel",
         "Der Froschkönig & Kaiser Trojan hat Ziegenohren",
         "Der Froschkönig & König Drosselbart",
@@ -5682,6 +5627,7 @@
         "Fischer un sin Frau & Der Froschkönig",
         "Fischer un sin Frau & Frau Holle",
         "Fischer un sin Fru & Der Froschkönig",
+        "Fischer un sin Fru & Hans im Glück",
         "Fischer un sin Fru & Hänsel und Gretel",
         "Fischer un sin Fru & Kaiser Trojan hat Ziegenohren",
         "Fischer un sin Fru & Von dem Machandelboom",
@@ -5694,28 +5640,30 @@
         "Frau Holle & Tapfere Schneiderlein",
         "Frau Holle & Von dem Machandelboom",
         "Frau Holle und König Drosselbart",
+        "Hans im Glück & Der Froschkönig",
+        "Hans im Glück & Die Bremer Stadtmusikanten",
+        "Hans im Glück & Fischer un sin Fru",
+        "Hans im Glück & Frau Holle",
+        "Hans im Glück & Kaiser Trojan hat Ziegenohren",
+        "Hans im Glück & Von dem Machandelboom",
         "Hänsel und Gretel & Der Froschkönig",
         "Hänsel und Gretel & Die Bremer Stadtmusikanten",
         "Hänsel und Gretel & Fischer un sin Fru",
         "Hänsel und Gretel & Frau Holle",
+        "Hänsel und Gretel & Hans im Glück",
         "Hänsel und Gretel & Kaiser Trojan hat Ziegenohren",
-        "Hänsel und Gretel & König Drosselbart",
         "Hänsel und Gretel & Von dem Machandelboom",
         "Kaiser Trojan hat Ziegenohren & Blaubart",
         "Kaiser Trojan hat Ziegenohren & Die Bremer Stadtmusikanten",
         "Kaiser Trojan hat Ziegenohren & Fischer un sin Fru",
+        "Kaiser Trojan hat Ziegenohren & Hans im Glück",
         "Kaiser Trojan hat Ziegenohren & Hänsel und GRetel",
         "Kaiser Trojan hat Ziegenohren & König Drosselbart",
         "Kaiser Trojan hat Ziegenohren & Von dem Machandelboom",
         "Kaiser Trojan hat Ziegenohren / Fischer un sin Fru",
         "Kaiser Trojan hat Ziegenöhren & Der Froschkönig",
         "König Drosselbart & Der Froschkönig",
-        "König Drosselbart & Die Bremer Stadtmusikanten",
-        "König Drosselbart & Fischer un sin Fru",
-        "König Drosselbart & Frau Holle",
         "König Drosselbart & Kaiser Trojan hat Ziegenohren",
-        "König Drosselbart & Von dem Machandelbaum",
-        "König Drosselbart & Von dem Machandelboom",
         "Rotkäppchen & Ayşenbrödel",
         "Rotkäppchen & Brüderchen und Schwesterchen",
         "Rotkäppchen & Der Wolf und die 7 Geißlein",
@@ -5741,9 +5689,9 @@
         "Von dem Machandelbaum & Der Froschkönig",
         "Von dem Machandelboom & Blaubart",
         "Von dem Machandelboom & Der Froschkönig",
+        "Von dem Machandelboom & Hans im Glück",
         "Von dem Machandelboom & Hänsel und Gretel",
-        "Von dem Machandelboom & Kaiser Trojan hat Ziegenohren",
-        "Von dem Machandelboom & König Drosselbart"
+        "Von dem Machandelboom & Kaiser Trojan hat Ziegenohren"
       ],
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1724113450",
       "dates": [
@@ -5864,7 +5812,7 @@
         {
           "start": "2026-11-21T19:30:00+01:00",
           "sold_out": false,
-          "title": "Kaiser Trojan hat Ziegenohren & König Drosselbart",
+          "title": "Kaiser Trojan hat Ziegenohren & Hans im Glück",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -5876,7 +5824,7 @@
         {
           "start": "2026-11-22T19:30:00+01:00",
           "sold_out": false,
-          "title": "König Drosselbart & Von dem Machandelbaum",
+          "title": "Hans im Glück & Von dem Machandelboom",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -5942,7 +5890,7 @@
         {
           "start": "2026-11-27T19:30:00+01:00",
           "sold_out": false,
-          "title": "König Drosselbart & Die Bremer Stadtmusikanten",
+          "title": "Hans im Glück & Die Bremer Stadtmusikanten",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -5996,7 +5944,7 @@
         {
           "start": "2026-11-29T17:30:00+01:00",
           "sold_out": false,
-          "title": "Hänsel und Gretel & König Drosselbart",
+          "title": "Hänsel und Gretel & Hans im Glück",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6008,7 +5956,7 @@
         {
           "start": "2026-11-29T19:30:00+01:00",
           "sold_out": false,
-          "title": "König Drosselbart & Frau Holle",
+          "title": "Hans im Glück & Frau Holle",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6044,7 +5992,7 @@
         {
           "start": "2026-12-02T19:30:00+01:00",
           "sold_out": false,
-          "title": "König Drosselbart & Frau Holle",
+          "title": "Hans im Glück & Frau Holle",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6062,7 +6010,7 @@
         {
           "start": "2026-12-03T17:30:00+01:00",
           "sold_out": false,
-          "title": "Hänsel und Gretel & König Drosselbart",
+          "title": "Hänsel und Gretel & Hans im Glück",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6074,7 +6022,7 @@
         {
           "start": "2026-12-03T19:30:00+01:00",
           "sold_out": false,
-          "title": "König Drosselbart & Frau Holle",
+          "title": "Hans im Glück & Frau Holle",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6086,7 +6034,7 @@
         {
           "start": "2026-12-04T16:00:00+01:00",
           "sold_out": false,
-          "title": "Hänsel und Gretel & König Drosselbart",
+          "title": "Hänsel und Gretel & Hans im Glück",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6218,7 +6166,7 @@
         {
           "start": "2026-12-09T16:00:00+01:00",
           "sold_out": false,
-          "title": "König Drosselbart & Kaiser Trojan hat Ziegenohren",
+          "title": "Hans im Glück & Kaiser Trojan hat Ziegenohren",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6488,7 +6436,7 @@
         {
           "start": "2026-12-17T19:30:00+01:00",
           "sold_out": false,
-          "title": "König Drosselbart & Kaiser Trojan hat Ziegenohren",
+          "title": "Hans im Glück & Kaiser Trojan hat Ziegenohren",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6566,7 +6514,7 @@
         {
           "start": "2026-12-19T19:30:00+01:00",
           "sold_out": false,
-          "title": "Kaiser Trojan hat Ziegenohren & König Drosselbart",
+          "title": "Kaiser Trojan hat Ziegenohren & Hans im Glück",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6578,7 +6526,7 @@
         {
           "start": "2026-12-19T21:15:00+01:00",
           "sold_out": false,
-          "title": "König Drosselbart & Kaiser Trojan hat Ziegenohren",
+          "title": "Hans im Glück & Kaiser Trojan hat Ziegenohren",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6596,7 +6544,7 @@
         {
           "start": "2026-12-20T17:30:00+01:00",
           "sold_out": false,
-          "title": "Kaiser Trojan hat Ziegenohren & König Drosselbart",
+          "title": "Kaiser Trojan hat Ziegenohren & Hans im Glück",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6644,7 +6592,7 @@
         {
           "start": "2026-12-21T19:30:00+01:00",
           "sold_out": false,
-          "title": "König Drosselbart & Die Bremer Stadtmusikanten",
+          "title": "Hans im Glück & Die Bremer Stadtmusikanten",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6878,7 +6826,7 @@
         {
           "start": "2026-12-30T17:30:00+01:00",
           "sold_out": false,
-          "title": "König Drosselbart & Der Froschkönig",
+          "title": "Hans im Glück & Der Froschkönig",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6914,7 +6862,7 @@
         {
           "start": "2027-01-02T16:00:00+01:00",
           "sold_out": false,
-          "title": "Kaiser Trojan hat Ziegenohren & König Drosselbart",
+          "title": "Kaiser Trojan hat Ziegenohren & Hans im Glück",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6926,7 +6874,7 @@
         {
           "start": "2027-01-02T17:30:00+01:00",
           "sold_out": false,
-          "title": "König Drosselbart & Kaiser Trojan hat Ziegenohren",
+          "title": "Hans im Glück & Kaiser Trojan hat Ziegenohren",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -7052,7 +7000,7 @@
         {
           "start": "2027-01-08T17:30:00+01:00",
           "sold_out": false,
-          "title": "König Drosselbart & Kaiser Trojan hat Ziegenohren",
+          "title": "Hans im Glück & Kaiser Trojan hat Ziegenohren",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -7094,7 +7042,7 @@
         {
           "start": "2027-01-09T19:30:00+01:00",
           "sold_out": false,
-          "title": "Von dem Machandelboom & König Drosselbart",
+          "title": "Von dem Machandelboom & Hans im Glück",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -7118,7 +7066,7 @@
         {
           "start": "2027-01-12T17:30:00+01:00",
           "sold_out": false,
-          "title": "Fischer un Sin Fru & König Drosselbart",
+          "title": "Fischer un sin Fru & Hans im Glück",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -7130,7 +7078,7 @@
         {
           "start": "2027-01-12T19:30:00+01:00",
           "sold_out": false,
-          "title": "König Drosselbart & Fischer un sin Fru",
+          "title": "Hans im Glück & Fischer un sin Fru",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -7184,7 +7132,7 @@
         {
           "start": "2027-01-16T16:00:00+01:00",
           "sold_out": false,
-          "title": "Der Froschkönig & König Drosselbart",
+          "title": "Der Froschkönig & Hans im Glück",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -7208,7 +7156,7 @@
         {
           "start": "2027-01-16T19:30:00+01:00",
           "sold_out": false,
-          "title": "König Drosselbart & Von dem Machandelboom",
+          "title": "Hans im Glück & Von dem Machandelboom",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -7415,7 +7363,7 @@
         },
         {
           "start": "2026-11-21T16:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Der gestiefelte Kater & Schneewittchen für Kinder",
           "subtitle": "Familienvorstellung"
         },
@@ -8226,6 +8174,42 @@
           "sold_out": false,
           "title": "Christmas Carol - Gastspiel",
           "subtitle": "Sprache - Englisch Nur für Erwachsene"
+        }
+      ]
+    },
+    {
+      "title": "Knack den Fall !",
+      "guid": "22e79777b3712124",
+      "first": "2026-12-07T19:00:00+01:00",
+      "subtitles": [
+        "Zu Gast in den Märchenhütten",
+        "Zu Gast in den Märchenhütten um 19:30"
+      ],
+      "venues": [
+        "Märchenhütten"
+      ],
+      "english": false,
+      "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!",
+      "titles": [],
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-2141910741",
+      "dates": [
+        {
+          "start": "2026-12-07T19:00:00+01:00",
+          "sold_out": false,
+          "title": "Knack den Fall !",
+          "subtitle": "Zu Gast in den Märchenhütten"
+        },
+        {
+          "start": "2026-12-08T19:30:00+01:00",
+          "sold_out": true,
+          "title": "Knack den Fall !",
+          "subtitle": "Zu Gast in den Märchenhütten um 19:30"
+        },
+        {
+          "start": "2026-12-14T19:00:00+01:00",
+          "sold_out": true,
+          "title": "Knack den Fall !",
+          "subtitle": "Zu Gast in den Märchenhütten"
         }
       ]
     },
