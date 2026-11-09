@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T23:14:55.723418+01:00",
+  "generated": "2026-11-09T23:29:26.854971+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -22,9 +22,9 @@
       "title": "Schneewittchen für Erwachsene & Brüderchen und Schwesterchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1944349875",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -106,9 +106,9 @@
       "title": "Frau Holle für Kinder & Die Schneekönigen",
       "subtitle": "Familienvorstellung",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-88900234",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -148,9 +148,9 @@
       "title": "Die Schneekönigin & Hase und Igel",
       "subtitle": "Märchen für Schulen & Kitas - ab 4 Jahre",
       "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1058287500",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "schule",
       "series": "Märchen für Kitas & Schulen",
@@ -199,20 +199,6 @@
       "description": ""
     },
     {
-      "uid": "1fd80b27701aa3f4@monbijou-feeds",
-      "start": "2026-11-19T09:30:00+01:00",
-      "title": "Rotkäppchen & Hase und Igel",
-      "subtitle": "Märchen für Schulen & Kitas - ab 4 Jahre",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1883256708",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "schule",
-      "series": "Märchen für Kitas & Schulen",
-      "description": ""
-    },
-    {
       "uid": "8a72133ab15edd0c@monbijou-feeds",
       "start": "2026-11-19T11:00:00+01:00",
       "title": "Hase und Igel & Rotkäppchen",
@@ -232,9 +218,9 @@
       "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/2048113368",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -414,9 +400,9 @@
       "title": "Der gestiefelte Kater & Schneewittchen für Kinder",
       "subtitle": "Familienvorstellung",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1989593771",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -504,6 +490,20 @@
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
+      "description": ""
+    },
+    {
+      "uid": "4c33e4938ec30e57@monbijou-feeds",
+      "start": "2026-11-22T16:00:00+01:00",
+      "title": "Hase und Igel & Der gestiefelte Kater",
+      "subtitle": "",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-657099084",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "sonstige",
+      "series": "Hase und Igel & Der gestiefelte Kater",
       "description": ""
     },
     {
@@ -652,9 +652,9 @@
       "title": "Fischer un sin Fru & Kaiser Trojan hat Ziegenohren",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1311601153",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -834,9 +834,9 @@
       "title": "Rotkäppchen & Rumpelstilzchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/2126970551",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -946,9 +946,9 @@
       "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-227338029",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1156,20 +1156,6 @@
       "title": "Märchen für Kinder",
       "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
       "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/676700561",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "schule",
-      "series": "Märchen für Kitas & Schulen",
-      "description": ""
-    },
-    {
-      "uid": "d857a45cbb999f59@monbijou-feeds",
-      "start": "2026-12-02T09:30:00+01:00",
-      "title": "Märchen für Kinder",
-      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
-      "venue": "Märchenhütten",
       "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
       "sold_out": true,
@@ -1344,20 +1330,6 @@
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
-      "description": ""
-    },
-    {
-      "uid": "e5716140715c5c48@monbijou-feeds",
-      "start": "2026-12-04T09:30:00+01:00",
-      "title": "Märchen für Kinder",
-      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/2087539647",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "schule",
-      "series": "Märchen für Kitas & Schulen",
       "description": ""
     },
     {
@@ -2514,9 +2486,9 @@
       "title": "Knack den Fall !",
       "subtitle": "Zu Gast in den Märchenhütten",
       "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1479036933",
       "info_url": "https://monbijou.billeto.net/eventinfo/31248",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "sonstige",
       "series": "Knack den Fall !",
@@ -3144,9 +3116,9 @@
       "title": "Tapfere Schneiderlein & Rotkäppchen",
       "subtitle": "Für Kinder und Familien",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-986831412",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -4371,9 +4343,9 @@
       "description": ""
     },
     {
-      "uid": "fe8410668acbf4ad@monbijou-feeds",
+      "uid": "97dad52a46a85cbf@monbijou-feeds",
       "start": "2026-12-30T19:30:00+01:00",
-      "title": "Der Froschkönig & König Drosselbart",
+      "title": "Der Froschkönig & Hans im Glück",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-970992375",
@@ -5573,6 +5545,90 @@
       "audience": "sonstige",
       "series": "Shakespeariment",
       "description": "Shakespeare. The Real Deal. One Night Only. New Venue! Even More Seats! A bunch of classical English-speaking actors stranded in Berlin in search of an audience for this beautiful, oft-misunderstood language. They prepare their parts, have one rehearsal and then bring Shakespeare to life in the stunning Monbijou Theater. Best of all, it's free! (obviously we will still pass the hat, cultural funding has been cut and rents are still going up! so bring cash, we're happy to make change for 50s and 100s)"
+    },
+    {
+      "uid": "a3102e810d875347@monbijou-feeds",
+      "start": "2027-02-04T19:00:00+01:00",
+      "title": "Knack den Fall !",
+      "subtitle": "Zu Gast in den Märchenhütten",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/217750084",
+      "info_url": "https://monbijou.billeto.net/eventinfo/32395",
+      "sold_out": false,
+      "english": false,
+      "audience": "sonstige",
+      "series": "Knack den Fall !",
+      "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!"
+    },
+    {
+      "uid": "27e2d5201109c701@monbijou-feeds",
+      "start": "2027-02-05T19:00:00+01:00",
+      "title": "Knack den Fall !",
+      "subtitle": "Zu Gast in den Märchenhütten",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/466549559",
+      "info_url": "https://monbijou.billeto.net/eventinfo/32396",
+      "sold_out": false,
+      "english": false,
+      "audience": "sonstige",
+      "series": "Knack den Fall !",
+      "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!"
+    },
+    {
+      "uid": "9849cb54807afb94@monbijou-feeds",
+      "start": "2027-02-06T19:00:00+01:00",
+      "title": "Knack den Fall !",
+      "subtitle": "Zu Gast in den Märchenhütten",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/464027123",
+      "info_url": "https://monbijou.billeto.net/eventinfo/32397",
+      "sold_out": false,
+      "english": false,
+      "audience": "sonstige",
+      "series": "Knack den Fall !",
+      "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!"
+    },
+    {
+      "uid": "1b41de28531f31e9@monbijou-feeds",
+      "start": "2027-03-04T19:00:00+01:00",
+      "title": "Knack den Fall !",
+      "subtitle": "Zu Gast in den Märchenhütten",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-453368789",
+      "info_url": "https://monbijou.billeto.net/eventinfo/32398",
+      "sold_out": false,
+      "english": false,
+      "audience": "sonstige",
+      "series": "Knack den Fall !",
+      "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!"
+    },
+    {
+      "uid": "3e08d59739fcc3ef@monbijou-feeds",
+      "start": "2027-03-05T19:00:00+01:00",
+      "title": "Knack den Fall !",
+      "subtitle": "Zu Gast in den Märchenhütten",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/443199805",
+      "info_url": "https://monbijou.billeto.net/eventinfo/32399",
+      "sold_out": false,
+      "english": false,
+      "audience": "sonstige",
+      "series": "Knack den Fall !",
+      "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!"
+    },
+    {
+      "uid": "ab8dc37ce78f3e7c@monbijou-feeds",
+      "start": "2027-03-06T19:00:00+01:00",
+      "title": "Knack den Fall !",
+      "subtitle": "Zu Gast in den Märchenhütten",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1006326117",
+      "info_url": "https://monbijou.billeto.net/eventinfo/32400",
+      "sold_out": false,
+      "english": false,
+      "audience": "sonstige",
+      "series": "Knack den Fall !",
+      "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!"
     }
   ],
   "productions": [
@@ -5610,7 +5666,6 @@
         "Der Froschkönig & Hans im Glück",
         "Der Froschkönig & Hänsel und Gretel",
         "Der Froschkönig & Kaiser Trojan hat Ziegenohren",
-        "Der Froschkönig & König Drosselbart",
         "Der Froschkönig & Rotkäppchen",
         "Der Froschkönig & Von dem Machandelbaum",
         "Der Froschkönig & Von dem Machandelboom",
@@ -5703,7 +5758,7 @@
         },
         {
           "start": "2026-11-13T19:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Schneewittchen für Erwachsene & Brüderchen und Schwesterchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -5739,7 +5794,7 @@
         },
         {
           "start": "2026-11-19T17:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
           "subtitle": "Nur für Erwachsene"
         },
@@ -5829,7 +5884,7 @@
         },
         {
           "start": "2026-11-25T17:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Fischer un sin Fru & Kaiser Trojan hat Ziegenohren",
           "subtitle": "Nur für Erwachsene"
         },
@@ -5883,7 +5938,7 @@
         },
         {
           "start": "2026-11-27T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Rotkäppchen & Rumpelstilzchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -5919,7 +5974,7 @@
         },
         {
           "start": "2026-11-28T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6838,7 +6893,7 @@
         {
           "start": "2026-12-30T19:30:00+01:00",
           "sold_out": false,
-          "title": "Der Froschkönig & König Drosselbart",
+          "title": "Der Froschkönig & Hans im Glück",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -7333,7 +7388,7 @@
         },
         {
           "start": "2026-11-15T15:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Frau Holle für Kinder & Die Schneekönigen",
           "subtitle": "Familienvorstellung"
         },
@@ -7363,7 +7418,7 @@
         },
         {
           "start": "2026-11-21T16:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Der gestiefelte Kater & Schneewittchen für Kinder",
           "subtitle": "Familienvorstellung"
         },
@@ -7555,7 +7610,7 @@
         },
         {
           "start": "2026-12-20T13:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Tapfere Schneiderlein & Rotkäppchen",
           "subtitle": "Für Kinder und Familien"
         },
@@ -7798,14 +7853,13 @@
         "Hase und Igel & Rotkäppchen",
         "Hase und Igel & Schneewittchen für Kinder",
         "Märchen für Kinder",
-        "Rotkäppchen & Hase und Igel",
         "Schneewittchen für Kinder & Hase und Igel"
       ],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/2058353427",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1058287500",
       "dates": [
         {
           "start": "2026-11-17T09:30:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Die Schneekönigin & Hase und Igel",
           "subtitle": "Märchen für Schulen & Kitas - ab 4 Jahre"
         },
@@ -7825,12 +7879,6 @@
           "start": "2026-11-18T11:00:00+01:00",
           "sold_out": false,
           "title": "Hase und Igel & Schneewittchen für Kinder",
-          "subtitle": "Märchen für Schulen & Kitas - ab 4 Jahre"
-        },
-        {
-          "start": "2026-11-19T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Hase und Igel",
           "subtitle": "Märchen für Schulen & Kitas - ab 4 Jahre"
         },
         {
@@ -7889,12 +7937,6 @@
         },
         {
           "start": "2026-12-02T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-02T09:30:00+01:00",
           "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
@@ -7904,12 +7946,6 @@
           "sold_out": false,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-04T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
         {
           "start": "2026-12-08T09:30:00+01:00",
@@ -8081,6 +8117,27 @@
       ]
     },
     {
+      "title": "Hase und Igel & Der gestiefelte Kater",
+      "guid": "c78894107603ef20",
+      "first": "2026-11-22T16:00:00+01:00",
+      "subtitles": [],
+      "venues": [
+        "Wilhelmhütte"
+      ],
+      "english": false,
+      "description": "",
+      "titles": [],
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-657099084",
+      "dates": [
+        {
+          "start": "2026-11-22T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Hase und Igel & Der gestiefelte Kater",
+          "subtitle": ""
+        }
+      ]
+    },
+    {
       "title": "Shakespeariment - Romeo and Juliet",
       "guid": "720385668edbd9b3",
       "first": "2026-11-23T19:30:00+01:00",
@@ -8207,7 +8264,43 @@
         },
         {
           "start": "2026-12-14T19:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
+          "title": "Knack den Fall !",
+          "subtitle": "Zu Gast in den Märchenhütten"
+        },
+        {
+          "start": "2027-02-04T19:00:00+01:00",
+          "sold_out": false,
+          "title": "Knack den Fall !",
+          "subtitle": "Zu Gast in den Märchenhütten"
+        },
+        {
+          "start": "2027-02-05T19:00:00+01:00",
+          "sold_out": false,
+          "title": "Knack den Fall !",
+          "subtitle": "Zu Gast in den Märchenhütten"
+        },
+        {
+          "start": "2027-02-06T19:00:00+01:00",
+          "sold_out": false,
+          "title": "Knack den Fall !",
+          "subtitle": "Zu Gast in den Märchenhütten"
+        },
+        {
+          "start": "2027-03-04T19:00:00+01:00",
+          "sold_out": false,
+          "title": "Knack den Fall !",
+          "subtitle": "Zu Gast in den Märchenhütten"
+        },
+        {
+          "start": "2027-03-05T19:00:00+01:00",
+          "sold_out": false,
+          "title": "Knack den Fall !",
+          "subtitle": "Zu Gast in den Märchenhütten"
+        },
+        {
+          "start": "2027-03-06T19:00:00+01:00",
+          "sold_out": false,
           "title": "Knack den Fall !",
           "subtitle": "Zu Gast in den Märchenhütten"
         }
