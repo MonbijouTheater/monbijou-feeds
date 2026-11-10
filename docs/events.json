@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T23:29:26.854971+01:00",
+  "generated": "2026-11-10T20:50:45.467103+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -118,7 +118,7 @@
       "uid": "786c5539afbf1200@monbijou-feeds",
       "start": "2026-11-15T17:30:00+01:00",
       "title": "Die Schneekönigin & Frau Holle für Kinder",
-      "subtitle": "Familienvorstellung",
+      "subtitle": "Für Kinder und Familien",
       "venue": "Jacobhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-2121181064",
       "info_url": "",
@@ -384,7 +384,7 @@
       "uid": "06ce1fdd95a8eb7e@monbijou-feeds",
       "start": "2026-11-21T15:30:00+01:00",
       "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-      "subtitle": "Familienvorstellung",
+      "subtitle": "Für Kinder und Familien",
       "venue": "Jacobhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-79190282",
       "info_url": "",
@@ -398,7 +398,7 @@
       "uid": "df1ed5a03f975e91@monbijou-feeds",
       "start": "2026-11-21T16:00:00+01:00",
       "title": "Der gestiefelte Kater & Schneewittchen für Kinder",
-      "subtitle": "Familienvorstellung",
+      "subtitle": "Für Kinder und Familien",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/1989593771",
       "info_url": "",
@@ -440,7 +440,7 @@
       "uid": "82fa90167d7c5b88@monbijou-feeds",
       "start": "2026-11-21T19:00:00+01:00",
       "title": "Lange Nacht des Märchenerzählens 2026",
-      "subtitle": "Premiere in die Märchenhütten - Zauberflöte & Sternenharfe - ab 8 Jahren",
+      "subtitle": "Premiere in den Märchenhütten - Zauberflöte & Sternenharfe - ab 8 Jahren",
       "venue": "Märchenhütten",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/647637919",
       "info_url": "https://monbijou.billeto.net/eventinfo/31344",
@@ -468,7 +468,7 @@
       "uid": "c0cb1c05eb904455@monbijou-feeds",
       "start": "2026-11-21T21:00:00+01:00",
       "title": "Lange Nacht des Märchenerzählens 2026",
-      "subtitle": "Premiere in die Märchenhütten - Zauberflöte & Sternenharfe - ab 8 Jahren",
+      "subtitle": "Premiere in den Märchenhütten - Zauberflöte & Sternenharfe - ab 8 Jahren",
       "venue": "Märchenhütten",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/2046274439",
       "info_url": "https://monbijou.billeto.net/eventinfo/31345",
@@ -482,7 +482,7 @@
       "uid": "ebce9d89cec2db75@monbijou-feeds",
       "start": "2026-11-22T15:30:00+01:00",
       "title": "Hase und Igel & Der Wolf und die 7 Geißlein",
-      "subtitle": "Familienvorstellung",
+      "subtitle": "Für Kinder und Familien",
       "venue": "Jacobhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/62128924",
       "info_url": "",
@@ -496,14 +496,14 @@
       "uid": "4c33e4938ec30e57@monbijou-feeds",
       "start": "2026-11-22T16:00:00+01:00",
       "title": "Hase und Igel & Der gestiefelte Kater",
-      "subtitle": "",
+      "subtitle": "Für Kinder und Familien",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-657099084",
       "info_url": "",
       "sold_out": false,
       "english": false,
-      "audience": "sonstige",
-      "series": "Hase und Igel & Der gestiefelte Kater",
+      "audience": "familie",
+      "series": "Märchen für Kinder & Familien",
       "description": ""
     },
     {
@@ -524,7 +524,7 @@
       "uid": "39ad4c303bcfff63@monbijou-feeds",
       "start": "2026-11-22T17:30:00+01:00",
       "title": "Der gestiefelte Kater & Fischer un sin Fru",
-      "subtitle": "Familienvorstellung",
+      "subtitle": "Für Kinder und Familien",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/1687928295",
       "info_url": "",
@@ -560,20 +560,6 @@
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
-      "description": ""
-    },
-    {
-      "uid": "3ae27ed525b47450@monbijou-feeds",
-      "start": "2026-11-23T09:30:00+01:00",
-      "title": "Märchen für Kinder",
-      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-5436382",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "schule",
-      "series": "Märchen für Kitas & Schulen",
       "description": ""
     },
     {
@@ -666,9 +652,9 @@
       "title": "Rotkäppchen & Ayşenbrödel",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-726149977",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1487,9 +1473,9 @@
       "description": ""
     },
     {
-      "uid": "6aa2c91e57a51581@monbijou-feeds",
+      "uid": "77370841ac254d2d@monbijou-feeds",
       "start": "2026-12-05T17:00:00+01:00",
-      "title": "Rottkäppchen & Blaubart",
+      "title": "Rotkäppchen & Blaubart",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/863036746",
@@ -1694,6 +1680,20 @@
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "e95efc3dd72c35fe@monbijou-feeds",
+      "start": "2026-12-07T09:30:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/423131274",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
       "description": ""
     },
     {
@@ -1946,6 +1946,20 @@
       "english": false,
       "audience": "schule",
       "series": "Märchen für Kitas & Schulen",
+      "description": ""
+    },
+    {
+      "uid": "4d6445c733541dfd@monbijou-feeds",
+      "start": "2026-12-10T16:00:00+01:00",
+      "title": "Schneewittchen für Kinder & Hase und Igel",
+      "subtitle": "Für Kinder und Familien",
+      "venue": "Wilhelmhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1611873575",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "familie",
+      "series": "Märchen für Kinder & Familien",
       "description": ""
     },
     {
@@ -2229,9 +2243,9 @@
       "description": ""
     },
     {
-      "uid": "1039bb906bc82cb1@monbijou-feeds",
+      "uid": "770064067242931a@monbijou-feeds",
       "start": "2026-12-12T16:00:00+01:00",
-      "title": "Frau Holle für Kinder & Der Schneekönigen",
+      "title": "Frau Holle für Kinder & Die Schneekönigen",
       "subtitle": "Für Kinder und Familien",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/",
@@ -2276,9 +2290,9 @@
       "title": "Schneewittchen für Erwachsene & Tapfere Schneiderlein",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-283128775",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -2472,9 +2486,9 @@
       "title": "Märchen für Kinder",
       "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
       "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1987863159",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "schule",
       "series": "Märchen für Kitas & Schulen",
@@ -5323,6 +5337,20 @@
       "description": ""
     },
     {
+      "uid": "704a21783c02a4f2@monbijou-feeds",
+      "start": "2027-01-18T09:30:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1455611590",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
+      "description": ""
+    },
+    {
       "uid": "cf4ca28e328ed6d2@monbijou-feeds",
       "start": "2027-01-20T17:30:00+01:00",
       "title": "Fischer un sin Fru & Kaiser Trojan hat Ziegenohren",
@@ -5547,6 +5575,20 @@
       "description": "Shakespeare. The Real Deal. One Night Only. New Venue! Even More Seats! A bunch of classical English-speaking actors stranded in Berlin in search of an audience for this beautiful, oft-misunderstood language. They prepare their parts, have one rehearsal and then bring Shakespeare to life in the stunning Monbijou Theater. Best of all, it's free! (obviously we will still pass the hat, cultural funding has been cut and rents are still going up! so bring cash, we're happy to make change for 50s and 100s)"
     },
     {
+      "uid": "00ac1d853f467f2d@monbijou-feeds",
+      "start": "2027-01-28T09:30:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-833861726",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
+      "description": ""
+    },
+    {
       "uid": "a3102e810d875347@monbijou-feeds",
       "start": "2027-02-04T19:00:00+01:00",
       "title": "Knack den Fall !",
@@ -5587,6 +5629,20 @@
       "audience": "sonstige",
       "series": "Knack den Fall !",
       "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!"
+    },
+    {
+      "uid": "a71509de95065bbc@monbijou-feeds",
+      "start": "2027-02-16T09:30:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/962532082",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
+      "description": ""
     },
     {
       "uid": "1b41de28531f31e9@monbijou-feeds",
@@ -5720,12 +5776,12 @@
         "König Drosselbart & Der Froschkönig",
         "König Drosselbart & Kaiser Trojan hat Ziegenohren",
         "Rotkäppchen & Ayşenbrödel",
+        "Rotkäppchen & Blaubart",
         "Rotkäppchen & Brüderchen und Schwesterchen",
         "Rotkäppchen & Der Wolf und die 7 Geißlein",
         "Rotkäppchen & Rumpelstilzchen",
         "Rotkäppchen & Schneewittchen für Erwachsene",
         "Rotkäppchen & Tapfere Schneiderlein",
-        "Rottkäppchen & Blaubart",
         "Rumpelstilzchen & Ayşenbrödel",
         "Rumpelstilzchen & Frau Holle",
         "Rumpelstilzchen & Rotkäppchen",
@@ -5890,7 +5946,7 @@
         },
         {
           "start": "2026-11-25T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Rotkäppchen & Ayşenbrödel",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6131,7 +6187,7 @@
         {
           "start": "2026-12-05T17:00:00+01:00",
           "sold_out": false,
-          "title": "Rottkäppchen & Blaubart",
+          "title": "Rotkäppchen & Blaubart",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6346,7 +6402,7 @@
         },
         {
           "start": "2026-12-12T19:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Schneewittchen für Erwachsene & Tapfere Schneiderlein",
           "subtitle": "Nur für Erwachsene"
         },
@@ -7396,7 +7452,7 @@
           "start": "2026-11-15T17:30:00+01:00",
           "sold_out": false,
           "title": "Die Schneekönigin & Frau Holle für Kinder",
-          "subtitle": "Familienvorstellung"
+          "subtitle": "Für Kinder und Familien"
         },
         {
           "start": "2026-11-20T15:30:00+01:00",
@@ -7414,19 +7470,25 @@
           "start": "2026-11-21T15:30:00+01:00",
           "sold_out": false,
           "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-          "subtitle": "Familienvorstellung"
+          "subtitle": "Für Kinder und Familien"
         },
         {
           "start": "2026-11-21T16:00:00+01:00",
           "sold_out": false,
           "title": "Der gestiefelte Kater & Schneewittchen für Kinder",
-          "subtitle": "Familienvorstellung"
+          "subtitle": "Für Kinder und Familien"
         },
         {
           "start": "2026-11-22T15:30:00+01:00",
           "sold_out": false,
           "title": "Hase und Igel & Der Wolf und die 7 Geißlein",
-          "subtitle": "Familienvorstellung"
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-11-22T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Hase und Igel & Der gestiefelte Kater",
+          "subtitle": "Für Kinder und Familien"
         },
         {
           "start": "2026-11-22T17:00:00+01:00",
@@ -7438,7 +7500,7 @@
           "start": "2026-11-22T17:30:00+01:00",
           "sold_out": false,
           "title": "Der gestiefelte Kater & Fischer un sin Fru",
-          "subtitle": "Familienvorstellung"
+          "subtitle": "Für Kinder und Familien"
         },
         {
           "start": "2026-11-26T15:30:00+01:00",
@@ -7525,6 +7587,12 @@
           "subtitle": "Für Kinder und Familien"
         },
         {
+          "start": "2026-12-10T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Schneewittchen für Kinder & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
           "start": "2026-12-11T15:30:00+01:00",
           "sold_out": false,
           "title": "Hase und Igel & Tapfere Schneiderlein",
@@ -7551,7 +7619,7 @@
         {
           "start": "2026-12-12T16:00:00+01:00",
           "sold_out": true,
-          "title": "Frau Holle für Kinder & Der Schneekönigen",
+          "title": "Frau Holle für Kinder & Die Schneekönigen",
           "subtitle": "Für Kinder und Familien"
         },
         {
@@ -7888,12 +7956,6 @@
           "subtitle": "Märchen für Schulen & Kitas - ab 4 Jahre"
         },
         {
-          "start": "2026-11-23T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
           "start": "2026-11-24T09:30:00+01:00",
           "sold_out": false,
           "title": "Märchen für Kinder",
@@ -7948,6 +8010,12 @@
           "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
         },
         {
+          "start": "2026-12-07T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
+        },
+        {
           "start": "2026-12-08T09:30:00+01:00",
           "sold_out": false,
           "title": "Märchen für Kinder",
@@ -7997,7 +8065,7 @@
         },
         {
           "start": "2026-12-14T09:30:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
@@ -8084,6 +8152,24 @@
           "sold_out": false,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2027-01-18T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2027-01-28T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2027-02-16T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         }
       ]
     },
@@ -8092,7 +8178,7 @@
       "guid": "02176c88ca7baa38",
       "first": "2026-11-21T19:00:00+01:00",
       "subtitles": [
-        "Premiere in die Märchenhütten - Zauberflöte & Sternenharfe - ab 8 Jahren"
+        "Premiere in den Märchenhütten - Zauberflöte & Sternenharfe - ab 8 Jahren"
       ],
       "venues": [
         "Märchenhütten"
@@ -8106,34 +8192,13 @@
           "start": "2026-11-21T19:00:00+01:00",
           "sold_out": false,
           "title": "Lange Nacht des Märchenerzählens 2026",
-          "subtitle": "Premiere in die Märchenhütten - Zauberflöte & Sternenharfe - ab 8 Jahren"
+          "subtitle": "Premiere in den Märchenhütten - Zauberflöte & Sternenharfe - ab 8 Jahren"
         },
         {
           "start": "2026-11-21T21:00:00+01:00",
           "sold_out": false,
           "title": "Lange Nacht des Märchenerzählens 2026",
-          "subtitle": "Premiere in die Märchenhütten - Zauberflöte & Sternenharfe - ab 8 Jahren"
-        }
-      ]
-    },
-    {
-      "title": "Hase und Igel & Der gestiefelte Kater",
-      "guid": "c78894107603ef20",
-      "first": "2026-11-22T16:00:00+01:00",
-      "subtitles": [],
-      "venues": [
-        "Wilhelmhütte"
-      ],
-      "english": false,
-      "description": "",
-      "titles": [],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-657099084",
-      "dates": [
-        {
-          "start": "2026-11-22T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Hase und Igel & Der gestiefelte Kater",
-          "subtitle": ""
+          "subtitle": "Premiere in den Märchenhütten - Zauberflöte & Sternenharfe - ab 8 Jahren"
         }
       ]
     },
