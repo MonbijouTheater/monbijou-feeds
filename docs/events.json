@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T20:50:45.467103+01:00",
+  "generated": "2026-11-11T20:42:12.635770+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -78,9 +78,9 @@
       "title": "Ayşenbrödel & Rumpelstilzchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/669038776",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -344,9 +344,9 @@
       "title": "Brüderchen und Schwesterchen & Rotkäppchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-731227106",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1268,9 +1268,9 @@
       "title": "Hänsel und Gretel & Hans im Glück",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/698815694",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1380,9 +1380,9 @@
       "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1909818551",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1576,9 +1576,9 @@
       "title": "Frau Holle für Kinder & Hase und Igel",
       "subtitle": "Für Kinder und Familien",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-129167544",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -1702,9 +1702,9 @@
       "title": "Knack den Fall !",
       "subtitle": "Zu Gast in den Märchenhütten",
       "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-2141910741",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "https://monbijou.billeto.net/eventinfo/31586",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "sonstige",
       "series": "Knack den Fall !",
@@ -1744,9 +1744,9 @@
       "title": "Schneewittchen für Erwachsene & Brüderchen und Schwesterchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-483078551",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1842,9 +1842,9 @@
       "title": "Tapfere Schneiderlein & Rumpelstilzchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-692883594",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1996,9 +1996,9 @@
       "title": "Schneewittchen für Erwachsene & Rotkäppchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1985048795",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -2290,9 +2290,9 @@
       "title": "Schneewittchen für Erwachsene & Tapfere Schneiderlein",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-283128775",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -5832,7 +5832,7 @@
         },
         {
           "start": "2026-11-14T19:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Ayşenbrödel & Rumpelstilzchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -5892,7 +5892,7 @@
         },
         {
           "start": "2026-11-20T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Brüderchen und Schwesterchen & Rotkäppchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6120,7 +6120,7 @@
         },
         {
           "start": "2026-12-03T17:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Hänsel und Gretel & Hans im Glück",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6162,7 +6162,7 @@
         },
         {
           "start": "2026-12-04T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6258,7 +6258,7 @@
         },
         {
           "start": "2026-12-08T17:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Schneewittchen für Erwachsene & Brüderchen und Schwesterchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6282,7 +6282,7 @@
         },
         {
           "start": "2026-12-09T17:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Tapfere Schneiderlein & Rumpelstilzchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6324,7 +6324,7 @@
         },
         {
           "start": "2026-12-10T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Schneewittchen für Erwachsene & Rotkäppchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6402,7 +6402,7 @@
         },
         {
           "start": "2026-12-12T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Schneewittchen für Erwachsene & Tapfere Schneiderlein",
           "subtitle": "Nur für Erwachsene"
         },
@@ -7576,7 +7576,7 @@
         },
         {
           "start": "2026-12-06T15:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Frau Holle für Kinder & Hase und Igel",
           "subtitle": "Für Kinder und Familien"
         },
@@ -8313,11 +8313,11 @@
       "english": false,
       "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!",
       "titles": [],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-2141910741",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1479036933",
       "dates": [
         {
           "start": "2026-12-07T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Knack den Fall !",
           "subtitle": "Zu Gast in den Märchenhütten"
         },
