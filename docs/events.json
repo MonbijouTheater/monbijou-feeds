@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T08:23:03.295285+01:00",
+  "generated": "2026-11-12T21:05:27.920408+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -932,9 +932,9 @@
       "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-227338029",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1170,9 +1170,9 @@
       "title": "Frau Holle und König Drosselbart",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/2137177399",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1394,9 +1394,9 @@
       "title": "Der Froschkönig & Von dem Machandelbaum",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/765290949",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1758,9 +1758,9 @@
       "title": "Der Froschkönig & Der wolf und die 7 Geißlein",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1672201190",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1842,9 +1842,9 @@
       "title": "Tapfere Schneiderlein & Rumpelstilzchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-692883594",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1968,9 +1968,9 @@
       "title": "Schneewittchen für Erwachsene & Brüderchen und Schwesterchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/87686514",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -2150,9 +2150,9 @@
       "title": "Ayşenbrödel & Rumpelstilzchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-156072229",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -2234,9 +2234,9 @@
       "title": "Schneewittchen für Kinder & Tapfere Schneiderlein",
       "subtitle": "Für Kinder und Familien",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1598091759",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -2696,9 +2696,9 @@
       "title": "Frau Holle & Schneewittchen für Erwachsene",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-645586357",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -3130,9 +3130,9 @@
       "title": "Tapfere Schneiderlein & Rotkäppchen",
       "subtitle": "Für Kinder und Familien",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-986831412",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -6030,7 +6030,7 @@
         },
         {
           "start": "2026-11-28T19:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6090,7 +6090,7 @@
         },
         {
           "start": "2026-12-02T17:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Frau Holle und König Drosselbart",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6168,7 +6168,7 @@
         },
         {
           "start": "2026-12-04T19:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Der Froschkönig & Von dem Machandelbaum",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6264,7 +6264,7 @@
         },
         {
           "start": "2026-12-08T17:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Der Froschkönig & Der wolf und die 7 Geißlein",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6282,7 +6282,7 @@
         },
         {
           "start": "2026-12-09T17:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Tapfere Schneiderlein & Rumpelstilzchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6312,7 +6312,7 @@
         },
         {
           "start": "2026-12-10T17:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Schneewittchen für Erwachsene & Brüderchen und Schwesterchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6372,7 +6372,7 @@
         },
         {
           "start": "2026-12-11T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Ayşenbrödel & Rumpelstilzchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6510,7 +6510,7 @@
         },
         {
           "start": "2026-12-16T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Frau Holle & Schneewittchen für Erwachsene",
           "subtitle": "Nur für Erwachsene"
         },
@@ -7612,7 +7612,7 @@
         },
         {
           "start": "2026-12-12T15:30:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Schneewittchen für Kinder & Tapfere Schneiderlein",
           "subtitle": "Für Kinder und Familien"
         },
@@ -7678,7 +7678,7 @@
         },
         {
           "start": "2026-12-20T13:30:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Tapfere Schneiderlein & Rotkäppchen",
           "subtitle": "Für Kinder und Familien"
         },
