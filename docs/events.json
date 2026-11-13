@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T21:05:27.920408+01:00",
+  "generated": "2026-11-13T07:55:25.319552+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -1338,9 +1338,9 @@
       "title": "Hänsel und Gretel & Hans im Glück",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-207140735",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -6144,7 +6144,7 @@
         },
         {
           "start": "2026-12-04T16:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Hänsel und Gretel & Hans im Glück",
           "subtitle": "Nur für Erwachsene"
         },
