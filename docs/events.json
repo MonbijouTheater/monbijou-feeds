@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T23:36:11.755728+01:00",
+  "generated": "2026-11-15T07:46:11.900072+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -302,9 +302,9 @@
       "title": "Der gestiefelte Kater & Schneewittchen für Kinder",
       "subtitle": "Für Kinder und Familien",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1989593771",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -5714,7 +5714,7 @@
         },
         {
           "start": "2026-11-21T16:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Der gestiefelte Kater & Schneewittchen für Kinder",
           "subtitle": "Für Kinder und Familien"
         },
