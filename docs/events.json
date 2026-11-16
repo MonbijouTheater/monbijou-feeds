@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T19:57:03.998322+01:00",
+  "generated": "2026-11-16T07:45:11.360596+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -176,9 +176,9 @@
       "title": "Frau Holle & Brüderchen und Schwesterchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1165380515",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -694,9 +694,9 @@
       "title": "Hänsel und Gretel & Die Bremer Stadtmusikanten",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/963402160",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1464,9 +1464,9 @@
       "title": "Der Froschkönig & Kaiser Trojan hat Ziegenohren",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1818052776",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1982,9 +1982,9 @@
       "title": "Frau Holle & Hänsel und Gretel",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1395535017",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -2178,9 +2178,9 @@
       "title": "Frau Holle für Kinder & Die Schneekönigen",
       "subtitle": "Für Kinder und Familien",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1974393176",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -3144,9 +3144,9 @@
       "title": "Tapfere Schneiderlein & Rotkäppchen",
       "subtitle": "Für Kinder und Familien",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-986831412",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -3158,9 +3158,9 @@
       "title": "Frau Holle für Kinder & Fischer un sin Fru",
       "subtitle": "Für Kinder und Familien",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/749503217",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -6238,7 +6238,7 @@
         },
         {
           "start": "2026-11-20T17:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Frau Holle & Brüderchen und Schwesterchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6358,7 +6358,7 @@
         },
         {
           "start": "2026-11-27T17:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Hänsel und Gretel & Die Bremer Stadtmusikanten",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6586,7 +6586,7 @@
         },
         {
           "start": "2026-12-05T19:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Der Froschkönig & Kaiser Trojan hat Ziegenohren",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6724,7 +6724,7 @@
         },
         {
           "start": "2026-12-10T19:30:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Frau Holle & Hänsel und Gretel",
           "subtitle": "Nur für Erwachsene"
         },
@@ -8036,7 +8036,7 @@
         },
         {
           "start": "2026-12-12T11:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Frau Holle für Kinder & Die Schneekönigen",
           "subtitle": "Für Kinder und Familien"
         },
@@ -8132,13 +8132,13 @@
         },
         {
           "start": "2026-12-20T13:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Tapfere Schneiderlein & Rotkäppchen",
           "subtitle": "Für Kinder und Familien"
         },
         {
           "start": "2026-12-20T14:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Frau Holle für Kinder & Fischer un sin Fru",
           "subtitle": "Für Kinder und Familien"
         },
