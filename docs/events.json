@@ -1,35 +1,7 @@
 {
-  "generated": "2026-11-16T23:17:11.382513+01:00",
+  "generated": "2026-11-17T22:03:37.737709+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
-    {
-      "uid": "19142a4ccfa39ab8@monbijou-feeds",
-      "start": "2026-11-17T09:30:00+01:00",
-      "title": "Die Schneekönigin & Hase und Igel",
-      "subtitle": "Märchen für Schulen & Kitas - ab 4 Jahre",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1058287500",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "schule",
-      "series": "Märchen für Kitas & Schulen",
-      "description": ""
-    },
-    {
-      "uid": "8d72f7a24d14e314@monbijou-feeds",
-      "start": "2026-11-17T11:00:00+01:00",
-      "title": "Hase und Igel & Die Schneekönigin",
-      "subtitle": "Märchen für Schulen & Kitas - ab 4 Jahre",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/2058353427",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "schule",
-      "series": "Märchen für Kitas & Schulen",
-      "description": ""
-    },
     {
       "uid": "e2deca6d87b6788e@monbijou-feeds",
       "start": "2026-11-18T09:30:00+01:00",
@@ -470,9 +442,9 @@
       "title": "Märchen für Kinder",
       "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre",
       "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1345050629",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "schule",
       "series": "Märchen für Kitas & Schulen",
@@ -1683,6 +1655,20 @@
       "description": ""
     },
     {
+      "uid": "e95efc3dd72c35fe@monbijou-feeds",
+      "start": "2026-12-07T09:30:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/",
+      "info_url": "",
+      "sold_out": true,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
+      "description": ""
+    },
+    {
       "uid": "6ac520bee5320839@monbijou-feeds",
       "start": "2026-12-07T11:00:00+01:00",
       "title": "Märchen für Kinder",
@@ -2262,9 +2248,9 @@
       "title": "Rumpelstilzchen & Ayşenbrödel",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/490788613",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -3102,9 +3088,9 @@
       "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-895961744",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -5985,7 +5971,7 @@
     {
       "title": "Märchen für Kitas & Schulen",
       "guid": "b28b5f5629573ce3",
-      "first": "2026-11-17T09:30:00+01:00",
+      "first": "2026-11-18T09:30:00+01:00",
       "subtitles": [
         "Märchen für Schulen & Kitas - ab 4 Jahre",
         "Vorstellungen für Kindergärten und Schulen",
@@ -5998,26 +5984,12 @@
       "english": false,
       "description": "",
       "titles": [
-        "Die Schneekönigin & Hase und Igel",
-        "Hase und Igel & Die Schneekönigin",
         "Hase und Igel & Rotkäppchen",
         "Märchen für Kinder",
         "Schneewittchen für Kinder & Hase und Igel"
       ],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1058287500",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/618078441",
       "dates": [
-        {
-          "start": "2026-11-17T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Die Schneekönigin & Hase und Igel",
-          "subtitle": "Märchen für Schulen & Kitas - ab 4 Jahre"
-        },
-        {
-          "start": "2026-11-17T11:00:00+01:00",
-          "sold_out": false,
-          "title": "Hase und Igel & Die Schneekönigin",
-          "subtitle": "Märchen für Schulen & Kitas - ab 4 Jahre"
-        },
         {
           "start": "2026-11-18T09:30:00+01:00",
           "sold_out": true,
@@ -6044,7 +6016,7 @@
         },
         {
           "start": "2026-11-25T09:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
         },
@@ -6107,6 +6079,12 @@
           "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-07T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
         {
           "start": "2026-12-07T11:00:00+01:00",
@@ -7018,7 +6996,7 @@
         },
         {
           "start": "2026-12-11T21:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Rumpelstilzchen & Ayşenbrödel",
           "subtitle": "Nur für Erwachsene"
         },
@@ -7210,7 +7188,7 @@
         },
         {
           "start": "2026-12-18T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
           "subtitle": "Nur für Erwachsene"
         },
