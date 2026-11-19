@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T21:40:41.760200+01:00",
+  "generated": "2026-11-19T08:37:28.111622+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -2164,9 +2164,9 @@
       "title": "Tapfere Schneiderlein & Ayşenbrödel",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1063982917",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -3438,9 +3438,9 @@
       "title": "Märchen für Kinder",
       "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre",
       "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1339926195",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "schule",
       "series": "Märchen für Kitas & Schulen",
@@ -3788,9 +3788,9 @@
       "title": "Frau Holle für Kinder & Die Schneekönigen",
       "subtitle": "Für Kinder und Familien",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/234705347",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -6221,7 +6221,7 @@
         },
         {
           "start": "2026-12-21T11:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
         },
@@ -6937,7 +6937,7 @@
         },
         {
           "start": "2026-12-11T17:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Tapfere Schneiderlein & Ayşenbrödel",
           "subtitle": "Nur für Erwachsene"
         },
@@ -8374,7 +8374,7 @@
         },
         {
           "start": "2026-12-23T14:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Frau Holle für Kinder & Die Schneekönigen",
           "subtitle": "Für Kinder und Familien"
         },
