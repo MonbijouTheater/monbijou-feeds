@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T21:47:12.403935+01:00",
+  "generated": "2026-11-20T08:28:43.088191+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -1086,9 +1086,9 @@
       "title": "Schneewittchen für Erwachsene & Brüderchen und Schwesterchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/66348337",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1184,9 +1184,9 @@
       "title": "Rumpelstilzchen & Rotkäppchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-575850472",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1926,9 +1926,9 @@
       "title": "Schneewittchen für Erwachsene & Rotkäppchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1985048795",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -6766,7 +6766,7 @@
         },
         {
           "start": "2026-12-03T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Schneewittchen für Erwachsene & Brüderchen und Schwesterchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6790,7 +6790,7 @@
         },
         {
           "start": "2026-12-04T17:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Rumpelstilzchen & Rotkäppchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6976,7 +6976,7 @@
         },
         {
           "start": "2026-12-10T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Schneewittchen für Erwachsene & Rotkäppchen",
           "subtitle": "Nur für Erwachsene"
         },
