@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T21:30:13.975334+01:00",
+  "generated": "2026-11-21T08:22:58.114431+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -652,9 +652,9 @@
       "title": "Schneewittchen für Kinder & Hase und Igel",
       "subtitle": "Für Kinder und Familien",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1697003553",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -5903,7 +5903,7 @@
         },
         {
           "start": "2026-11-29T15:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Schneewittchen für Kinder & Hase und Igel",
           "subtitle": "Für Kinder und Familien"
         },
