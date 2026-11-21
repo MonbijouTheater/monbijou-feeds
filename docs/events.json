@@ -1,91 +1,7 @@
 {
-  "generated": "2026-11-21T08:22:58.114431+01:00",
+  "generated": "2026-11-21T20:26:39.962244+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
-    {
-      "uid": "06ce1fdd95a8eb7e@monbijou-feeds",
-      "start": "2026-11-21T15:30:00+01:00",
-      "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-      "subtitle": "Für Kinder und Familien",
-      "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
-      "info_url": "",
-      "sold_out": true,
-      "english": false,
-      "audience": "familie",
-      "series": "Märchen für Kinder & Familien",
-      "description": ""
-    },
-    {
-      "uid": "df1ed5a03f975e91@monbijou-feeds",
-      "start": "2026-11-21T16:00:00+01:00",
-      "title": "Der gestiefelte Kater & Schneewittchen für Kinder",
-      "subtitle": "Für Kinder und Familien",
-      "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
-      "info_url": "",
-      "sold_out": true,
-      "english": false,
-      "audience": "familie",
-      "series": "Märchen für Kinder & Familien",
-      "description": ""
-    },
-    {
-      "uid": "3269c7ea1c84882c@monbijou-feeds",
-      "start": "2026-11-21T17:00:00+01:00",
-      "title": "Rotkäppchen & Brüderchen und Schwesterchen",
-      "subtitle": "Nur für Erwachsene",
-      "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
-      "info_url": "",
-      "sold_out": true,
-      "english": false,
-      "audience": "erwachsene",
-      "series": "Märchen für Erwachsene",
-      "description": ""
-    },
-    {
-      "uid": "0a5f20485f6c305d@monbijou-feeds",
-      "start": "2026-11-21T17:30:00+01:00",
-      "title": "Die Bremer Stadtmusikanten & Blaubart",
-      "subtitle": "Nur für Erwachsene",
-      "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1880011886",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "erwachsene",
-      "series": "Märchen für Erwachsene",
-      "description": ""
-    },
-    {
-      "uid": "82fa90167d7c5b88@monbijou-feeds",
-      "start": "2026-11-21T19:00:00+01:00",
-      "title": "Lange Nacht des Märchenerzählens 2026",
-      "subtitle": "Premiere in den Märchenhütten - Zauberflöte & Sternenharfe - ab 8 Jahren",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/647637919",
-      "info_url": "https://monbijou.billeto.net/eventinfo/31344",
-      "sold_out": false,
-      "english": false,
-      "audience": "sonstige",
-      "series": "Lange Nacht des Märchenerzählens 2026",
-      "description": "Ein Ton, der durch die Winternacht zieht. Eine Melodie, die den richtigen Weg weist. Eine Harfe, deren Saiten von den Sternen berührt werden. Seit jeher erzählen Märchen auch von der Kraft der Musik. Sie tröstet, verführt, schützt und öffnet Türen zu Welten, die nur der Fantasie zugänglich sind. Unter dem Motto „Zauberflöte & Sternenharfe“ lädt die Lange Nacht des Märchenerzählens in diesem Jahr erstmals in die Märchenhütten ein. Zwischen den kleinen Holzhäusern, knisternden Feuerstellen und den alten Bäumen des Monbijouparks entsteht eine Welt, in der Theater, Märchen und Musik miteinander in einen Dialog treten. In den Hütten begegnen Sie den Märchen der Brüder Grimm. Am Feuer erklingt Musik, die Ihnen den Weg durch die Märchennacht weist. Seit mehr als zwanzig Jahren laden die Märchenhütten dazu ein, den Winter mit Theater zu verbringen. Aus alten Märchen werden lebendige Begegnungen, aus Zuschauern Mitreisende und aus einem Abend Erinnerungen, die noch lange nachklingen. Vielleicht beginnt das schönste Märchen dieses Winters bereits in dem Augenblick, in dem Sie durch das Tor der Märchenhütten treten und bereit sind, dem Klang der Märchen zu folgen. Künstlerische Leitung: Marlies Ludwig und André Lewski."
-    },
-    {
-      "uid": "2cd034f9448581f6@monbijou-feeds",
-      "start": "2026-11-21T19:30:00+01:00",
-      "title": "Kaiser Trojan hat Ziegenohren / Fischer un sin Fru",
-      "subtitle": "Nur für Erwachsene",
-      "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1574790222",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "erwachsene",
-      "series": "Märchen für Erwachsene",
-      "description": ""
-    },
     {
       "uid": "c0cb1c05eb904455@monbijou-feeds",
       "start": "2026-11-21T21:00:00+01:00",
@@ -400,9 +316,9 @@
       "title": "Die Bremer Stadtmusikanten & Kaiser Trojan hat Ziegenohren",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1873033300",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -4012,9 +3928,9 @@
       "title": "Die Schneekönigin & Frau Holle für Kinder",
       "subtitle": "Für Kinder und Familien",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1585296958",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -5787,9 +5703,32 @@
   ],
   "productions": [
     {
+      "title": "Lange Nacht des Märchenerzählens 2026",
+      "guid": "02176c88ca7baa38",
+      "first": "2026-11-21T21:00:00+01:00",
+      "subtitles": [
+        "Premiere in den Märchenhütten - Zauberflöte & Sternenharfe - ab 8 Jahren"
+      ],
+      "venues": [
+        "Märchenhütten"
+      ],
+      "english": false,
+      "description": "Ein Ton, der durch die Winternacht zieht. Eine Melodie, die den richtigen Weg weist. Eine Harfe, deren Saiten von den Sternen berührt werden. Seit jeher erzählen Märchen auch von der Kraft der Musik. Sie tröstet, verführt, schützt und öffnet Türen zu Welten, die nur der Fantasie zugänglich sind. Unter dem Motto „Zauberflöte & Sternenharfe“ lädt die Lange Nacht des Märchenerzählens in diesem Jahr erstmals in die Märchenhütten ein. Zwischen den kleinen Holzhäusern, knisternden Feuerstellen und den alten Bäumen des Monbijouparks entsteht eine Welt, in der Theater, Märchen und Musik miteinander in einen Dialog treten. In den Hütten begegnen Sie den Märchen der Brüder Grimm. Am Feuer erklingt Musik, die Ihnen den Weg durch die Märchennacht weist. Seit mehr als zwanzig Jahren laden die Märchenhütten dazu ein, den Winter mit Theater zu verbringen. Aus alten Märchen werden lebendige Begegnungen, aus Zuschauern Mitreisende und aus einem Abend Erinnerungen, die noch lange nachklingen. Vielleicht beginnt das schönste Märchen dieses Winters bereits in dem Augenblick, in dem Sie durch das Tor der Märchenhütten treten und bereit sind, dem Klang der Märchen zu folgen. Künstlerische Leitung: Marlies Ludwig und André Lewski.",
+      "titles": [],
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/2046274439",
+      "dates": [
+        {
+          "start": "2026-11-21T21:00:00+01:00",
+          "sold_out": false,
+          "title": "Lange Nacht des Märchenerzählens 2026",
+          "subtitle": "Premiere in den Märchenhütten - Zauberflöte & Sternenharfe - ab 8 Jahren"
+        }
+      ]
+    },
+    {
       "title": "Märchen für Kinder & Familien",
       "guid": "3121280d99efaf0a",
-      "first": "2026-11-21T15:30:00+01:00",
+      "first": "2026-11-22T15:30:00+01:00",
       "subtitles": [
         "Familienvorstellung",
         "Für Kinder und Familien"
@@ -5805,7 +5744,6 @@
         "Der gestiefelte Kater & Fischer un sin Fru",
         "Der gestiefelte Kater & Hase und Igel",
         "Der gestiefelte Kater & Hänsel und Gretel",
-        "Der gestiefelte Kater & Schneewittchen für Kinder",
         "Die Schneekönigin & Frau Holle für Kinder",
         "Fischer un sin Frau & Frau Holle für Kinder",
         "Fischer un sin Frau & Schneewittchen für Kinder",
@@ -5835,18 +5773,6 @@
       ],
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/62128924",
       "dates": [
-        {
-          "start": "2026-11-21T15:30:00+01:00",
-          "sold_out": true,
-          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-11-21T16:00:00+01:00",
-          "sold_out": true,
-          "title": "Der gestiefelte Kater & Schneewittchen für Kinder",
-          "subtitle": "Für Kinder und Familien"
-        },
         {
           "start": "2026-11-22T15:30:00+01:00",
           "sold_out": false,
@@ -6209,7 +6135,7 @@
         },
         {
           "start": "2026-12-27T16:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Die Schneekönigin & Frau Holle für Kinder",
           "subtitle": "Für Kinder und Familien"
         },
@@ -6296,7 +6222,7 @@
     {
       "title": "Märchen für Erwachsene",
       "guid": "c0db31bfd1fa43b9",
-      "first": "2026-11-21T17:00:00+01:00",
+      "first": "2026-11-22T19:00:00+01:00",
       "subtitles": [
         "Nur für Erwachsene",
         "Nur für Erwachsene - Mit einem Glühwein aufs Haus."
@@ -6382,7 +6308,6 @@
         "König Drosselbart & Kaiser Trojan hat Ziegenohren",
         "Rotkäppchen & Ayşenbrödel",
         "Rotkäppchen & Blaubart",
-        "Rotkäppchen & Brüderchen und Schwesterchen",
         "Rotkäppchen & Der Wolf und die 7 Geißlein",
         "Rotkäppchen & Rumpelstilzchen",
         "Rotkäppchen & Tapfere Schneiderlein",
@@ -6408,26 +6333,8 @@
         "Von dem Machandelboom & Hänsel und Gretel",
         "Von dem Machandelboom & Kaiser Trojan hat Ziegenohren"
       ],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1880011886",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/535339106",
       "dates": [
-        {
-          "start": "2026-11-21T17:00:00+01:00",
-          "sold_out": true,
-          "title": "Rotkäppchen & Brüderchen und Schwesterchen",
-          "subtitle": "Nur für Erwachsene"
-        },
-        {
-          "start": "2026-11-21T17:30:00+01:00",
-          "sold_out": false,
-          "title": "Die Bremer Stadtmusikanten & Blaubart",
-          "subtitle": "Nur für Erwachsene"
-        },
-        {
-          "start": "2026-11-21T19:30:00+01:00",
-          "sold_out": false,
-          "title": "Kaiser Trojan hat Ziegenohren / Fischer un sin Fru",
-          "subtitle": "Nur für Erwachsene"
-        },
         {
           "start": "2026-11-22T19:00:00+01:00",
           "sold_out": false,
@@ -6484,7 +6391,7 @@
         },
         {
           "start": "2026-11-26T19:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Die Bremer Stadtmusikanten & Kaiser Trojan hat Ziegenohren",
           "subtitle": "Nur für Erwachsene"
         },
@@ -7969,35 +7876,6 @@
           "sold_out": false,
           "title": "Die Bremer Stadtmusikanten & Blaubart",
           "subtitle": "Nur für Erwachsene"
-        }
-      ]
-    },
-    {
-      "title": "Lange Nacht des Märchenerzählens 2026",
-      "guid": "02176c88ca7baa38",
-      "first": "2026-11-21T19:00:00+01:00",
-      "subtitles": [
-        "Premiere in den Märchenhütten - Zauberflöte & Sternenharfe - ab 8 Jahren"
-      ],
-      "venues": [
-        "Märchenhütten"
-      ],
-      "english": false,
-      "description": "Ein Ton, der durch die Winternacht zieht. Eine Melodie, die den richtigen Weg weist. Eine Harfe, deren Saiten von den Sternen berührt werden. Seit jeher erzählen Märchen auch von der Kraft der Musik. Sie tröstet, verführt, schützt und öffnet Türen zu Welten, die nur der Fantasie zugänglich sind. Unter dem Motto „Zauberflöte & Sternenharfe“ lädt die Lange Nacht des Märchenerzählens in diesem Jahr erstmals in die Märchenhütten ein. Zwischen den kleinen Holzhäusern, knisternden Feuerstellen und den alten Bäumen des Monbijouparks entsteht eine Welt, in der Theater, Märchen und Musik miteinander in einen Dialog treten. In den Hütten begegnen Sie den Märchen der Brüder Grimm. Am Feuer erklingt Musik, die Ihnen den Weg durch die Märchennacht weist. Seit mehr als zwanzig Jahren laden die Märchenhütten dazu ein, den Winter mit Theater zu verbringen. Aus alten Märchen werden lebendige Begegnungen, aus Zuschauern Mitreisende und aus einem Abend Erinnerungen, die noch lange nachklingen. Vielleicht beginnt das schönste Märchen dieses Winters bereits in dem Augenblick, in dem Sie durch das Tor der Märchenhütten treten und bereit sind, dem Klang der Märchen zu folgen. Künstlerische Leitung: Marlies Ludwig und André Lewski.",
-      "titles": [],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/647637919",
-      "dates": [
-        {
-          "start": "2026-11-21T19:00:00+01:00",
-          "sold_out": false,
-          "title": "Lange Nacht des Märchenerzählens 2026",
-          "subtitle": "Premiere in den Märchenhütten - Zauberflöte & Sternenharfe - ab 8 Jahren"
-        },
-        {
-          "start": "2026-11-21T21:00:00+01:00",
-          "sold_out": false,
-          "title": "Lange Nacht des Märchenerzählens 2026",
-          "subtitle": "Premiere in den Märchenhütten - Zauberflöte & Sternenharfe - ab 8 Jahren"
         }
       ]
     },
