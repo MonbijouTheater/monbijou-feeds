@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T11:03:57.931958+01:00",
+  "generated": "2026-11-24T23:34:59.455053+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -176,9 +176,9 @@
       "title": "Die Bremer Stadtmusikanten & Kaiser Trojan hat Ziegenohren",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1873033300",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -232,9 +232,9 @@
       "title": "Hänsel und Gretel & Die Bremer Stadtmusikanten",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/963402160",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -890,9 +890,9 @@
       "title": "Von dem Machandelbaum & Der Froschkönig",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/228710082",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -960,9 +960,9 @@
       "title": "Fischer un sin Frau & Schneewittchen für Kinder",
       "subtitle": "Für Kinder und Familien",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1932149222",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -1389,14 +1389,28 @@
       "description": ""
     },
     {
+      "uid": "a400182f340f6263@monbijou-feeds",
+      "start": "2026-12-09T09:30:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-616709035",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
+      "description": ""
+    },
+    {
       "uid": "1fd0d1b2048ce3b5@monbijou-feeds",
       "start": "2026-12-09T11:00:00+01:00",
       "title": "Märchen für Kinder",
       "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
       "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-728609010",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "schule",
       "series": "Märchen für Kitas & Schulen",
@@ -1422,9 +1436,9 @@
       "title": "Tapfere Schneiderlein & Rumpelstilzchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-692883594",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1669,20 +1683,6 @@
       "description": ""
     },
     {
-      "uid": "e056cfb71de7ccd9@monbijou-feeds",
-      "start": "2026-12-11T09:30:00+01:00",
-      "title": "Märchen für Kinder",
-      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/",
-      "info_url": "",
-      "sold_out": true,
-      "english": false,
-      "audience": "schule",
-      "series": "Märchen für Kitas & Schulen",
-      "description": ""
-    },
-    {
       "uid": "2740b1c919405cca@monbijou-feeds",
       "start": "2026-12-11T11:00:00+01:00",
       "title": "Märchen für Kinder",
@@ -1786,9 +1786,9 @@
       "title": "Fischer un sin Fru & Hänsel und Gretel",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-554533953",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1870,9 +1870,9 @@
       "title": "Schneewittchen für Kinder & Tapfere Schneiderlein",
       "subtitle": "Für Kinder und Familien",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1598091759",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -3103,20 +3103,6 @@
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/452000135",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "erwachsene",
-      "series": "Märchen für Erwachsene",
-      "description": ""
-    },
-    {
-      "uid": "d06c3a9611b8a2e1@monbijou-feeds",
-      "start": "2026-12-21T17:30:00+01:00",
-      "title": "Blaubart & König Drosselbart",
-      "subtitle": "Nur für Erwachsene",
-      "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/210628355",
       "info_url": "",
       "sold_out": false,
       "english": false,
@@ -5696,8 +5682,14 @@
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
         {
-          "start": "2026-12-09T11:00:00+01:00",
+          "start": "2026-12-09T09:30:00+01:00",
           "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-09T11:00:00+01:00",
+          "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
@@ -5728,12 +5720,6 @@
         {
           "start": "2026-12-11T09:30:00+01:00",
           "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-11T09:30:00+01:00",
-          "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
@@ -5917,7 +5903,6 @@
         "Ayşenbrödel & Tapfere Schneiderlein",
         "Blaubart & Die Bremer Stadtmusikanten",
         "Blaubart & Frau Holle",
-        "Blaubart & König Drosselbart",
         "Brüderchen und Schwesterchen & Frau Holle",
         "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
         "Brüderchen und Schwesterchen & Tapfere Schneiderlein",
@@ -6055,7 +6040,7 @@
         },
         {
           "start": "2026-11-26T19:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Die Bremer Stadtmusikanten & Kaiser Trojan hat Ziegenohren",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6073,7 +6058,7 @@
         },
         {
           "start": "2026-11-27T17:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Hänsel und Gretel & Die Bremer Stadtmusikanten",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6253,7 +6238,7 @@
         },
         {
           "start": "2026-12-04T17:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Von dem Machandelbaum & Der Froschkönig",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6385,7 +6370,7 @@
         },
         {
           "start": "2026-12-09T17:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Tapfere Schneiderlein & Rumpelstilzchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6487,7 +6472,7 @@
         },
         {
           "start": "2026-12-11T19:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Fischer un sin Fru & Hänsel und Gretel",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6795,12 +6780,6 @@
           "start": "2026-12-21T17:00:00+01:00",
           "sold_out": false,
           "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
-          "subtitle": "Nur für Erwachsene"
-        },
-        {
-          "start": "2026-12-21T17:30:00+01:00",
-          "sold_out": false,
-          "title": "Blaubart & König Drosselbart",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -7646,7 +7625,7 @@
         },
         {
           "start": "2026-12-05T14:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Fischer un sin Frau & Schneewittchen für Kinder",
           "subtitle": "Für Kinder und Familien"
         },
@@ -7712,7 +7691,7 @@
         },
         {
           "start": "2026-12-12T15:30:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Schneewittchen für Kinder & Tapfere Schneiderlein",
           "subtitle": "Für Kinder und Familien"
         },
