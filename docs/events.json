@@ -1,35 +1,7 @@
 {
-  "generated": "2026-11-24T01:01:53.116034+01:00",
+  "generated": "2026-11-24T11:03:57.931958+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
-    {
-      "uid": "04bc9c04dfa574f7@monbijou-feeds",
-      "start": "2026-11-24T09:30:00+01:00",
-      "title": "Märchen für Kinder",
-      "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1737459352",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "schule",
-      "series": "Märchen für Kitas & Schulen",
-      "description": ""
-    },
-    {
-      "uid": "3e1cbd25511c4298@monbijou-feeds",
-      "start": "2026-11-24T11:00:00+01:00",
-      "title": "Märchen für Kinder",
-      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/322345632",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "schule",
-      "series": "Märchen für Kitas & Schulen",
-      "description": ""
-    },
     {
       "uid": "105d79cf40a760fb@monbijou-feeds",
       "start": "2026-11-25T09:30:00+01:00",
@@ -302,9 +274,9 @@
       "title": "Rumpelstilzchen & Ayşenbrödel",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1206244673",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1263,14 +1235,28 @@
       "description": ""
     },
     {
+      "uid": "e95efc3dd72c35fe@monbijou-feeds",
+      "start": "2026-12-07T09:30:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/",
+      "info_url": "",
+      "sold_out": true,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
+      "description": ""
+    },
+    {
       "uid": "7e8126dbccc70907@monbijou-feeds",
       "start": "2026-12-07T19:00:00+01:00",
       "title": "Knack den Fall !",
       "subtitle": "Zu Gast in den Märchenhütten",
       "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-2141910741",
       "info_url": "https://monbijou.billeto.net/eventinfo/31586",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "sonstige",
       "series": "Knack den Fall !",
@@ -5593,7 +5579,7 @@
     {
       "title": "Märchen für Kitas & Schulen",
       "guid": "b28b5f5629573ce3",
-      "first": "2026-11-24T09:30:00+01:00",
+      "first": "2026-11-25T09:30:00+01:00",
       "subtitles": [
         "Vorstellungen für Kindergärten und Schulen",
         "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre",
@@ -5605,20 +5591,8 @@
       "english": false,
       "description": "",
       "titles": [],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1737459352",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-2122957259",
       "dates": [
-        {
-          "start": "2026-11-24T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
-        },
-        {
-          "start": "2026-11-24T11:00:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
         {
           "start": "2026-11-25T09:30:00+01:00",
           "sold_out": true,
@@ -5696,6 +5670,12 @@
           "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-07T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
         {
           "start": "2026-12-08T09:30:00+01:00",
@@ -6111,7 +6091,7 @@
         },
         {
           "start": "2026-11-27T21:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Rumpelstilzchen & Ayşenbrödel",
           "subtitle": "Nur für Erwachsene"
         },
@@ -8120,11 +8100,11 @@
       "english": false,
       "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!",
       "titles": [],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/217750084",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-2141910741",
       "dates": [
         {
           "start": "2026-12-07T19:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Knack den Fall !",
           "subtitle": "Zu Gast in den Märchenhütten"
         },
