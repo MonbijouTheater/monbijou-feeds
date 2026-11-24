@@ -1,21 +1,7 @@
 {
-  "generated": "2026-11-22T20:49:31.859513+01:00",
+  "generated": "2026-11-24T01:01:53.116034+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
-    {
-      "uid": "d5a8506caca2fedc@monbijou-feeds",
-      "start": "2026-11-23T19:30:00+01:00",
-      "title": "Shakespeariment - Romeo and Juliet",
-      "subtitle": "Shakespeare. The Real Deal. An ensemble of English speaking actors. One rehearsal, one show.",
-      "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
-      "info_url": "https://monbijou.billeto.net/eventinfo/32195",
-      "sold_out": true,
-      "english": true,
-      "audience": "sonstige",
-      "series": "Shakespeariment - Romeo and Juliet",
-      "description": "Shakespeare. The Real Deal. One Night Only. New Venue! Even More Seats! A bunch of classical English-speaking actors stranded in Berlin in search of an audience for this beautiful, oft-misunderstood language. They prepare their parts, have one rehearsal and then bring Shakespeare to life in the stunning Monbijou Theater. Best of all, it's free! (obviously we will still pass the hat, cultural funding has been cut and rents are still going up! so bring cash, we're happy to make change for 50s and 100s)"
-    },
     {
       "uid": "04bc9c04dfa574f7@monbijou-feeds",
       "start": "2026-11-24T09:30:00+01:00",
@@ -302,9 +288,9 @@
       "title": "Hans im Glück & Die Bremer Stadtmusikanten",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/667922722",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -546,6 +532,20 @@
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
+      "description": ""
+    },
+    {
+      "uid": "0cfc289895c2be1b@monbijou-feeds",
+      "start": "2026-11-30T09:30:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-724247124",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
       "description": ""
     },
     {
@@ -960,9 +960,9 @@
       "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-581466173",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1170,9 +1170,9 @@
       "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1568519748",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1702,9 +1702,9 @@
       "title": "Märchen für Kinder",
       "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
       "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1249283783",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "schule",
       "series": "Märchen für Kitas & Schulen",
@@ -1926,9 +1926,9 @@
       "title": "Fischer un sin Frau & Frau Holle",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1094670546",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -2038,9 +2038,9 @@
       "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
       "subtitle": "Für Kinder und Familien",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/321187667",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -2808,9 +2808,9 @@
       "title": "Rumpelstilzchen & Tapfere Schneiderlein",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1664266334",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -2892,9 +2892,9 @@
       "title": "Frau Holle für Kinder & Fischer un sin Fru",
       "subtitle": "Für Kinder und Familien",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/749503217",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -3830,9 +3830,9 @@
       "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/397245638",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -4068,9 +4068,9 @@
       "title": "Frau Holle für Kinder & Der Schneekönigen",
       "subtitle": "Für Kinder und Familien",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1866340053",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -5591,29 +5591,6 @@
   ],
   "productions": [
     {
-      "title": "Shakespeariment - Romeo and Juliet",
-      "guid": "720385668edbd9b3",
-      "first": "2026-11-23T19:30:00+01:00",
-      "subtitles": [
-        "Shakespeare. The Real Deal. An ensemble of English speaking actors. One rehearsal, one show."
-      ],
-      "venues": [
-        "Jacobhütte"
-      ],
-      "english": true,
-      "description": "Shakespeare. The Real Deal. One Night Only. New Venue! Even More Seats! A bunch of classical English-speaking actors stranded in Berlin in search of an audience for this beautiful, oft-misunderstood language. They prepare their parts, have one rehearsal and then bring Shakespeare to life in the stunning Monbijou Theater. Best of all, it's free! (obviously we will still pass the hat, cultural funding has been cut and rents are still going up! so bring cash, we're happy to make change for 50s and 100s)",
-      "titles": [],
-      "ticket_url": "https://monbijou.billeto.net/",
-      "dates": [
-        {
-          "start": "2026-11-23T19:30:00+01:00",
-          "sold_out": true,
-          "title": "Shakespeariment - Romeo and Juliet",
-          "subtitle": "Shakespeare. The Real Deal. An ensemble of English speaking actors. One rehearsal, one show."
-        }
-      ]
-    },
-    {
       "title": "Märchen für Kitas & Schulen",
       "guid": "b28b5f5629573ce3",
       "first": "2026-11-24T09:30:00+01:00",
@@ -5659,6 +5636,12 @@
           "sold_out": false,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
+        },
+        {
+          "start": "2026-11-30T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
         {
           "start": "2026-11-30T11:00:00+01:00",
@@ -5776,7 +5759,7 @@
         },
         {
           "start": "2026-12-11T11:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
@@ -6122,7 +6105,7 @@
         },
         {
           "start": "2026-11-27T19:30:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Hans im Glück & Die Bremer Stadtmusikanten",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6308,7 +6291,7 @@
         },
         {
           "start": "2026-12-04T21:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6356,7 +6339,7 @@
         },
         {
           "start": "2026-12-06T17:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6542,7 +6525,7 @@
         },
         {
           "start": "2026-12-12T17:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Fischer un sin Frau & Frau Holle",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6764,7 +6747,7 @@
         },
         {
           "start": "2026-12-19T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Rumpelstilzchen & Tapfere Schneiderlein",
           "subtitle": "Nur für Erwachsene"
         },
@@ -7004,7 +6987,7 @@
         },
         {
           "start": "2026-12-27T17:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
           "subtitle": "Nur für Erwachsene"
         },
@@ -7773,7 +7756,7 @@
         },
         {
           "start": "2026-12-13T15:30:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
           "subtitle": "Für Kinder und Familien"
         },
@@ -7833,7 +7816,7 @@
         },
         {
           "start": "2026-12-20T14:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Frau Holle für Kinder & Fischer un sin Fru",
           "subtitle": "Für Kinder und Familien"
         },
@@ -7983,7 +7966,7 @@
         },
         {
           "start": "2026-12-30T16:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Frau Holle für Kinder & Der Schneekönigen",
           "subtitle": "Für Kinder und Familien"
         },
