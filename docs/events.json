@@ -1,77 +1,7 @@
 {
-  "generated": "2026-11-25T09:47:59.886319+01:00",
+  "generated": "2026-11-25T22:48:54.018761+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
-    {
-      "uid": "5712613d76d53828@monbijou-feeds",
-      "start": "2026-11-25T11:00:00+01:00",
-      "title": "Märchen für Kinder",
-      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-2122957259",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "schule",
-      "series": "Märchen für Kitas & Schulen",
-      "description": ""
-    },
-    {
-      "uid": "2a1ab1924de23d65@monbijou-feeds",
-      "start": "2026-11-25T17:00:00+01:00",
-      "title": "Ayşenbrödel & Rotkäppchen",
-      "subtitle": "Nur für Erwachsene",
-      "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/62059252",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "erwachsene",
-      "series": "Märchen für Erwachsene",
-      "description": ""
-    },
-    {
-      "uid": "187532b3490db2bc@monbijou-feeds",
-      "start": "2026-11-25T17:30:00+01:00",
-      "title": "Fischer un sin Fru & Kaiser Trojan hat Ziegenohren",
-      "subtitle": "Nur für Erwachsene",
-      "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1311601153",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "erwachsene",
-      "series": "Märchen für Erwachsene",
-      "description": ""
-    },
-    {
-      "uid": "01a105aab7841b4f@monbijou-feeds",
-      "start": "2026-11-25T19:00:00+01:00",
-      "title": "Rotkäppchen & Ayşenbrödel",
-      "subtitle": "Nur für Erwachsene",
-      "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-726149977",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "erwachsene",
-      "series": "Märchen für Erwachsene",
-      "description": ""
-    },
-    {
-      "uid": "769e95a0245bf152@monbijou-feeds",
-      "start": "2026-11-25T19:30:00+01:00",
-      "title": "Kaiser Trojan hat Ziegenohren & Fischer un sin Fru",
-      "subtitle": "Nur für Erwachsene",
-      "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-844607635",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "erwachsene",
-      "series": "Märchen für Erwachsene",
-      "description": ""
-    },
     {
       "uid": "283b63f95da34d1a@monbijou-feeds",
       "start": "2026-11-26T09:30:00+01:00",
@@ -98,20 +28,6 @@
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
-      "description": ""
-    },
-    {
-      "uid": "202a49fb7672577f@monbijou-feeds",
-      "start": "2026-11-26T16:00:00+01:00",
-      "title": "Hans im Glück & Hänsel und Gretel",
-      "subtitle": "Nur für Erwachsene",
-      "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-747744405",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "erwachsene",
-      "series": "Märchen für Erwachsene",
       "description": ""
     },
     {
@@ -302,9 +218,9 @@
       "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
       "subtitle": "Familienvorstellung",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/221067949",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -554,9 +470,9 @@
       "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1131765798",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -605,6 +521,20 @@
       "description": ""
     },
     {
+      "uid": "101c92467ce89c66@monbijou-feeds",
+      "start": "2026-12-02T11:00:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-762401894",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
+      "description": ""
+    },
+    {
       "uid": "3acd5e40f750f6ec@monbijou-feeds",
       "start": "2026-12-02T16:00:00+01:00",
       "title": "Die Schneekönigin & Frau Holle für Kinder",
@@ -633,9 +563,9 @@
       "description": ""
     },
     {
-      "uid": "9ff44745989e7450@monbijou-feeds",
+      "uid": "3cb71e30f4f6765e@monbijou-feeds",
       "start": "2026-12-02T17:30:00+01:00",
-      "title": "Frau Holle und König Drosselbart",
+      "title": "Frau Holle & Hans im Glück",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/",
@@ -890,9 +820,9 @@
       "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1909818551",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -1240,13 +1170,27 @@
       "title": "Knack den Fall !",
       "subtitle": "Zu Gast in den Märchenhütten",
       "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-2141910741",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "https://monbijou.billeto.net/eventinfo/31586",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "sonstige",
       "series": "Knack den Fall !",
       "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!"
+    },
+    {
+      "uid": "6cbb9b806cc67107@monbijou-feeds",
+      "start": "2026-12-08T09:30:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/",
+      "info_url": "",
+      "sold_out": true,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
+      "description": ""
     },
     {
       "uid": "6cbb9b806cc67107@monbijou-feeds",
@@ -1669,6 +1613,20 @@
       "description": ""
     },
     {
+      "uid": "e056cfb71de7ccd9@monbijou-feeds",
+      "start": "2026-12-11T09:30:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/",
+      "info_url": "",
+      "sold_out": true,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
+      "description": ""
+    },
+    {
       "uid": "2740b1c919405cca@monbijou-feeds",
       "start": "2026-12-11T11:00:00+01:00",
       "title": "Märchen für Kinder",
@@ -1884,9 +1842,9 @@
       "title": "Tapfere Schneiderlein & Schneewittchen für Kinder",
       "subtitle": "Für Kinder und Familien",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1324736826",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -5505,6 +5463,20 @@
       "description": ""
     },
     {
+      "uid": "63adff6eaf5a7aae@monbijou-feeds",
+      "start": "2027-02-22T09:30:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-215853690",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
+      "description": ""
+    },
+    {
       "uid": "1b41de28531f31e9@monbijou-feeds",
       "start": "2027-03-04T19:00:00+01:00",
       "title": "Knack den Fall !",
@@ -5551,7 +5523,7 @@
     {
       "title": "Märchen für Kitas & Schulen",
       "guid": "b28b5f5629573ce3",
-      "first": "2026-11-25T11:00:00+01:00",
+      "first": "2026-11-26T09:30:00+01:00",
       "subtitles": [
         "Vorstellungen für Kindergärten und Schulen",
         "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre",
@@ -5563,14 +5535,8 @@
       "english": false,
       "description": "",
       "titles": [],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-2122957259",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1586782307",
       "dates": [
-        {
-          "start": "2026-11-25T11:00:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
         {
           "start": "2026-11-26T09:30:00+01:00",
           "sold_out": false,
@@ -5608,6 +5574,12 @@
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
         {
+          "start": "2026-12-02T11:00:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
           "start": "2026-12-03T09:30:00+01:00",
           "sold_out": false,
           "title": "Märchen für Kinder",
@@ -5639,6 +5611,12 @@
         },
         {
           "start": "2026-12-07T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-08T09:30:00+01:00",
           "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
@@ -5700,6 +5678,12 @@
         {
           "start": "2026-12-11T09:30:00+01:00",
           "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-11T09:30:00+01:00",
+          "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
@@ -5858,13 +5842,488 @@
           "sold_out": false,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2027-02-22T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        }
+      ]
+    },
+    {
+      "title": "Märchen für Kinder & Familien",
+      "guid": "3121280d99efaf0a",
+      "first": "2026-11-26T15:30:00+01:00",
+      "subtitles": [
+        "Familienvorstellung",
+        "Für Kinder und Familien"
+      ],
+      "venues": [
+        "Jacobhütte",
+        "Wilhelmhütte"
+      ],
+      "english": false,
+      "description": "",
+      "titles": [
+        "Der Wolf und die 7 Geißlein & Fischer un sin Fru",
+        "Der gestiefelte Kater & Fischer un sin Fru",
+        "Der gestiefelte Kater & Hase und Igel",
+        "Der gestiefelte Kater & Hänsel und Gretel",
+        "Die Schneekönigin & Frau Holle für Kinder",
+        "Fischer un sin Frau & Frau Holle für Kinder",
+        "Fischer un sin Frau & Schneewittchen für Kinder",
+        "Fischer un sin Fru & Der gestiefelte Kater",
+        "Fischer un sin Fru & Hase und Igel",
+        "Fischer un sin Fru & Hänsel und Gretel",
+        "Frau Holle für Kinder & Der Schneekönigen",
+        "Frau Holle für Kinder & Die Schneekönigen",
+        "Frau Holle für Kinder & Fischer un sin Fru",
+        "Frau Holle für Kinder & Hase und Igel",
+        "Hase und Igel & Der Wolf und die 7 Geißlein",
+        "Hase und Igel & Der gestiefelte Kater",
+        "Hase und Igel & Rotkäppchen",
+        "Hase und Igel & Schneewittchen für Kinder",
+        "Hase und Igel & Tapfere Schneiderlein",
+        "Rotkäppchen & Der Wolf und die 7 Geißlein",
+        "Rotkäppchen & Hase und Igel",
+        "Rotkäppchen & Schneewittchen für Kinder",
+        "Rotkäppchen & Tapfere Schneiderlein",
+        "Schneewittchen für Kinder & Hase und Igel",
+        "Schneewittchen für Kinder & Tapfere Schneiderlein",
+        "Tapfere Schneiderlein & Der Wolf und die 7 Geißlein",
+        "Tapfere Schneiderlein & Hase und Igel",
+        "Tapfere Schneiderlein & Rotkäppchen",
+        "Tapfere Schneiderlein & Schneewittchen für Kinder"
+      ],
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1452912732",
+      "dates": [
+        {
+          "start": "2026-11-26T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
+          "subtitle": "Familienvorstellung"
+        },
+        {
+          "start": "2026-11-27T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
+          "subtitle": "Familienvorstellung"
+        },
+        {
+          "start": "2026-11-28T13:30:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-11-28T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
+          "subtitle": "Familienvorstellung"
+        },
+        {
+          "start": "2026-11-28T16:00:00+01:00",
+          "sold_out": true,
+          "title": "Der gestiefelte Kater & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-11-29T15:30:00+01:00",
+          "sold_out": true,
+          "title": "Schneewittchen für Kinder & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-11-29T17:00:00+01:00",
+          "sold_out": false,
+          "title": "Hase und Igel & Schneewittchen für Kinder",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-02T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Die Schneekönigin & Frau Holle für Kinder",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-04T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-05T14:00:00+01:00",
+          "sold_out": true,
+          "title": "Fischer un sin Frau & Schneewittchen für Kinder",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-05T15:30:00+01:00",
+          "sold_out": true,
+          "title": "Schneewittchen für Kinder & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-06T13:30:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-06T14:00:00+01:00",
+          "sold_out": true,
+          "title": "Die Schneekönigin & Frau Holle für Kinder",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-06T15:30:00+01:00",
+          "sold_out": true,
+          "title": "Frau Holle für Kinder & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-08T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Die Schneekönigin & Frau Holle für Kinder",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-10T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Schneewittchen für Kinder & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-11T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Hase und Igel & Tapfere Schneiderlein",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-12T11:00:00+01:00",
+          "sold_out": true,
+          "title": "Frau Holle für Kinder & Die Schneekönigen",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-12T13:30:00+01:00",
+          "sold_out": false,
+          "title": "Tapfere Schneiderlein & Schneewittchen für Kinder",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-12T14:00:00+01:00",
+          "sold_out": true,
+          "title": "Die Schneekönigin & Frau Holle für Kinder",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-12T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Schneewittchen für Kinder & Tapfere Schneiderlein",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-12T16:00:00+01:00",
+          "sold_out": true,
+          "title": "Frau Holle für Kinder & Die Schneekönigen",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-12T17:00:00+01:00",
+          "sold_out": true,
+          "title": "Tapfere Schneiderlein & Schneewittchen für Kinder",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-13T13:30:00+01:00",
+          "sold_out": false,
+          "title": "Hase und Igel & Der Wolf und die 7 Geißlein",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-13T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-13T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Der gestiefelte Kater & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-15T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Schneewittchen für Kinder",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-16T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Schneewittchen für Kinder & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-17T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Der Wolf und die 7 Geißlein & Fischer un sin Fru",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-18T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-19T11:00:00+01:00",
+          "sold_out": false,
+          "title": "Der gestiefelte Kater & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-19T13:30:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-20T11:00:00+01:00",
+          "sold_out": false,
+          "title": "Fischer un sin Frau & Frau Holle für Kinder",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-20T13:30:00+01:00",
+          "sold_out": true,
+          "title": "Tapfere Schneiderlein & Rotkäppchen",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-20T14:00:00+01:00",
+          "sold_out": false,
+          "title": "Frau Holle für Kinder & Fischer un sin Fru",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-20T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Der gestiefelte Kater & Hänsel und Gretel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-21T13:30:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-21T14:00:00+01:00",
+          "sold_out": false,
+          "title": "Fischer un sin Fru & Der gestiefelte Kater",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-21T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Hase und Igel & Rotkäppchen",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-21T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Der gestiefelte Kater & Hänsel und Gretel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-22T13:30:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-22T14:00:00+01:00",
+          "sold_out": false,
+          "title": "Frau Holle für Kinder & Die Schneekönigen",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-22T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Tapfere Schneiderlein",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-22T16:00:00+01:00",
+          "sold_out": true,
+          "title": "Die Schneekönigin & Frau Holle für Kinder",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-23T14:00:00+01:00",
+          "sold_out": true,
+          "title": "Frau Holle für Kinder & Die Schneekönigen",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-23T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Tapfere Schneiderlein & Der Wolf und die 7 Geißlein",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-23T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Der gestiefelte Kater & Fischer un sin Fru",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-25T14:00:00+01:00",
+          "sold_out": false,
+          "title": "Hase und Igel & Der gestiefelte Kater",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-25T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-25T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Der gestiefelte Kater & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-26T14:00:00+01:00",
+          "sold_out": false,
+          "title": "Schneewittchen für Kinder & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-26T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-26T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Fischer un sin Fru & Hänsel und Gretel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-27T13:30:00+01:00",
+          "sold_out": false,
+          "title": "Hase und Igel & Tapfere Schneiderlein",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-27T14:00:00+01:00",
+          "sold_out": false,
+          "title": "Frau Holle für Kinder & Der Schneekönigen",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-27T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Tapfere Schneiderlein & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-27T16:00:00+01:00",
+          "sold_out": true,
+          "title": "Die Schneekönigin & Frau Holle für Kinder",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-28T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Schneewittchen für Kinder & Hase und Igel",
+          "subtitle": ""
+        },
+        {
+          "start": "2026-12-29T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Fischer un sin Fru & Hänsel und Gretel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-30T16:00:00+01:00",
+          "sold_out": true,
+          "title": "Frau Holle für Kinder & Der Schneekönigen",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-31T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2027-01-02T14:00:00+01:00",
+          "sold_out": false,
+          "title": "Der gestiefelte Kater & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2027-01-03T14:00:00+01:00",
+          "sold_out": false,
+          "title": "Tapfere Schneiderlein & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2027-01-03T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Hase und Igel & Tapfere Schneiderlein",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2027-01-09T14:00:00+01:00",
+          "sold_out": false,
+          "title": "Der gestiefelte Kater & Fischer un sin Fru",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2027-01-09T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Schneewittchen für Kinder & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2027-01-10T14:00:00+01:00",
+          "sold_out": false,
+          "title": "Hase und Igel & Der gestiefelte Kater",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2027-01-10T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Fischer un sin Fru & Hänsel und Gretel",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2027-01-15T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Frau Holle für Kinder & Die Schneekönigen",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2027-01-16T14:00:00+01:00",
+          "sold_out": false,
+          "title": "Fischer un sin Fru & Hase und Igel",
+          "subtitle": "Für Kinder und Familien"
         }
       ]
     },
     {
       "title": "Märchen für Erwachsene",
       "guid": "c0db31bfd1fa43b9",
-      "first": "2026-11-25T17:00:00+01:00",
+      "first": "2026-11-26T17:00:00+01:00",
       "subtitles": [
         "Nur für Erwachsene",
         "Nur für Erwachsene - Mit einem Glühwein aufs Haus."
@@ -5916,17 +6375,16 @@
         "Frau Holle & Brüderchen und Schwesterchen",
         "Frau Holle & Der Froschkönig",
         "Frau Holle & Die Bremer Stadtmusikanten",
+        "Frau Holle & Hans im Glück",
         "Frau Holle & Hänsel und Gretel",
         "Frau Holle & Rumpelstilzchen",
         "Frau Holle & Schneewittchen für Erwachsene",
         "Frau Holle & Tapfere Schneiderlein",
         "Frau Holle & Von dem Machandelboom",
-        "Frau Holle und König Drosselbart",
         "Hans im Glück & Der Froschkönig",
         "Hans im Glück & Die Bremer Stadtmusikanten",
         "Hans im Glück & Fischer un sin Fru",
         "Hans im Glück & Frau Holle",
-        "Hans im Glück & Hänsel und Gretel",
         "Hans im Glück & Kaiser Trojan hat Ziegenohren",
         "Hans im Glück & Von dem Machandelboom",
         "Hänsel und Gretel & Der Froschkönig",
@@ -5947,7 +6405,6 @@
         "Kaiser Trojan hat Ziegenöhren & Der Froschkönig",
         "König Drosselbart & Der Froschkönig",
         "König Drosselbart & Kaiser Trojan hat Ziegenohren",
-        "Rotkäppchen & Ayşenbrödel",
         "Rotkäppchen & Blaubart",
         "Rotkäppchen & Der Wolf und die 7 Geißlein",
         "Rotkäppchen & Rumpelstilzchen",
@@ -5974,38 +6431,8 @@
         "Von dem Machandelboom & Hänsel und Gretel",
         "Von dem Machandelboom & Kaiser Trojan hat Ziegenohren"
       ],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/62059252",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-610905615",
       "dates": [
-        {
-          "start": "2026-11-25T17:00:00+01:00",
-          "sold_out": false,
-          "title": "Ayşenbrödel & Rotkäppchen",
-          "subtitle": "Nur für Erwachsene"
-        },
-        {
-          "start": "2026-11-25T17:30:00+01:00",
-          "sold_out": false,
-          "title": "Fischer un sin Fru & Kaiser Trojan hat Ziegenohren",
-          "subtitle": "Nur für Erwachsene"
-        },
-        {
-          "start": "2026-11-25T19:00:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Ayşenbrödel",
-          "subtitle": "Nur für Erwachsene"
-        },
-        {
-          "start": "2026-11-25T19:30:00+01:00",
-          "sold_out": false,
-          "title": "Kaiser Trojan hat Ziegenohren & Fischer un sin Fru",
-          "subtitle": "Nur für Erwachsene"
-        },
-        {
-          "start": "2026-11-26T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Hans im Glück & Hänsel und Gretel",
-          "subtitle": "Nur für Erwachsene"
-        },
         {
           "start": "2026-11-26T17:00:00+01:00",
           "sold_out": true,
@@ -6128,7 +6555,7 @@
         },
         {
           "start": "2026-12-01T19:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6147,7 +6574,7 @@
         {
           "start": "2026-12-02T17:30:00+01:00",
           "sold_out": true,
-          "title": "Frau Holle und König Drosselbart",
+          "title": "Frau Holle & Hans im Glück",
           "subtitle": "Nur für Erwachsene"
         },
         {
@@ -6224,7 +6651,7 @@
         },
         {
           "start": "2026-12-04T19:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
           "subtitle": "Nur für Erwachsene"
         },
@@ -7503,475 +7930,6 @@
       ]
     },
     {
-      "title": "Märchen für Kinder & Familien",
-      "guid": "3121280d99efaf0a",
-      "first": "2026-11-26T15:30:00+01:00",
-      "subtitles": [
-        "Familienvorstellung",
-        "Für Kinder und Familien"
-      ],
-      "venues": [
-        "Jacobhütte",
-        "Wilhelmhütte"
-      ],
-      "english": false,
-      "description": "",
-      "titles": [
-        "Der Wolf und die 7 Geißlein & Fischer un sin Fru",
-        "Der gestiefelte Kater & Fischer un sin Fru",
-        "Der gestiefelte Kater & Hase und Igel",
-        "Der gestiefelte Kater & Hänsel und Gretel",
-        "Die Schneekönigin & Frau Holle für Kinder",
-        "Fischer un sin Frau & Frau Holle für Kinder",
-        "Fischer un sin Frau & Schneewittchen für Kinder",
-        "Fischer un sin Fru & Der gestiefelte Kater",
-        "Fischer un sin Fru & Hase und Igel",
-        "Fischer un sin Fru & Hänsel und Gretel",
-        "Frau Holle für Kinder & Der Schneekönigen",
-        "Frau Holle für Kinder & Die Schneekönigen",
-        "Frau Holle für Kinder & Fischer un sin Fru",
-        "Frau Holle für Kinder & Hase und Igel",
-        "Hase und Igel & Der Wolf und die 7 Geißlein",
-        "Hase und Igel & Der gestiefelte Kater",
-        "Hase und Igel & Rotkäppchen",
-        "Hase und Igel & Schneewittchen für Kinder",
-        "Hase und Igel & Tapfere Schneiderlein",
-        "Rotkäppchen & Der Wolf und die 7 Geißlein",
-        "Rotkäppchen & Hase und Igel",
-        "Rotkäppchen & Schneewittchen für Kinder",
-        "Rotkäppchen & Tapfere Schneiderlein",
-        "Schneewittchen für Kinder & Hase und Igel",
-        "Schneewittchen für Kinder & Tapfere Schneiderlein",
-        "Tapfere Schneiderlein & Der Wolf und die 7 Geißlein",
-        "Tapfere Schneiderlein & Hase und Igel",
-        "Tapfere Schneiderlein & Rotkäppchen",
-        "Tapfere Schneiderlein & Schneewittchen für Kinder"
-      ],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1452912732",
-      "dates": [
-        {
-          "start": "2026-11-26T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-          "subtitle": "Familienvorstellung"
-        },
-        {
-          "start": "2026-11-27T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-          "subtitle": "Familienvorstellung"
-        },
-        {
-          "start": "2026-11-28T13:30:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-11-28T15:30:00+01:00",
-          "sold_out": true,
-          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-          "subtitle": "Familienvorstellung"
-        },
-        {
-          "start": "2026-11-28T16:00:00+01:00",
-          "sold_out": true,
-          "title": "Der gestiefelte Kater & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-11-29T15:30:00+01:00",
-          "sold_out": true,
-          "title": "Schneewittchen für Kinder & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-11-29T17:00:00+01:00",
-          "sold_out": false,
-          "title": "Hase und Igel & Schneewittchen für Kinder",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-02T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Die Schneekönigin & Frau Holle für Kinder",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-04T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-05T14:00:00+01:00",
-          "sold_out": true,
-          "title": "Fischer un sin Frau & Schneewittchen für Kinder",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-05T15:30:00+01:00",
-          "sold_out": true,
-          "title": "Schneewittchen für Kinder & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-06T13:30:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-06T14:00:00+01:00",
-          "sold_out": true,
-          "title": "Die Schneekönigin & Frau Holle für Kinder",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-06T15:30:00+01:00",
-          "sold_out": true,
-          "title": "Frau Holle für Kinder & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-08T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Die Schneekönigin & Frau Holle für Kinder",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-10T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Schneewittchen für Kinder & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-11T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Hase und Igel & Tapfere Schneiderlein",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-12T11:00:00+01:00",
-          "sold_out": true,
-          "title": "Frau Holle für Kinder & Die Schneekönigen",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-12T13:30:00+01:00",
-          "sold_out": false,
-          "title": "Tapfere Schneiderlein & Schneewittchen für Kinder",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-12T14:00:00+01:00",
-          "sold_out": true,
-          "title": "Die Schneekönigin & Frau Holle für Kinder",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-12T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Schneewittchen für Kinder & Tapfere Schneiderlein",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-12T16:00:00+01:00",
-          "sold_out": true,
-          "title": "Frau Holle für Kinder & Die Schneekönigen",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-12T17:00:00+01:00",
-          "sold_out": false,
-          "title": "Tapfere Schneiderlein & Schneewittchen für Kinder",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-13T13:30:00+01:00",
-          "sold_out": false,
-          "title": "Hase und Igel & Der Wolf und die 7 Geißlein",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-13T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-13T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Der gestiefelte Kater & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-15T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Schneewittchen für Kinder",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-16T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Schneewittchen für Kinder & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-17T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Der Wolf und die 7 Geißlein & Fischer un sin Fru",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-18T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-19T11:00:00+01:00",
-          "sold_out": false,
-          "title": "Der gestiefelte Kater & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-19T13:30:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-20T11:00:00+01:00",
-          "sold_out": false,
-          "title": "Fischer un sin Frau & Frau Holle für Kinder",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-20T13:30:00+01:00",
-          "sold_out": true,
-          "title": "Tapfere Schneiderlein & Rotkäppchen",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-20T14:00:00+01:00",
-          "sold_out": false,
-          "title": "Frau Holle für Kinder & Fischer un sin Fru",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-20T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Der gestiefelte Kater & Hänsel und Gretel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-21T13:30:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-21T14:00:00+01:00",
-          "sold_out": false,
-          "title": "Fischer un sin Fru & Der gestiefelte Kater",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-21T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Hase und Igel & Rotkäppchen",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-21T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Der gestiefelte Kater & Hänsel und Gretel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-22T13:30:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-22T14:00:00+01:00",
-          "sold_out": false,
-          "title": "Frau Holle für Kinder & Die Schneekönigen",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-22T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Tapfere Schneiderlein",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-22T16:00:00+01:00",
-          "sold_out": true,
-          "title": "Die Schneekönigin & Frau Holle für Kinder",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-23T14:00:00+01:00",
-          "sold_out": true,
-          "title": "Frau Holle für Kinder & Die Schneekönigen",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-23T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Tapfere Schneiderlein & Der Wolf und die 7 Geißlein",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-23T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Der gestiefelte Kater & Fischer un sin Fru",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-25T14:00:00+01:00",
-          "sold_out": false,
-          "title": "Hase und Igel & Der gestiefelte Kater",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-25T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-25T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Der gestiefelte Kater & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-26T14:00:00+01:00",
-          "sold_out": false,
-          "title": "Schneewittchen für Kinder & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-26T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-26T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Fischer un sin Fru & Hänsel und Gretel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-27T13:30:00+01:00",
-          "sold_out": false,
-          "title": "Hase und Igel & Tapfere Schneiderlein",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-27T14:00:00+01:00",
-          "sold_out": false,
-          "title": "Frau Holle für Kinder & Der Schneekönigen",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-27T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Tapfere Schneiderlein & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-27T16:00:00+01:00",
-          "sold_out": true,
-          "title": "Die Schneekönigin & Frau Holle für Kinder",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-28T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Schneewittchen für Kinder & Hase und Igel",
-          "subtitle": ""
-        },
-        {
-          "start": "2026-12-29T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Fischer un sin Fru & Hänsel und Gretel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-30T16:00:00+01:00",
-          "sold_out": true,
-          "title": "Frau Holle für Kinder & Der Schneekönigen",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2026-12-31T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2027-01-02T14:00:00+01:00",
-          "sold_out": false,
-          "title": "Der gestiefelte Kater & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2027-01-03T14:00:00+01:00",
-          "sold_out": false,
-          "title": "Tapfere Schneiderlein & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2027-01-03T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Hase und Igel & Tapfere Schneiderlein",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2027-01-09T14:00:00+01:00",
-          "sold_out": false,
-          "title": "Der gestiefelte Kater & Fischer un sin Fru",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2027-01-09T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Schneewittchen für Kinder & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2027-01-10T14:00:00+01:00",
-          "sold_out": false,
-          "title": "Hase und Igel & Der gestiefelte Kater",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2027-01-10T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Fischer un sin Fru & Hänsel und Gretel",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2027-01-15T16:00:00+01:00",
-          "sold_out": false,
-          "title": "Frau Holle für Kinder & Die Schneekönigen",
-          "subtitle": "Für Kinder und Familien"
-        },
-        {
-          "start": "2027-01-16T14:00:00+01:00",
-          "sold_out": false,
-          "title": "Fischer un sin Fru & Hase und Igel",
-          "subtitle": "Für Kinder und Familien"
-        }
-      ]
-    },
-    {
       "title": "Christmas Carol - Gastspiel",
       "guid": "1ba7936716d148ae",
       "first": "2026-11-26T17:30:00+01:00",
@@ -8059,11 +8017,11 @@
       "english": false,
       "description": "Detektive aufgepasst! Mit „Knack den Fall!“ ein spektakuläres Krimi-Event! 6 fesselnde SprecherInnen und eine spritzige Moderatorin fordern euch heraus, das Verbrechen aufzuklären. Sie lesen, ihr löst den Fall und gewinnt vielleicht den Preis „Der Goldene Riecher“. Sichert euch jetzt eure limitierten Tickets!",
       "titles": [],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-2141910741",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/217750084",
       "dates": [
         {
           "start": "2026-12-07T19:00:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Knack den Fall !",
           "subtitle": "Zu Gast in den Märchenhütten"
         },
