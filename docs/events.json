@@ -1,21 +1,7 @@
 {
-  "generated": "2026-11-24T23:34:59.455053+01:00",
+  "generated": "2026-11-25T09:47:59.886319+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
-    {
-      "uid": "105d79cf40a760fb@monbijou-feeds",
-      "start": "2026-11-25T09:30:00+01:00",
-      "title": "Märchen für Kinder",
-      "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/",
-      "info_url": "",
-      "sold_out": true,
-      "english": false,
-      "audience": "schule",
-      "series": "Märchen für Kitas & Schulen",
-      "description": ""
-    },
     {
       "uid": "5712613d76d53828@monbijou-feeds",
       "start": "2026-11-25T11:00:00+01:00",
@@ -64,9 +50,9 @@
       "title": "Rotkäppchen & Ayşenbrödel",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-726149977",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -680,9 +666,9 @@
       "title": "Hans im Glück & Frau Holle",
       "subtitle": "Nur für Erwachsene",
       "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-991366293",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -5565,7 +5551,7 @@
     {
       "title": "Märchen für Kitas & Schulen",
       "guid": "b28b5f5629573ce3",
-      "first": "2026-11-25T09:30:00+01:00",
+      "first": "2026-11-25T11:00:00+01:00",
       "subtitles": [
         "Vorstellungen für Kindergärten und Schulen",
         "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre",
@@ -5579,12 +5565,6 @@
       "titles": [],
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-2122957259",
       "dates": [
-        {
-          "start": "2026-11-25T09:30:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
-        },
         {
           "start": "2026-11-25T11:00:00+01:00",
           "sold_out": false,
@@ -6010,7 +5990,7 @@
         },
         {
           "start": "2026-11-25T19:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Rotkäppchen & Ayşenbrödel",
           "subtitle": "Nur für Erwachsene"
         },
@@ -6178,7 +6158,7 @@
         },
         {
           "start": "2026-12-02T19:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Hans im Glück & Frau Holle",
           "subtitle": "Nur für Erwachsene"
         },
