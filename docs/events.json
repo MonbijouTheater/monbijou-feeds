@@ -1,21 +1,7 @@
 {
-  "generated": "2026-11-25T22:48:54.018761+01:00",
+  "generated": "2026-11-26T09:34:35.828403+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
-    {
-      "uid": "283b63f95da34d1a@monbijou-feeds",
-      "start": "2026-11-26T09:30:00+01:00",
-      "title": "Märchen für Kinder",
-      "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1586782307",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "schule",
-      "series": "Märchen für Kitas & Schulen",
-      "description": ""
-    },
     {
       "uid": "2833774ab983896c@monbijou-feeds",
       "start": "2026-11-26T15:30:00+01:00",
@@ -1520,9 +1506,9 @@
       "title": "Schneewittchen für Erwachsene & Brüderchen und Schwesterchen",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/87686514",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -2957,20 +2943,6 @@
       "description": ""
     },
     {
-      "uid": "de55be40ce11299d@monbijou-feeds",
-      "start": "2026-12-21T09:30:00+01:00",
-      "title": "Märchen für Kinder",
-      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/",
-      "info_url": "",
-      "sold_out": true,
-      "english": false,
-      "audience": "schule",
-      "series": "Märchen für Kitas & Schulen",
-      "description": ""
-    },
-    {
       "uid": "d86f935ce588de6a@monbijou-feeds",
       "start": "2026-12-21T11:00:00+01:00",
       "title": "Märchen für Kinder",
@@ -3746,9 +3718,9 @@
       "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
       "subtitle": "Nur für Erwachsene",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/397245638",
       "info_url": "",
-      "sold_out": true,
+      "sold_out": false,
       "english": false,
       "audience": "erwachsene",
       "series": "Märchen für Erwachsene",
@@ -5521,337 +5493,6 @@
   ],
   "productions": [
     {
-      "title": "Märchen für Kitas & Schulen",
-      "guid": "b28b5f5629573ce3",
-      "first": "2026-11-26T09:30:00+01:00",
-      "subtitles": [
-        "Vorstellungen für Kindergärten und Schulen",
-        "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre",
-        "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-      ],
-      "venues": [
-        "Märchenhütten"
-      ],
-      "english": false,
-      "description": "",
-      "titles": [],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1586782307",
-      "dates": [
-        {
-          "start": "2026-11-26T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
-        },
-        {
-          "start": "2026-11-30T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-11-30T11:00:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-01T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-02T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-02T09:30:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-02T11:00:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-03T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-03T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-04T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-04T09:30:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-07T09:30:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-07T09:30:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-08T09:30:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-08T09:30:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-08T11:00:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-09T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-09T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-09T11:00:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-10T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-10T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-10T11:00:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-10T11:00:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-11T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-11T09:30:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-11T11:00:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-14T09:30:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-14T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-15T09:30:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-15T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-15T11:00:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-16T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-16T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-17T09:30:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-17T09:30:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-17T11:00:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-18T09:30:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-18T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-18T11:00:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-21T09:30:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-21T09:30:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-21T11:00:00+01:00",
-          "sold_out": true,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-22T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen"
-        },
-        {
-          "start": "2026-12-22T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-22T11:00:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2027-01-04T11:00:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2027-01-07T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2027-01-18T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2027-01-19T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2027-01-28T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2027-02-16T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2027-02-22T09:30:00+01:00",
-          "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        }
-      ]
-    },
-    {
       "title": "Märchen für Kinder & Familien",
       "guid": "3121280d99efaf0a",
       "first": "2026-11-26T15:30:00+01:00",
@@ -6813,7 +6454,7 @@
         },
         {
           "start": "2026-12-10T17:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Schneewittchen für Erwachsene & Brüderchen und Schwesterchen",
           "subtitle": "Nur für Erwachsene"
         },
@@ -7353,7 +6994,7 @@
         },
         {
           "start": "2026-12-27T17:00:00+01:00",
-          "sold_out": true,
+          "sold_out": false,
           "title": "Brüderchen und Schwesterchen & Schneewittchen für Erwachsene",
           "subtitle": "Nur für Erwachsene"
         },
@@ -8000,6 +7641,325 @@
           "sold_out": false,
           "title": "Christmas Carol - Gastspiel",
           "subtitle": "Sprache - Englisch Nur für Erwachsene"
+        }
+      ]
+    },
+    {
+      "title": "Märchen für Kitas & Schulen",
+      "guid": "b28b5f5629573ce3",
+      "first": "2026-11-30T09:30:00+01:00",
+      "subtitles": [
+        "Vorstellungen für Kindergärten und Schulen",
+        "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre",
+        "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+      ],
+      "venues": [
+        "Märchenhütten"
+      ],
+      "english": false,
+      "description": "",
+      "titles": [],
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-724247124",
+      "dates": [
+        {
+          "start": "2026-11-30T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-11-30T11:00:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-01T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-02T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-02T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-02T11:00:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-03T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-03T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-04T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-04T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-07T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-07T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-08T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-08T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-08T11:00:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-09T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-09T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-09T11:00:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-10T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-10T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-10T11:00:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-10T11:00:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-11T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-11T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-11T11:00:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-14T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-14T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-15T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-15T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-15T11:00:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-16T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-16T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-17T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-17T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-17T11:00:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-18T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-18T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-18T11:00:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-21T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-21T11:00:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-22T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen"
+        },
+        {
+          "start": "2026-12-22T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-22T11:00:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2027-01-04T11:00:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2027-01-07T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2027-01-18T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2027-01-19T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2027-01-28T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2027-02-16T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
+          "start": "2027-02-22T09:30:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         }
       ]
     },
