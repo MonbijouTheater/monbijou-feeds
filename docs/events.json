@@ -1,77 +1,7 @@
 {
-  "generated": "2026-11-26T09:34:35.828403+01:00",
+  "generated": "2026-11-26T22:42:18.430176+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
-    {
-      "uid": "2833774ab983896c@monbijou-feeds",
-      "start": "2026-11-26T15:30:00+01:00",
-      "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-      "subtitle": "Familienvorstellung",
-      "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1452912732",
-      "info_url": "",
-      "sold_out": false,
-      "english": false,
-      "audience": "familie",
-      "series": "Märchen für Kinder & Familien",
-      "description": ""
-    },
-    {
-      "uid": "bd2cd01bcd5c400a@monbijou-feeds",
-      "start": "2026-11-26T17:00:00+01:00",
-      "title": "Ayşenbrödel & Rumpelstilzchen",
-      "subtitle": "Nur für Erwachsene",
-      "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
-      "info_url": "",
-      "sold_out": true,
-      "english": false,
-      "audience": "erwachsene",
-      "series": "Märchen für Erwachsene",
-      "description": ""
-    },
-    {
-      "uid": "3e342b18eb0567bb@monbijou-feeds",
-      "start": "2026-11-26T17:30:00+01:00",
-      "title": "Christmas Carol - Gastspiel",
-      "subtitle": "Sprache - Englisch Für Kinder und familien",
-      "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1462863908",
-      "info_url": "",
-      "sold_out": false,
-      "english": true,
-      "audience": "familie",
-      "series": "Christmas Carol - Gastspiel",
-      "description": ""
-    },
-    {
-      "uid": "fb849d53673be40a@monbijou-feeds",
-      "start": "2026-11-26T19:00:00+01:00",
-      "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-      "subtitle": "Nur für Erwachsene",
-      "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
-      "info_url": "",
-      "sold_out": true,
-      "english": false,
-      "audience": "erwachsene",
-      "series": "Märchen für Erwachsene",
-      "description": ""
-    },
-    {
-      "uid": "48fc7560ca0b7277@monbijou-feeds",
-      "start": "2026-11-26T19:30:00+01:00",
-      "title": "Die Bremer Stadtmusikanten & Kaiser Trojan hat Ziegenohren",
-      "subtitle": "Nur für Erwachsene",
-      "venue": "Wilhelmhütte",
-      "ticket_url": "https://monbijou.billeto.net/",
-      "info_url": "",
-      "sold_out": true,
-      "english": false,
-      "audience": "erwachsene",
-      "series": "Märchen für Erwachsene",
-      "description": ""
-    },
     {
       "uid": "6f1973ccb999e8d0@monbijou-feeds",
       "start": "2026-11-27T15:30:00+01:00",
@@ -493,20 +423,6 @@
       "description": ""
     },
     {
-      "uid": "d857a45cbb999f59@monbijou-feeds",
-      "start": "2026-12-02T09:30:00+01:00",
-      "title": "Märchen für Kinder",
-      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
-      "venue": "Märchenhütten",
-      "ticket_url": "https://monbijou.billeto.net/",
-      "info_url": "",
-      "sold_out": true,
-      "english": false,
-      "audience": "schule",
-      "series": "Märchen für Kitas & Schulen",
-      "description": ""
-    },
-    {
       "uid": "101c92467ce89c66@monbijou-feeds",
       "start": "2026-12-02T11:00:00+01:00",
       "title": "Märchen für Kinder",
@@ -854,6 +770,20 @@
       "english": true,
       "audience": "erwachsene",
       "series": "Christmas Carol - Gastspiel",
+      "description": ""
+    },
+    {
+      "uid": "e0537c47e27e8e93@monbijou-feeds",
+      "start": "2026-12-05T13:30:00+01:00",
+      "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
+      "subtitle": "Für Kinder und Familien",
+      "venue": "Jacobhütte",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-485319582",
+      "info_url": "",
+      "sold_out": false,
+      "english": false,
+      "audience": "familie",
+      "series": "Märchen für Kinder & Familien",
       "description": ""
     },
     {
@@ -1800,9 +1730,9 @@
       "title": "Schneewittchen für Kinder & Tapfere Schneiderlein",
       "subtitle": "Für Kinder und Familien",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1598091759",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -1935,9 +1865,9 @@
       "description": ""
     },
     {
-      "uid": "8820b3821677232c@monbijou-feeds",
+      "uid": "f947a8730d60e345@monbijou-feeds",
       "start": "2026-12-13T14:00:00+01:00",
-      "title": "Christmas Carol",
+      "title": "Christmas Carol - Gastspiel",
       "subtitle": "Für Kinder und Familien - Sprache Englisch",
       "venue": "Wilhelmhütte",
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/2052065809",
@@ -1945,7 +1875,7 @@
       "sold_out": false,
       "english": true,
       "audience": "familie",
-      "series": "Christmas Carol",
+      "series": "Christmas Carol - Gastspiel",
       "description": ""
     },
     {
@@ -2943,6 +2873,20 @@
       "description": ""
     },
     {
+      "uid": "de55be40ce11299d@monbijou-feeds",
+      "start": "2026-12-21T09:30:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/",
+      "info_url": "",
+      "sold_out": true,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
+      "description": ""
+    },
+    {
       "uid": "d86f935ce588de6a@monbijou-feeds",
       "start": "2026-12-21T11:00:00+01:00",
       "title": "Märchen für Kinder",
@@ -2951,6 +2895,20 @@
       "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
       "sold_out": true,
+      "english": false,
+      "audience": "schule",
+      "series": "Märchen für Kitas & Schulen",
+      "description": ""
+    },
+    {
+      "uid": "d86f935ce588de6a@monbijou-feeds",
+      "start": "2026-12-21T11:00:00+01:00",
+      "title": "Märchen für Kinder",
+      "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre",
+      "venue": "Märchenhütten",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-1649110621",
+      "info_url": "",
+      "sold_out": false,
       "english": false,
       "audience": "schule",
       "series": "Märchen für Kitas & Schulen",
@@ -5495,7 +5453,7 @@
     {
       "title": "Märchen für Kinder & Familien",
       "guid": "3121280d99efaf0a",
-      "first": "2026-11-26T15:30:00+01:00",
+      "first": "2026-11-27T15:30:00+01:00",
       "subtitles": [
         "Familienvorstellung",
         "Für Kinder und Familien"
@@ -5537,14 +5495,8 @@
         "Tapfere Schneiderlein & Rotkäppchen",
         "Tapfere Schneiderlein & Schneewittchen für Kinder"
       ],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1452912732",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/-797856607",
       "dates": [
-        {
-          "start": "2026-11-26T15:30:00+01:00",
-          "sold_out": false,
-          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-          "subtitle": "Familienvorstellung"
-        },
         {
           "start": "2026-11-27T15:30:00+01:00",
           "sold_out": false,
@@ -5589,6 +5541,12 @@
         },
         {
           "start": "2026-12-04T15:30:00+01:00",
+          "sold_out": false,
+          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
+          "subtitle": "Für Kinder und Familien"
+        },
+        {
+          "start": "2026-12-05T13:30:00+01:00",
           "sold_out": false,
           "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
           "subtitle": "Für Kinder und Familien"
@@ -5661,7 +5619,7 @@
         },
         {
           "start": "2026-12-12T15:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Schneewittchen für Kinder & Tapfere Schneiderlein",
           "subtitle": "Für Kinder und Familien"
         },
@@ -5964,7 +5922,7 @@
     {
       "title": "Märchen für Erwachsene",
       "guid": "c0db31bfd1fa43b9",
-      "first": "2026-11-26T17:00:00+01:00",
+      "first": "2026-11-27T16:00:00+01:00",
       "subtitles": [
         "Nur für Erwachsene",
         "Nur für Erwachsene - Mit einem Glühwein aufs Haus."
@@ -6074,24 +6032,6 @@
       ],
       "ticket_url": "https://monbijou.billeto.net/basket/event/43/-610905615",
       "dates": [
-        {
-          "start": "2026-11-26T17:00:00+01:00",
-          "sold_out": true,
-          "title": "Ayşenbrödel & Rumpelstilzchen",
-          "subtitle": "Nur für Erwachsene"
-        },
-        {
-          "start": "2026-11-26T19:00:00+01:00",
-          "sold_out": true,
-          "title": "Rotkäppchen & Der Wolf und die 7 Geißlein",
-          "subtitle": "Nur für Erwachsene"
-        },
-        {
-          "start": "2026-11-26T19:30:00+01:00",
-          "sold_out": true,
-          "title": "Die Bremer Stadtmusikanten & Kaiser Trojan hat Ziegenohren",
-          "subtitle": "Nur für Erwachsene"
-        },
         {
           "start": "2026-11-27T16:00:00+01:00",
           "sold_out": false,
@@ -7573,7 +7513,7 @@
     {
       "title": "Christmas Carol - Gastspiel",
       "guid": "1ba7936716d148ae",
-      "first": "2026-11-26T17:30:00+01:00",
+      "first": "2026-11-29T16:00:00+01:00",
       "subtitles": [
         "Für Kinder und Familien - Sprache Englisch",
         "Nur für Erwachsene - Sprache Englisch",
@@ -7586,14 +7526,8 @@
       "english": true,
       "description": "",
       "titles": [],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1462863908",
+      "ticket_url": "https://monbijou.billeto.net/basket/event/43/1332148483",
       "dates": [
-        {
-          "start": "2026-11-26T17:30:00+01:00",
-          "sold_out": false,
-          "title": "Christmas Carol - Gastspiel",
-          "subtitle": "Sprache - Englisch Für Kinder und familien"
-        },
         {
           "start": "2026-11-29T16:00:00+01:00",
           "sold_out": false,
@@ -7608,6 +7542,12 @@
         },
         {
           "start": "2026-12-06T16:00:00+01:00",
+          "sold_out": false,
+          "title": "Christmas Carol - Gastspiel",
+          "subtitle": "Für Kinder und Familien - Sprache Englisch"
+        },
+        {
+          "start": "2026-12-13T14:00:00+01:00",
           "sold_out": false,
           "title": "Christmas Carol - Gastspiel",
           "subtitle": "Für Kinder und Familien - Sprache Englisch"
@@ -7682,12 +7622,6 @@
         {
           "start": "2026-12-02T09:30:00+01:00",
           "sold_out": false,
-          "title": "Märchen für Kinder",
-          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
-        },
-        {
-          "start": "2026-12-02T09:30:00+01:00",
-          "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
@@ -7896,10 +7830,22 @@
           "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
         {
+          "start": "2026-12-21T09:30:00+01:00",
+          "sold_out": true,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
+        },
+        {
           "start": "2026-12-21T11:00:00+01:00",
           "sold_out": true,
           "title": "Märchen für Kinder",
           "subtitle": "Vorstellungen für Kindergärten und Schulen - ab 4 Jahre"
+        },
+        {
+          "start": "2026-12-21T11:00:00+01:00",
+          "sold_out": false,
+          "title": "Märchen für Kinder",
+          "subtitle": "Vorstellungen für Kindergärten und Schulen ab 4 Jahre"
         },
         {
           "start": "2026-12-22T09:30:00+01:00",
@@ -8032,29 +7978,6 @@
           "sold_out": false,
           "title": "Knack den Fall !",
           "subtitle": "Zu Gast in den Märchenhütten"
-        }
-      ]
-    },
-    {
-      "title": "Christmas Carol",
-      "guid": "88506823d18dfaee",
-      "first": "2026-12-13T14:00:00+01:00",
-      "subtitles": [
-        "Für Kinder und Familien - Sprache Englisch"
-      ],
-      "venues": [
-        "Wilhelmhütte"
-      ],
-      "english": true,
-      "description": "",
-      "titles": [],
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/2052065809",
-      "dates": [
-        {
-          "start": "2026-12-13T14:00:00+01:00",
-          "sold_out": false,
-          "title": "Christmas Carol",
-          "subtitle": "Für Kinder und Familien - Sprache Englisch"
         }
       ]
     },
