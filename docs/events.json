@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T22:42:18.430176+01:00",
+  "generated": "2026-11-27T09:46:09.689260+01:00",
   "source": "https://monbijou.billeto.net",
   "events": [
     {
@@ -1702,9 +1702,9 @@
       "title": "Tapfere Schneiderlein & Schneewittchen für Kinder",
       "subtitle": "Für Kinder und Familien",
       "venue": "Jacobhütte",
-      "ticket_url": "https://monbijou.billeto.net/basket/event/43/406243603",
+      "ticket_url": "https://monbijou.billeto.net/",
       "info_url": "",
-      "sold_out": false,
+      "sold_out": true,
       "english": false,
       "audience": "familie",
       "series": "Märchen für Kinder & Familien",
@@ -5607,7 +5607,7 @@
         },
         {
           "start": "2026-12-12T13:30:00+01:00",
-          "sold_out": false,
+          "sold_out": true,
           "title": "Tapfere Schneiderlein & Schneewittchen für Kinder",
           "subtitle": "Für Kinder und Familien"
         },
